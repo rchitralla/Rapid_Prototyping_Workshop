@@ -110,9 +110,6 @@ Choose one of these three briefs, or bring your own dataset/idea.
 >
 > Prototype a tool that analyzes bike-share trip data — show popular routes, peak usage times, and trip duration distributions. Bonus: add a map view.
 
-### Bring Your Own
-Have a dataset or project idea? Bring it! Just make sure your data is in CSV format and you can describe what you want to build in 2-3 sentences.
-
 ## Language
 
 The workshop will be held in **English**. Small groups are free to collaborate in **French** among themselves.
