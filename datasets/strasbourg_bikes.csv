@@ -1,0 +1,1465 @@
+record_id,date,station_name,neighborhood,hour,pickups,returns,weather,temperature_c,day_of_week,is_holiday
+1,2024-01-01,Porte de lHopital,Centre-Ville,17,12,12,Sunny,1.4,Monday,Yes
+2,2024-01-01,Meinau,Meinau,19,5,4,Sunny,1.4,Monday,Yes
+3,2024-01-01,Lingolsheim,Lingolsheim,18,11,14,Sunny,1.4,Monday,Yes
+4,2024-01-01,Place Broglie,Centre-Ville,14,4,2,Sunny,1.4,Monday,Yes
+5,2024-01-02,Place Broglie,Centre-Ville,17,27,37,Sunny,2.6,Tuesday,No
+6,2024-01-02,Parc de lOrangerie,Orangerie,12,13,13,Sunny,2.6,Tuesday,No
+7,2024-01-02,Illkirch Graffenstaden,Illkirch,14,9,6,Sunny,2.6,Tuesday,No
+8,2024-01-03,Rue du Faubourg National,Gare,18,6,7,Sunny,3.5,Wednesday,No
+9,2024-01-03,Hopital Civil,Centre-Ville,7,3,2,Sunny,3.5,Wednesday,No
+10,2024-01-03,Cathedrale,Centre-Ville,19,5,5,Sunny,3.5,Wednesday,No
+11,2024-01-04,Lingolsheim,Lingolsheim,13,15,13,Cloudy,3.1,Thursday,No
+12,2024-01-04,Parlement Europeen,Wacken,9,19,21,Cloudy,3.1,Thursday,No
+13,2024-01-04,Parc de lOrangerie,Orangerie,8,23,15,Cloudy,3.1,Thursday,No
+14,2024-01-04,Petite France,Centre-Ville,17,21,27,Cloudy,3.1,Thursday,No
+15,2024-01-04,Cathedrale,Centre-Ville,13,14,19,Cloudy,3.1,Thursday,No
+16,2024-01-05,Porte de lHopital,Centre-Ville,8,30,31,Partly Cloudy,1.1,Friday,No
+17,2024-01-05,Petite France,Centre-Ville,12,9,6,Partly Cloudy,1.1,Friday,No
+18,2024-01-05,Cronenbourg,Cronenbourg,18,10,7,Partly Cloudy,1.1,Friday,No
+19,2024-01-06,Petite France,Centre-Ville,13,10,8,Sunny,3.8,Saturday,No
+20,2024-01-06,Schiltigheim Centre,Schiltigheim,17,12,15,Sunny,3.8,Saturday,No
+21,2024-01-06,Place Kleber,Centre-Ville,14,5,5,Sunny,3.8,Saturday,No
+22,2024-01-07,Quai des Bateliers,Centre-Ville,19,0,0,Snowy,2.4,Sunday,No
+23,2024-01-07,Place de la Republique,Republique,13,0,0,Snowy,2.4,Sunday,No
+24,2024-01-07,Meinau,Meinau,18,2,2,Snowy,2.4,Sunday,No
+25,2024-01-07,Krutenau,Krutenau,7,1,1,Snowy,2.4,Sunday,No
+26,2024-01-07,Hopital Civil,Centre-Ville,12,1,0,Snowy,2.4,Sunday,No
+27,2024-01-08,Campus Esplanade,Esplanade,7,7,9,Cloudy,3.9,Monday,No
+28,2024-01-08,Gare Centrale,Gare,18,17,22,Cloudy,3.9,Monday,No
+29,2024-01-08,Parlement Europeen,Wacken,18,25,26,Cloudy,3.9,Monday,No
+30,2024-01-08,Illkirch Graffenstaden,Illkirch,12,4,3,Cloudy,3.9,Monday,No
+31,2024-01-09,Lingolsheim,Lingolsheim,19,3,3,Rainy,0.2,Tuesday,No
+32,2024-01-09,Campus Esplanade,Esplanade,10,2,1,Rainy,0.2,Tuesday,No
+33,2024-01-09,Place Broglie,Centre-Ville,8,9,7,Rainy,0.2,Tuesday,No
+34,2024-01-10,Campus Esplanade,Esplanade,17,21,24,Cloudy,4.6,Wednesday,No
+35,2024-01-10,Place de la Republique,Republique,12,14,13,Cloudy,4.6,Wednesday,No
+36,2024-01-10,Gare Centrale,Gare,13,5,3,Cloudy,4.6,Wednesday,No
+37,2024-01-10,Cathedrale,Centre-Ville,10,10,13,Cloudy,4.6,Wednesday,No
+38,2024-01-10,Hopital Civil,Centre-Ville,9,23,19,Cloudy,4.6,Wednesday,No
+39,2024-01-11,Rue du Faubourg National,Gare,18,22,23,Partly Cloudy,1.0,Thursday,No
+40,2024-01-11,Schiltigheim Centre,Schiltigheim,14,4,3,Partly Cloudy,1.0,Thursday,No
+41,2024-01-11,Neudorf Marche,Neudorf,9,16,17,Partly Cloudy,1.0,Thursday,No
+42,2024-01-11,Place Arnold,Contades,7,4,4,Partly Cloudy,1.0,Thursday,No
+43,2024-01-12,Campus Esplanade,Esplanade,7,6,5,Sunny,-2.3,Friday,No
+44,2024-01-12,Place de la Republique,Republique,12,14,9,Sunny,-2.3,Friday,No
+45,2024-01-12,Robertsau,Robertsau,17,13,9,Sunny,-2.3,Friday,No
+46,2024-01-12,Schiltigheim Centre,Schiltigheim,13,11,9,Sunny,-2.3,Friday,No
+47,2024-01-12,Illkirch Graffenstaden,Illkirch,13,13,18,Sunny,-2.3,Friday,No
+48,2024-01-13,Campus Esplanade,Esplanade,13,5,6,Cloudy,3.8,Saturday,No
+49,2024-01-13,Parlement Europeen,Wacken,12,7,7,Cloudy,3.8,Saturday,No
+50,2024-01-13,Parc de lOrangerie,Orangerie,7,4,2,Cloudy,3.8,Saturday,No
+51,2024-01-14,Parc de lOrangerie,Orangerie,19,2,1,Cloudy,1.2,Sunday,No
+52,2024-01-14,Lingolsheim,Lingolsheim,17,9,8,Cloudy,1.2,Sunday,No
+53,2024-01-14,Cronenbourg,Cronenbourg,18,10,13,Cloudy,1.2,Sunday,No
+54,2024-01-15,Porte de lHopital,Centre-Ville,18,5,3,Snowy,4.1,Monday,No
+55,2024-01-15,Petite France,Centre-Ville,18,3,2,Snowy,4.1,Monday,No
+56,2024-01-15,Place Broglie,Centre-Ville,14,0,0,Snowy,4.1,Monday,No
+57,2024-01-15,Place de Bordeaux,Wacken,18,3,3,Snowy,4.1,Monday,No
+58,2024-01-15,Rue du Faubourg National,Gare,8,5,4,Snowy,4.1,Monday,No
+59,2024-01-16,Meinau,Meinau,17,14,14,Sunny,2.3,Tuesday,No
+60,2024-01-16,Schiltigheim Centre,Schiltigheim,17,9,6,Sunny,2.3,Tuesday,No
+61,2024-01-16,Place de la Republique,Republique,9,15,12,Sunny,2.3,Tuesday,No
+62,2024-01-17,Place de Haguenau,Haguenau,10,6,5,Sunny,3.0,Wednesday,No
+63,2024-01-17,Parc de lOrangerie,Orangerie,7,7,7,Sunny,3.0,Wednesday,No
+64,2024-01-17,Place Kleber,Centre-Ville,8,23,17,Sunny,3.0,Wednesday,No
+65,2024-01-17,Cronenbourg,Cronenbourg,10,7,5,Sunny,3.0,Wednesday,No
+66,2024-01-17,Porte de lHopital,Centre-Ville,14,10,8,Sunny,3.0,Wednesday,No
+67,2024-01-18,Meinau,Meinau,9,18,15,Sunny,2.4,Thursday,No
+68,2024-01-18,Campus Esplanade,Esplanade,19,4,3,Sunny,2.4,Thursday,No
+69,2024-01-18,Hopital Civil,Centre-Ville,14,7,7,Sunny,2.4,Thursday,No
+70,2024-01-18,Quai des Bateliers,Centre-Ville,10,6,5,Sunny,2.4,Thursday,No
+71,2024-01-18,Robertsau,Robertsau,17,19,23,Sunny,2.4,Thursday,No
+72,2024-01-19,Parc de lOrangerie,Orangerie,12,5,6,Rainy,-1.3,Friday,No
+73,2024-01-19,Place Broglie,Centre-Ville,14,3,2,Rainy,-1.3,Friday,No
+74,2024-01-19,Cathedrale,Centre-Ville,7,4,3,Rainy,-1.3,Friday,No
+75,2024-01-19,Parlement Europeen,Wacken,9,9,5,Rainy,-1.3,Friday,No
+76,2024-01-19,Place Kleber,Centre-Ville,18,5,6,Rainy,-1.3,Friday,No
+77,2024-01-20,Place de la Republique,Republique,8,3,3,Sunny,-0.6,Saturday,No
+78,2024-01-20,Schiltigheim Centre,Schiltigheim,7,3,2,Sunny,-0.6,Saturday,No
+79,2024-01-20,Meinau,Meinau,19,3,2,Sunny,-0.6,Saturday,No
+80,2024-01-21,Schiltigheim Centre,Schiltigheim,7,3,4,Sunny,4.2,Sunday,No
+81,2024-01-21,Cathedrale,Centre-Ville,12,8,4,Sunny,4.2,Sunday,No
+82,2024-01-21,Place Kleber,Centre-Ville,17,13,14,Sunny,4.2,Sunday,No
+83,2024-01-21,Robertsau,Robertsau,12,6,7,Sunny,4.2,Sunday,No
+84,2024-01-21,Gare Centrale,Gare,13,6,7,Sunny,4.2,Sunday,No
+85,2024-01-22,Place de Haguenau,Haguenau,12,5,5,Rainy,2.4,Monday,No
+86,2024-01-22,Porte de lHopital,Centre-Ville,9,7,9,Rainy,2.4,Monday,No
+87,2024-01-22,Krutenau,Krutenau,17,4,3,Rainy,2.4,Monday,No
+88,2024-01-22,Parlement Europeen,Wacken,19,3,3,Rainy,2.4,Monday,No
+89,2024-01-23,Place de Haguenau,Haguenau,18,15,15,Cloudy,1.0,Tuesday,No
+90,2024-01-23,Rue du Faubourg National,Gare,17,17,20,Cloudy,1.0,Tuesday,No
+91,2024-01-23,Place Broglie,Centre-Ville,14,3,3,Cloudy,1.0,Tuesday,No
+92,2024-01-23,Robertsau,Robertsau,7,10,7,Cloudy,1.0,Tuesday,No
+93,2024-01-24,Robertsau,Robertsau,18,12,11,Cloudy,2.7,Wednesday,No
+94,2024-01-24,Cronenbourg,Cronenbourg,7,5,4,Cloudy,2.7,Wednesday,No
+95,2024-01-24,Place de Haguenau,Haguenau,10,5,5,Cloudy,2.7,Wednesday,No
+96,2024-01-24,Petite France,Centre-Ville,7,8,8,Cloudy,2.7,Wednesday,No
+97,2024-01-25,Place Broglie,Centre-Ville,13,6,4,Rainy,3.2,Thursday,No
+98,2024-01-25,Parlement Europeen,Wacken,10,4,3,Rainy,3.2,Thursday,No
+99,2024-01-25,Schiltigheim Centre,Schiltigheim,9,7,7,Rainy,3.2,Thursday,No
+100,2024-01-26,Quai des Bateliers,Centre-Ville,19,0,0,Snowy,6.6,Friday,No
+101,2024-01-26,Rue du Faubourg National,Gare,13,2,2,Snowy,6.6,Friday,No
+102,2024-01-26,Neudorf Marche,Neudorf,13,1,1,Snowy,6.6,Friday,No
+103,2024-01-27,Petite France,Centre-Ville,12,8,7,Partly Cloudy,0.9,Saturday,No
+104,2024-01-27,Place Arnold,Contades,7,2,1,Partly Cloudy,0.9,Saturday,No
+105,2024-01-27,Place de Bordeaux,Wacken,19,5,6,Partly Cloudy,0.9,Saturday,No
+106,2024-01-28,Lingolsheim,Lingolsheim,10,0,0,Snowy,-4.4,Sunday,No
+107,2024-01-28,Krutenau,Krutenau,13,1,1,Snowy,-4.4,Sunday,No
+108,2024-01-28,Place Kleber,Centre-Ville,7,1,0,Snowy,-4.4,Sunday,No
+109,2024-01-28,Petite France,Centre-Ville,12,0,0,Snowy,-4.4,Sunday,No
+110,2024-01-29,Place de Haguenau,Haguenau,8,5,6,Rainy,1.7,Monday,No
+111,2024-01-29,Campus Esplanade,Esplanade,13,6,4,Rainy,1.7,Monday,No
+112,2024-01-29,Cronenbourg,Cronenbourg,7,5,3,Rainy,1.7,Monday,No
+113,2024-01-29,Place Arnold,Contades,7,3,2,Rainy,1.7,Monday,No
+114,2024-01-30,Gare Centrale,Gare,8,2,1,Snowy,1.8,Tuesday,No
+115,2024-01-30,Place Arnold,Contades,9,6,7,Snowy,1.8,Tuesday,No
+116,2024-01-30,Quai des Bateliers,Centre-Ville,19,0,0,Snowy,1.8,Tuesday,No
+117,2024-01-31,Place Kleber,Centre-Ville,13,14,16,Cloudy,4.3,Wednesday,No
+118,2024-01-31,Parlement Europeen,Wacken,17,10,11,Cloudy,4.3,Wednesday,No
+119,2024-01-31,Place Broglie,Centre-Ville,13,8,9,Cloudy,4.3,Wednesday,No
+120,2024-01-31,Campus Esplanade,Esplanade,8,12,14,Cloudy,4.3,Wednesday,No
+121,2024-02-01,Place Arnold,Contades,19,8,7,Cloudy,5.0,Thursday,No
+122,2024-02-01,Krutenau,Krutenau,10,6,5,Cloudy,5.0,Thursday,No
+123,2024-02-01,Cathedrale,Centre-Ville,9,22,22,Cloudy,5.0,Thursday,No
+124,2024-02-01,Cronenbourg,Cronenbourg,8,8,10,Cloudy,5.0,Thursday,No
+125,2024-02-02,Place Kleber,Centre-Ville,17,6,5,Snowy,5.7,Friday,No
+126,2024-02-02,Neudorf Marche,Neudorf,17,3,3,Snowy,5.7,Friday,No
+127,2024-02-02,Place de Haguenau,Haguenau,7,0,0,Snowy,5.7,Friday,No
+128,2024-02-02,Quai des Bateliers,Centre-Ville,12,1,0,Snowy,5.7,Friday,No
+129,2024-02-02,Parc de lOrangerie,Orangerie,9,3,3,Snowy,5.7,Friday,No
+130,2024-02-03,Neudorf Marche,Neudorf,18,16,20,Cloudy,3.8,Saturday,No
+131,2024-02-03,Robertsau,Robertsau,14,7,5,Cloudy,3.8,Saturday,No
+132,2024-02-03,Krutenau,Krutenau,13,10,11,Cloudy,3.8,Saturday,No
+133,2024-02-03,Porte de lHopital,Centre-Ville,13,5,4,Cloudy,3.8,Saturday,No
+134,2024-02-03,Schiltigheim Centre,Schiltigheim,19,3,3,Cloudy,3.8,Saturday,No
+135,2024-02-04,Place Kleber,Centre-Ville,9,2,2,Snowy,4.4,Sunday,No
+136,2024-02-04,Krutenau,Krutenau,14,1,1,Snowy,4.4,Sunday,No
+137,2024-02-04,Rue du Faubourg National,Gare,9,1,0,Snowy,4.4,Sunday,No
+138,2024-02-04,Place Broglie,Centre-Ville,19,0,0,Snowy,4.4,Sunday,No
+139,2024-02-05,Cathedrale,Centre-Ville,12,4,4,Rainy,4.8,Monday,No
+140,2024-02-05,Parc de lOrangerie,Orangerie,17,4,3,Rainy,4.8,Monday,No
+141,2024-02-05,Rue du Faubourg National,Gare,13,4,5,Rainy,4.8,Monday,No
+142,2024-02-06,Krutenau,Krutenau,12,10,13,Partly Cloudy,4.7,Tuesday,No
+143,2024-02-06,Campus Esplanade,Esplanade,7,2,1,Partly Cloudy,4.7,Tuesday,No
+144,2024-02-06,Hopital Civil,Centre-Ville,10,7,9,Partly Cloudy,4.7,Tuesday,No
+145,2024-02-06,Place Kleber,Centre-Ville,10,12,12,Partly Cloudy,4.7,Tuesday,No
+146,2024-02-06,Meinau,Meinau,13,12,13,Partly Cloudy,4.7,Tuesday,No
+147,2024-02-07,Robertsau,Robertsau,14,6,3,Cloudy,4.3,Wednesday,No
+148,2024-02-07,Place de la Republique,Republique,12,6,8,Cloudy,4.3,Wednesday,No
+149,2024-02-07,Hopital Civil,Centre-Ville,12,9,6,Cloudy,4.3,Wednesday,No
+150,2024-02-07,Quai des Bateliers,Centre-Ville,17,27,25,Cloudy,4.3,Wednesday,No
+151,2024-02-08,Krutenau,Krutenau,19,5,5,Cloudy,5.4,Thursday,No
+152,2024-02-08,Petite France,Centre-Ville,13,12,9,Cloudy,5.4,Thursday,No
+153,2024-02-08,Schiltigheim Centre,Schiltigheim,8,19,17,Cloudy,5.4,Thursday,No
+154,2024-02-09,Porte de lHopital,Centre-Ville,10,7,5,Partly Cloudy,1.2,Friday,No
+155,2024-02-09,Meinau,Meinau,14,8,9,Partly Cloudy,1.2,Friday,No
+156,2024-02-09,Petite France,Centre-Ville,10,9,10,Partly Cloudy,1.2,Friday,No
+157,2024-02-09,Schiltigheim Centre,Schiltigheim,9,20,27,Partly Cloudy,1.2,Friday,No
+158,2024-02-09,Lingolsheim,Lingolsheim,17,15,9,Partly Cloudy,1.2,Friday,No
+159,2024-02-10,Meinau,Meinau,19,4,2,Cloudy,6.0,Saturday,No
+160,2024-02-10,Place de la Republique,Republique,7,2,1,Cloudy,6.0,Saturday,No
+161,2024-02-10,Parlement Europeen,Wacken,14,3,3,Cloudy,6.0,Saturday,No
+162,2024-02-10,Place de Haguenau,Haguenau,12,5,5,Cloudy,6.0,Saturday,No
+163,2024-02-10,Neudorf Marche,Neudorf,9,9,12,Cloudy,6.0,Saturday,No
+164,2024-02-11,Robertsau,Robertsau,17,2,1,Snowy,0.6,Sunday,No
+165,2024-02-11,Place Kleber,Centre-Ville,9,1,1,Snowy,0.6,Sunday,No
+166,2024-02-11,Schiltigheim Centre,Schiltigheim,13,1,1,Snowy,0.6,Sunday,No
+167,2024-02-12,Place Arnold,Contades,14,5,5,Cloudy,2.4,Monday,No
+168,2024-02-12,Cronenbourg,Cronenbourg,19,7,5,Cloudy,2.4,Monday,No
+169,2024-02-12,Schiltigheim Centre,Schiltigheim,13,11,12,Cloudy,2.4,Monday,No
+170,2024-02-12,Place Kleber,Centre-Ville,10,9,10,Cloudy,2.4,Monday,No
+171,2024-02-12,Krutenau,Krutenau,13,14,18,Cloudy,2.4,Monday,No
+172,2024-02-13,Place Arnold,Contades,9,9,11,Partly Cloudy,5.7,Tuesday,No
+173,2024-02-13,Porte de lHopital,Centre-Ville,18,18,20,Partly Cloudy,5.7,Tuesday,No
+174,2024-02-13,Quai des Bateliers,Centre-Ville,13,7,8,Partly Cloudy,5.7,Tuesday,No
+175,2024-02-14,Illkirch Graffenstaden,Illkirch,18,21,28,Sunny,7.8,Wednesday,No
+176,2024-02-14,Cathedrale,Centre-Ville,9,15,19,Sunny,7.8,Wednesday,No
+177,2024-02-14,Hopital Civil,Centre-Ville,19,6,6,Sunny,7.8,Wednesday,No
+178,2024-02-14,Robertsau,Robertsau,19,8,5,Sunny,7.8,Wednesday,No
+179,2024-02-14,Place de la Republique,Republique,12,16,16,Sunny,7.8,Wednesday,No
+180,2024-02-15,Place Broglie,Centre-Ville,18,9,5,Rainy,3.7,Thursday,No
+181,2024-02-15,Parlement Europeen,Wacken,8,4,5,Rainy,3.7,Thursday,No
+182,2024-02-15,Parc de lOrangerie,Orangerie,7,1,0,Rainy,3.7,Thursday,No
+183,2024-02-15,Krutenau,Krutenau,17,7,5,Rainy,3.7,Thursday,No
+184,2024-02-15,Cathedrale,Centre-Ville,18,10,10,Rainy,3.7,Thursday,No
+185,2024-02-16,Hopital Civil,Centre-Ville,18,25,19,Cloudy,2.0,Friday,No
+186,2024-02-16,Neudorf Marche,Neudorf,14,10,8,Cloudy,2.0,Friday,No
+187,2024-02-16,Cronenbourg,Cronenbourg,19,9,7,Cloudy,2.0,Friday,No
+188,2024-02-16,Parc de lOrangerie,Orangerie,12,13,11,Cloudy,2.0,Friday,No
+189,2024-02-16,Meinau,Meinau,12,9,7,Cloudy,2.0,Friday,No
+190,2024-02-17,Parlement Europeen,Wacken,7,2,1,Sunny,5.2,Saturday,No
+191,2024-02-17,Rue du Faubourg National,Gare,19,4,3,Sunny,5.2,Saturday,No
+192,2024-02-17,Porte de lHopital,Centre-Ville,7,3,2,Sunny,5.2,Saturday,No
+193,2024-02-18,Rue du Faubourg National,Gare,13,1,0,Snowy,5.2,Sunday,No
+194,2024-02-18,Krutenau,Krutenau,12,1,0,Snowy,5.2,Sunday,No
+195,2024-02-18,Cronenbourg,Cronenbourg,9,1,0,Snowy,5.2,Sunday,No
+196,2024-02-18,Neudorf Marche,Neudorf,14,0,0,Snowy,5.2,Sunday,No
+197,2024-02-18,Gare Centrale,Gare,8,2,2,Snowy,5.2,Sunday,No
+198,2024-02-19,Neudorf Marche,Neudorf,14,7,9,Sunny,4.5,Monday,No
+199,2024-02-19,Parc de lOrangerie,Orangerie,10,9,5,Sunny,4.5,Monday,No
+200,2024-02-19,Parlement Europeen,Wacken,13,11,13,Sunny,4.5,Monday,No
+201,2024-02-19,Place Kleber,Centre-Ville,8,22,18,Sunny,4.5,Monday,No
+202,2024-02-19,Place Arnold,Contades,7,6,4,Sunny,4.5,Monday,No
+203,2024-02-20,Place de Haguenau,Haguenau,17,21,20,Sunny,8.9,Tuesday,No
+204,2024-02-20,Porte de lHopital,Centre-Ville,12,13,14,Sunny,8.9,Tuesday,No
+205,2024-02-20,Place de Bordeaux,Wacken,19,7,5,Sunny,8.9,Tuesday,No
+206,2024-02-20,Petite France,Centre-Ville,13,14,19,Sunny,8.9,Tuesday,No
+207,2024-02-21,Campus Esplanade,Esplanade,18,18,16,Sunny,1.6,Wednesday,No
+208,2024-02-21,Neudorf Marche,Neudorf,17,19,25,Sunny,1.6,Wednesday,No
+209,2024-02-21,Meinau,Meinau,18,11,10,Sunny,1.6,Wednesday,No
+210,2024-02-22,Meinau,Meinau,12,14,13,Sunny,10.8,Thursday,No
+211,2024-02-22,Lingolsheim,Lingolsheim,12,14,16,Sunny,10.8,Thursday,No
+212,2024-02-22,Place Arnold,Contades,7,5,3,Sunny,10.8,Thursday,No
+213,2024-02-22,Parc de lOrangerie,Orangerie,10,8,9,Sunny,10.8,Thursday,No
+214,2024-02-23,Illkirch Graffenstaden,Illkirch,17,5,4,Rainy,0.9,Friday,No
+215,2024-02-23,Place Arnold,Contades,12,2,1,Rainy,0.9,Friday,No
+216,2024-02-23,Place de Bordeaux,Wacken,7,2,1,Rainy,0.9,Friday,No
+217,2024-02-23,Robertsau,Robertsau,12,3,2,Rainy,0.9,Friday,No
+218,2024-02-23,Hopital Civil,Centre-Ville,17,10,6,Rainy,0.9,Friday,No
+219,2024-02-24,Meinau,Meinau,10,3,3,Cloudy,4.8,Saturday,No
+220,2024-02-24,Campus Esplanade,Esplanade,13,7,6,Cloudy,4.8,Saturday,No
+221,2024-02-24,Schiltigheim Centre,Schiltigheim,17,9,11,Cloudy,4.8,Saturday,No
+222,2024-02-25,Lingolsheim,Lingolsheim,10,2,1,Sunny,1.7,Sunday,No
+223,2024-02-25,Robertsau,Robertsau,8,11,7,Sunny,1.7,Sunday,No
+224,2024-02-25,Place de Bordeaux,Wacken,7,3,4,Sunny,1.7,Sunday,No
+225,2024-02-25,Rue du Faubourg National,Gare,17,14,12,Sunny,1.7,Sunday,No
+226,2024-02-25,Porte de lHopital,Centre-Ville,19,3,3,Sunny,1.7,Sunday,No
+227,2024-02-26,Hopital Civil,Centre-Ville,12,1,1,Rainy,1.8,Monday,No
+228,2024-02-26,Petite France,Centre-Ville,10,3,3,Rainy,1.8,Monday,No
+229,2024-02-26,Rue du Faubourg National,Gare,18,10,7,Rainy,1.8,Monday,No
+230,2024-02-27,Meinau,Meinau,14,12,10,Partly Cloudy,6.5,Tuesday,No
+231,2024-02-27,Place de Haguenau,Haguenau,7,11,7,Partly Cloudy,6.5,Tuesday,No
+232,2024-02-27,Schiltigheim Centre,Schiltigheim,17,19,26,Partly Cloudy,6.5,Tuesday,No
+233,2024-02-28,Campus Esplanade,Esplanade,19,1,0,Snowy,4.4,Wednesday,No
+234,2024-02-28,Place de Bordeaux,Wacken,19,1,1,Snowy,4.4,Wednesday,No
+235,2024-02-28,Lingolsheim,Lingolsheim,18,1,0,Snowy,4.4,Wednesday,No
+236,2024-02-28,Place de la Republique,Republique,19,0,0,Snowy,4.4,Wednesday,No
+237,2024-02-28,Place Arnold,Contades,18,3,1,Snowy,4.4,Wednesday,No
+238,2024-02-29,Neudorf Marche,Neudorf,13,1,0,Snowy,9.9,Thursday,No
+239,2024-02-29,Illkirch Graffenstaden,Illkirch,7,0,0,Snowy,9.9,Thursday,No
+240,2024-02-29,Parlement Europeen,Wacken,17,3,1,Snowy,9.9,Thursday,No
+241,2024-02-29,Place de Bordeaux,Wacken,14,1,0,Snowy,9.9,Thursday,No
+242,2024-02-29,Place de Haguenau,Haguenau,7,0,0,Snowy,9.9,Thursday,No
+243,2024-03-01,Campus Esplanade,Esplanade,19,8,10,Partly Cloudy,7.3,Friday,No
+244,2024-03-01,Rue du Faubourg National,Gare,17,23,16,Partly Cloudy,7.3,Friday,No
+245,2024-03-01,Schiltigheim Centre,Schiltigheim,12,28,35,Partly Cloudy,7.3,Friday,No
+246,2024-03-02,Parc de lOrangerie,Orangerie,17,7,5,Rainy,8.2,Saturday,No
+247,2024-03-02,Schiltigheim Centre,Schiltigheim,7,3,1,Rainy,8.2,Saturday,No
+248,2024-03-02,Illkirch Graffenstaden,Illkirch,7,5,6,Rainy,8.2,Saturday,No
+249,2024-03-03,Place de la Republique,Republique,17,25,33,Partly Cloudy,6.9,Sunday,No
+250,2024-03-03,Krutenau,Krutenau,12,7,7,Partly Cloudy,6.9,Sunday,No
+251,2024-03-03,Petite France,Centre-Ville,17,38,43,Partly Cloudy,6.9,Sunday,No
+252,2024-03-04,Schiltigheim Centre,Schiltigheim,9,12,10,Rainy,0.1,Monday,No
+253,2024-03-04,Illkirch Graffenstaden,Illkirch,8,12,14,Rainy,0.1,Monday,No
+254,2024-03-04,Krutenau,Krutenau,18,11,14,Rainy,0.1,Monday,No
+255,2024-03-04,Porte de lHopital,Centre-Ville,18,17,18,Rainy,0.1,Monday,No
+256,2024-03-04,Cathedrale,Centre-Ville,13,14,15,Rainy,0.1,Monday,No
+257,2024-03-05,Krutenau,Krutenau,13,8,9,Rainy,10.5,Tuesday,No
+258,2024-03-05,Neudorf Marche,Neudorf,9,12,14,Rainy,10.5,Tuesday,No
+259,2024-03-05,Cathedrale,Centre-Ville,7,10,13,Rainy,10.5,Tuesday,No
+260,2024-03-05,Meinau,Meinau,14,5,6,Rainy,10.5,Tuesday,No
+261,2024-03-06,Place de la Republique,Republique,18,32,23,Cloudy,10.3,Wednesday,No
+262,2024-03-06,Schiltigheim Centre,Schiltigheim,9,17,12,Cloudy,10.3,Wednesday,No
+263,2024-03-06,Krutenau,Krutenau,7,15,14,Cloudy,10.3,Wednesday,No
+264,2024-03-06,Neudorf Marche,Neudorf,12,20,25,Cloudy,10.3,Wednesday,No
+265,2024-03-06,Place Broglie,Centre-Ville,7,12,12,Cloudy,10.3,Wednesday,No
+266,2024-03-07,Place Arnold,Contades,9,58,57,Partly Cloudy,11.7,Thursday,No
+267,2024-03-07,Porte de lHopital,Centre-Ville,19,25,16,Partly Cloudy,11.7,Thursday,No
+268,2024-03-07,Petite France,Centre-Ville,9,32,36,Partly Cloudy,11.7,Thursday,No
+269,2024-03-07,Neudorf Marche,Neudorf,12,25,28,Partly Cloudy,11.7,Thursday,No
+270,2024-03-07,Parc de lOrangerie,Orangerie,18,30,20,Partly Cloudy,11.7,Thursday,No
+271,2024-03-08,Neudorf Marche,Neudorf,9,20,22,Rainy,1.0,Friday,No
+272,2024-03-08,Quai des Bateliers,Centre-Ville,9,18,18,Rainy,1.0,Friday,No
+273,2024-03-08,Parc de lOrangerie,Orangerie,8,14,9,Rainy,1.0,Friday,No
+274,2024-03-09,Quai des Bateliers,Centre-Ville,13,24,25,Cloudy,9.9,Saturday,No
+275,2024-03-09,Porte de lHopital,Centre-Ville,10,5,4,Cloudy,9.9,Saturday,No
+276,2024-03-09,Place Arnold,Contades,12,15,17,Cloudy,9.9,Saturday,No
+277,2024-03-09,Schiltigheim Centre,Schiltigheim,18,27,31,Cloudy,9.9,Saturday,No
+278,2024-03-10,Place de Haguenau,Haguenau,7,10,13,Sunny,5.1,Sunday,No
+279,2024-03-10,Place de Bordeaux,Wacken,19,5,3,Sunny,5.1,Sunday,No
+280,2024-03-10,Hopital Civil,Centre-Ville,9,26,28,Sunny,5.1,Sunday,No
+281,2024-03-10,Parlement Europeen,Wacken,14,12,10,Sunny,5.1,Sunday,No
+282,2024-03-11,Place de Bordeaux,Wacken,17,25,34,Cloudy,6.8,Monday,No
+283,2024-03-11,Place de Haguenau,Haguenau,18,56,70,Cloudy,6.8,Monday,No
+284,2024-03-11,Campus Esplanade,Esplanade,8,42,45,Cloudy,6.8,Monday,No
+285,2024-03-11,Lingolsheim,Lingolsheim,19,6,8,Cloudy,6.8,Monday,No
+286,2024-03-11,Illkirch Graffenstaden,Illkirch,18,42,51,Cloudy,6.8,Monday,No
+287,2024-03-12,Place Broglie,Centre-Ville,13,41,34,Cloudy,7.5,Tuesday,No
+288,2024-03-12,Hopital Civil,Centre-Ville,8,41,44,Cloudy,7.5,Tuesday,No
+289,2024-03-12,Quai des Bateliers,Centre-Ville,8,60,37,Cloudy,7.5,Tuesday,No
+290,2024-03-12,Place Arnold,Contades,9,47,42,Cloudy,7.5,Tuesday,No
+291,2024-03-13,Place de Bordeaux,Wacken,8,5,4,Sunny,11.1,Wednesday,No
+292,2024-03-13,Porte de lHopital,Centre-Ville,12,24,25,Sunny,11.1,Wednesday,No
+293,2024-03-13,Schiltigheim Centre,Schiltigheim,14,17,12,Sunny,11.1,Wednesday,No
+294,2024-03-14,Quai des Bateliers,Centre-Ville,12,32,24,Cloudy,5.8,Thursday,No
+295,2024-03-14,Hopital Civil,Centre-Ville,18,42,31,Cloudy,5.8,Thursday,No
+296,2024-03-14,Parlement Europeen,Wacken,9,50,49,Cloudy,5.8,Thursday,No
+297,2024-03-15,Meinau,Meinau,18,27,26,Partly Cloudy,13.2,Friday,No
+298,2024-03-15,Krutenau,Krutenau,8,25,23,Partly Cloudy,13.2,Friday,No
+299,2024-03-15,Quai des Bateliers,Centre-Ville,17,41,41,Partly Cloudy,13.2,Friday,No
+300,2024-03-16,Cathedrale,Centre-Ville,14,8,5,Cloudy,5.5,Saturday,No
+301,2024-03-16,Hopital Civil,Centre-Ville,9,21,29,Cloudy,5.5,Saturday,No
+302,2024-03-16,Meinau,Meinau,13,9,11,Cloudy,5.5,Saturday,No
+303,2024-03-17,Rue du Faubourg National,Gare,8,6,6,Rainy,3.4,Sunday,No
+304,2024-03-17,Porte de lHopital,Centre-Ville,10,4,3,Rainy,3.4,Sunday,No
+305,2024-03-17,Place de la Republique,Republique,19,3,2,Rainy,3.4,Sunday,No
+306,2024-03-17,Krutenau,Krutenau,14,1,0,Rainy,3.4,Sunday,No
+307,2024-03-18,Parlement Europeen,Wacken,8,19,17,Rainy,8.6,Monday,No
+308,2024-03-18,Campus Esplanade,Esplanade,12,9,7,Rainy,8.6,Monday,No
+309,2024-03-18,Illkirch Graffenstaden,Illkirch,8,14,9,Rainy,8.6,Monday,No
+310,2024-03-18,Place Broglie,Centre-Ville,8,21,18,Rainy,8.6,Monday,No
+311,2024-03-19,Krutenau,Krutenau,8,6,3,Snowy,9.2,Tuesday,No
+312,2024-03-19,Place de la Republique,Republique,7,4,5,Snowy,9.2,Tuesday,No
+313,2024-03-19,Illkirch Graffenstaden,Illkirch,13,2,1,Snowy,9.2,Tuesday,No
+314,2024-03-19,Cronenbourg,Cronenbourg,12,3,4,Snowy,9.2,Tuesday,No
+315,2024-03-20,Rue du Faubourg National,Gare,9,40,54,Partly Cloudy,8.1,Wednesday,No
+316,2024-03-20,Krutenau,Krutenau,18,60,63,Partly Cloudy,8.1,Wednesday,No
+317,2024-03-20,Place Arnold,Contades,12,20,19,Partly Cloudy,8.1,Wednesday,No
+318,2024-03-21,Parlement Europeen,Wacken,9,11,7,Rainy,2.5,Thursday,No
+319,2024-03-21,Neudorf Marche,Neudorf,12,10,12,Rainy,2.5,Thursday,No
+320,2024-03-21,Quai des Bateliers,Centre-Ville,7,7,8,Rainy,2.5,Thursday,No
+321,2024-03-21,Gare Centrale,Gare,19,4,4,Rainy,2.5,Thursday,No
+322,2024-03-22,Rue du Faubourg National,Gare,17,58,55,Partly Cloudy,7.0,Friday,No
+323,2024-03-22,Place de Haguenau,Haguenau,10,9,11,Partly Cloudy,7.0,Friday,No
+324,2024-03-22,Petite France,Centre-Ville,8,67,74,Partly Cloudy,7.0,Friday,No
+325,2024-03-22,Lingolsheim,Lingolsheim,9,39,41,Partly Cloudy,7.0,Friday,No
+326,2024-03-23,Gare Centrale,Gare,19,11,14,Cloudy,2.3,Saturday,No
+327,2024-03-23,Krutenau,Krutenau,7,6,6,Cloudy,2.3,Saturday,No
+328,2024-03-23,Illkirch Graffenstaden,Illkirch,18,16,11,Cloudy,2.3,Saturday,No
+329,2024-03-23,Campus Esplanade,Esplanade,13,8,10,Cloudy,2.3,Saturday,No
+330,2024-03-23,Quai des Bateliers,Centre-Ville,14,11,13,Cloudy,2.3,Saturday,No
+331,2024-03-24,Place de Haguenau,Haguenau,7,9,8,Sunny,5.8,Sunday,No
+332,2024-03-24,Hopital Civil,Centre-Ville,7,14,18,Sunny,5.8,Sunday,No
+333,2024-03-24,Petite France,Centre-Ville,8,24,14,Sunny,5.8,Sunday,No
+334,2024-03-25,Place de la Republique,Republique,10,10,7,Cloudy,3.9,Monday,No
+335,2024-03-25,Campus Esplanade,Esplanade,9,48,66,Cloudy,3.9,Monday,No
+336,2024-03-25,Schiltigheim Centre,Schiltigheim,18,43,40,Cloudy,3.9,Monday,No
+337,2024-03-25,Place de Haguenau,Haguenau,7,11,14,Cloudy,3.9,Monday,No
+338,2024-03-25,Gare Centrale,Gare,9,28,29,Cloudy,3.9,Monday,No
+339,2024-03-26,Hopital Civil,Centre-Ville,14,23,29,Partly Cloudy,10.9,Tuesday,No
+340,2024-03-26,Quai des Bateliers,Centre-Ville,10,14,9,Partly Cloudy,10.9,Tuesday,No
+341,2024-03-26,Krutenau,Krutenau,18,42,48,Partly Cloudy,10.9,Tuesday,No
+342,2024-03-26,Neudorf Marche,Neudorf,19,11,8,Partly Cloudy,10.9,Tuesday,No
+343,2024-03-26,Place de Haguenau,Haguenau,13,20,17,Partly Cloudy,10.9,Tuesday,No
+344,2024-03-27,Campus Esplanade,Esplanade,9,45,42,Cloudy,7.8,Wednesday,No
+345,2024-03-27,Petite France,Centre-Ville,17,50,58,Cloudy,7.8,Wednesday,No
+346,2024-03-27,Parc de lOrangerie,Orangerie,10,21,25,Cloudy,7.8,Wednesday,No
+347,2024-03-27,Krutenau,Krutenau,18,25,29,Cloudy,7.8,Wednesday,No
+348,2024-03-27,Place Arnold,Contades,19,9,9,Cloudy,7.8,Wednesday,No
+349,2024-03-28,Hopital Civil,Centre-Ville,13,36,30,Sunny,8.5,Thursday,No
+350,2024-03-28,Petite France,Centre-Ville,13,41,38,Sunny,8.5,Thursday,No
+351,2024-03-28,Meinau,Meinau,10,26,19,Sunny,8.5,Thursday,No
+352,2024-03-29,Place Kleber,Centre-Ville,19,6,6,Rainy,7.1,Friday,No
+353,2024-03-29,Parlement Europeen,Wacken,9,20,24,Rainy,7.1,Friday,No
+354,2024-03-29,Cathedrale,Centre-Ville,19,11,14,Rainy,7.1,Friday,No
+355,2024-03-29,Robertsau,Robertsau,9,13,8,Rainy,7.1,Friday,No
+356,2024-03-30,Parc de lOrangerie,Orangerie,13,7,7,Rainy,8.4,Saturday,No
+357,2024-03-30,Krutenau,Krutenau,13,7,6,Rainy,8.4,Saturday,No
+358,2024-03-30,Cathedrale,Centre-Ville,13,2,2,Rainy,8.4,Saturday,No
+359,2024-03-30,Place de Haguenau,Haguenau,19,2,2,Rainy,8.4,Saturday,No
+360,2024-03-31,Meinau,Meinau,9,5,4,Rainy,6.8,Sunday,No
+361,2024-03-31,Illkirch Graffenstaden,Illkirch,8,6,6,Rainy,6.8,Sunday,No
+362,2024-03-31,Schiltigheim Centre,Schiltigheim,13,3,3,Rainy,6.8,Sunday,No
+363,2024-03-31,Place de la Republique,Republique,13,3,2,Rainy,6.8,Sunday,No
+364,2024-03-31,Hopital Civil,Centre-Ville,19,4,5,Rainy,6.8,Sunday,No
+365,2024-04-01,Illkirch Graffenstaden,Illkirch,10,11,13,Sunny,12.4,Monday,Yes
+366,2024-04-01,Hopital Civil,Centre-Ville,17,35,35,Sunny,12.4,Monday,Yes
+367,2024-04-01,Neudorf Marche,Neudorf,19,8,6,Sunny,12.4,Monday,Yes
+368,2024-04-01,Cathedrale,Centre-Ville,12,21,17,Sunny,12.4,Monday,Yes
+369,2024-04-01,Place Arnold,Contades,18,33,34,Sunny,12.4,Monday,Yes
+370,2024-04-02,Robertsau,Robertsau,19,3,3,Snowy,6.2,Tuesday,No
+371,2024-04-02,Place Arnold,Contades,19,4,3,Snowy,6.2,Tuesday,No
+372,2024-04-02,Neudorf Marche,Neudorf,9,9,7,Snowy,6.2,Tuesday,No
+373,2024-04-03,Krutenau,Krutenau,18,54,68,Partly Cloudy,11.2,Wednesday,No
+374,2024-04-03,Quai des Bateliers,Centre-Ville,17,48,30,Partly Cloudy,11.2,Wednesday,No
+375,2024-04-03,Gare Centrale,Gare,18,33,19,Partly Cloudy,11.2,Wednesday,No
+376,2024-04-03,Hopital Civil,Centre-Ville,9,20,19,Partly Cloudy,11.2,Wednesday,No
+377,2024-04-04,Schiltigheim Centre,Schiltigheim,12,21,29,Cloudy,15.2,Thursday,No
+378,2024-04-04,Place Broglie,Centre-Ville,13,44,53,Cloudy,15.2,Thursday,No
+379,2024-04-04,Petite France,Centre-Ville,12,35,29,Cloudy,15.2,Thursday,No
+380,2024-04-05,Krutenau,Krutenau,9,15,14,Rainy,10.6,Friday,No
+381,2024-04-05,Lingolsheim,Lingolsheim,18,12,11,Rainy,10.6,Friday,No
+382,2024-04-05,Place de Haguenau,Haguenau,18,15,18,Rainy,10.6,Friday,No
+383,2024-04-06,Krutenau,Krutenau,13,21,18,Cloudy,9.0,Saturday,No
+384,2024-04-06,Parc de lOrangerie,Orangerie,19,3,3,Cloudy,9.0,Saturday,No
+385,2024-04-06,Place Arnold,Contades,8,14,14,Cloudy,9.0,Saturday,No
+386,2024-04-07,Petite France,Centre-Ville,13,4,5,Rainy,14.7,Sunday,No
+387,2024-04-07,Meinau,Meinau,12,4,4,Rainy,14.7,Sunday,No
+388,2024-04-07,Lingolsheim,Lingolsheim,8,7,8,Rainy,14.7,Sunday,No
+389,2024-04-07,Place de Haguenau,Haguenau,17,7,4,Rainy,14.7,Sunday,No
+390,2024-04-08,Place de la Republique,Republique,19,14,14,Sunny,11.5,Monday,No
+391,2024-04-08,Krutenau,Krutenau,8,32,23,Sunny,11.5,Monday,No
+392,2024-04-08,Place Broglie,Centre-Ville,17,57,77,Sunny,11.5,Monday,No
+393,2024-04-09,Place de la Republique,Republique,17,25,34,Sunny,8.4,Tuesday,No
+394,2024-04-09,Place Arnold,Contades,19,13,17,Sunny,8.4,Tuesday,No
+395,2024-04-09,Hopital Civil,Centre-Ville,12,39,34,Sunny,8.4,Tuesday,No
+396,2024-04-10,Petite France,Centre-Ville,12,23,23,Sunny,12.8,Wednesday,No
+397,2024-04-10,Parc de lOrangerie,Orangerie,10,15,15,Sunny,12.8,Wednesday,No
+398,2024-04-10,Porte de lHopital,Centre-Ville,10,35,22,Sunny,12.8,Wednesday,No
+399,2024-04-10,Illkirch Graffenstaden,Illkirch,18,20,15,Sunny,12.8,Wednesday,No
+400,2024-04-10,Gare Centrale,Gare,17,37,25,Sunny,12.8,Wednesday,No
+401,2024-04-11,Hopital Civil,Centre-Ville,18,24,20,Partly Cloudy,18.6,Thursday,No
+402,2024-04-11,Lingolsheim,Lingolsheim,19,16,14,Partly Cloudy,18.6,Thursday,No
+403,2024-04-11,Quai des Bateliers,Centre-Ville,12,41,45,Partly Cloudy,18.6,Thursday,No
+404,2024-04-11,Porte de lHopital,Centre-Ville,12,45,56,Partly Cloudy,18.6,Thursday,No
+405,2024-04-12,Place de Bordeaux,Wacken,10,14,13,Cloudy,10.6,Friday,No
+406,2024-04-12,Place de Haguenau,Haguenau,8,58,63,Cloudy,10.6,Friday,No
+407,2024-04-12,Hopital Civil,Centre-Ville,14,20,24,Cloudy,10.6,Friday,No
+408,2024-04-12,Krutenau,Krutenau,7,12,14,Cloudy,10.6,Friday,No
+409,2024-04-13,Parlement Europeen,Wacken,12,12,15,Sunny,16.1,Saturday,No
+410,2024-04-13,Rue du Faubourg National,Gare,8,15,18,Sunny,16.1,Saturday,No
+411,2024-04-13,Hopital Civil,Centre-Ville,19,12,12,Sunny,16.1,Saturday,No
+412,2024-04-13,Place Arnold,Contades,12,12,14,Sunny,16.1,Saturday,No
+413,2024-04-13,Illkirch Graffenstaden,Illkirch,13,16,18,Sunny,16.1,Saturday,No
+414,2024-04-14,Place Broglie,Centre-Ville,18,28,24,Partly Cloudy,10.7,Sunday,No
+415,2024-04-14,Parc de lOrangerie,Orangerie,18,23,28,Partly Cloudy,10.7,Sunday,No
+416,2024-04-14,Place de Haguenau,Haguenau,8,16,16,Partly Cloudy,10.7,Sunday,No
+417,2024-04-15,Krutenau,Krutenau,10,18,15,Cloudy,10.0,Monday,No
+418,2024-04-15,Gare Centrale,Gare,9,25,20,Cloudy,10.0,Monday,No
+419,2024-04-15,Parlement Europeen,Wacken,17,38,43,Cloudy,10.0,Monday,No
+420,2024-04-15,Rue du Faubourg National,Gare,9,39,25,Cloudy,10.0,Monday,No
+421,2024-04-16,Illkirch Graffenstaden,Illkirch,8,30,34,Sunny,14.4,Tuesday,No
+422,2024-04-16,Campus Esplanade,Esplanade,12,37,42,Sunny,14.4,Tuesday,No
+423,2024-04-16,Neudorf Marche,Neudorf,19,15,18,Sunny,14.4,Tuesday,No
+424,2024-04-17,Hopital Civil,Centre-Ville,14,22,24,Cloudy,9.4,Wednesday,No
+425,2024-04-17,Illkirch Graffenstaden,Illkirch,10,12,16,Cloudy,9.4,Wednesday,No
+426,2024-04-17,Rue du Faubourg National,Gare,14,21,26,Cloudy,9.4,Wednesday,No
+427,2024-04-17,Quai des Bateliers,Centre-Ville,8,52,71,Cloudy,9.4,Wednesday,No
+428,2024-04-18,Hopital Civil,Centre-Ville,17,63,64,Partly Cloudy,10.7,Thursday,No
+429,2024-04-18,Place de la Republique,Republique,14,18,18,Partly Cloudy,10.7,Thursday,No
+430,2024-04-18,Lingolsheim,Lingolsheim,8,44,43,Partly Cloudy,10.7,Thursday,No
+431,2024-04-19,Cronenbourg,Cronenbourg,7,19,14,Cloudy,12.9,Friday,No
+432,2024-04-19,Place Broglie,Centre-Ville,13,44,27,Cloudy,12.9,Friday,No
+433,2024-04-19,Illkirch Graffenstaden,Illkirch,14,5,5,Cloudy,12.9,Friday,No
+434,2024-04-20,Robertsau,Robertsau,17,28,27,Cloudy,9.8,Saturday,No
+435,2024-04-20,Petite France,Centre-Ville,13,27,23,Cloudy,9.8,Saturday,No
+436,2024-04-20,Schiltigheim Centre,Schiltigheim,12,14,15,Cloudy,9.8,Saturday,No
+437,2024-04-20,Parc de lOrangerie,Orangerie,7,10,6,Cloudy,9.8,Saturday,No
+438,2024-04-21,Place de la Republique,Republique,9,25,33,Cloudy,13.4,Sunday,No
+439,2024-04-21,Lingolsheim,Lingolsheim,8,18,14,Cloudy,13.4,Sunday,No
+440,2024-04-21,Place de Bordeaux,Wacken,9,17,23,Cloudy,13.4,Sunday,No
+441,2024-04-21,Krutenau,Krutenau,18,25,25,Cloudy,13.4,Sunday,No
+442,2024-04-22,Porte de lHopital,Centre-Ville,14,5,6,Rainy,14.5,Monday,No
+443,2024-04-22,Krutenau,Krutenau,9,19,13,Rainy,14.5,Monday,No
+444,2024-04-22,Place Kleber,Centre-Ville,10,6,4,Rainy,14.5,Monday,No
+445,2024-04-22,Hopital Civil,Centre-Ville,17,10,9,Rainy,14.5,Monday,No
+446,2024-04-22,Meinau,Meinau,13,8,6,Rainy,14.5,Monday,No
+447,2024-04-23,Place Arnold,Contades,17,23,23,Cloudy,9.1,Tuesday,No
+448,2024-04-23,Gare Centrale,Gare,19,16,9,Cloudy,9.1,Tuesday,No
+449,2024-04-23,Place de la Republique,Republique,14,16,21,Cloudy,9.1,Tuesday,No
+450,2024-04-23,Place de Bordeaux,Wacken,10,15,17,Cloudy,9.1,Tuesday,No
+451,2024-04-24,Parlement Europeen,Wacken,19,12,8,Partly Cloudy,11.2,Wednesday,No
+452,2024-04-24,Cathedrale,Centre-Ville,12,17,12,Partly Cloudy,11.2,Wednesday,No
+453,2024-04-24,Place de Haguenau,Haguenau,12,21,19,Partly Cloudy,11.2,Wednesday,No
+454,2024-04-25,Hopital Civil,Centre-Ville,12,16,20,Rainy,9.4,Thursday,No
+455,2024-04-25,Place de la Republique,Republique,19,5,3,Rainy,9.4,Thursday,No
+456,2024-04-25,Krutenau,Krutenau,19,6,8,Rainy,9.4,Thursday,No
+457,2024-04-25,Gare Centrale,Gare,19,2,1,Rainy,9.4,Thursday,No
+458,2024-04-25,Cathedrale,Centre-Ville,19,7,5,Rainy,9.4,Thursday,No
+459,2024-04-26,Lingolsheim,Lingolsheim,17,46,59,Partly Cloudy,12.2,Friday,No
+460,2024-04-26,Gare Centrale,Gare,19,13,12,Partly Cloudy,12.2,Friday,No
+461,2024-04-26,Porte de lHopital,Centre-Ville,18,59,56,Partly Cloudy,12.2,Friday,No
+462,2024-04-27,Krutenau,Krutenau,13,3,2,Snowy,7.5,Saturday,No
+463,2024-04-27,Place de Bordeaux,Wacken,9,4,4,Snowy,7.5,Saturday,No
+464,2024-04-27,Place Broglie,Centre-Ville,18,7,5,Snowy,7.5,Saturday,No
+465,2024-04-27,Cronenbourg,Cronenbourg,10,2,1,Snowy,7.5,Saturday,No
+466,2024-04-27,Neudorf Marche,Neudorf,10,1,1,Snowy,7.5,Saturday,No
+467,2024-04-28,Petite France,Centre-Ville,7,9,10,Sunny,18.2,Sunday,No
+468,2024-04-28,Schiltigheim Centre,Schiltigheim,13,10,8,Sunny,18.2,Sunday,No
+469,2024-04-28,Place de la Republique,Republique,12,13,12,Sunny,18.2,Sunday,No
+470,2024-04-29,Place de la Republique,Republique,13,7,9,Rainy,9.6,Monday,No
+471,2024-04-29,Illkirch Graffenstaden,Illkirch,13,7,7,Rainy,9.6,Monday,No
+472,2024-04-29,Petite France,Centre-Ville,7,7,7,Rainy,9.6,Monday,No
+473,2024-04-29,Parc de lOrangerie,Orangerie,19,10,7,Rainy,9.6,Monday,No
+474,2024-04-29,Parlement Europeen,Wacken,9,13,15,Rainy,9.6,Monday,No
+475,2024-04-30,Place de Bordeaux,Wacken,14,9,11,Sunny,13.7,Tuesday,No
+476,2024-04-30,Campus Esplanade,Esplanade,18,26,34,Sunny,13.7,Tuesday,No
+477,2024-04-30,Neudorf Marche,Neudorf,7,20,12,Sunny,13.7,Tuesday,No
+478,2024-05-01,Quai des Bateliers,Centre-Ville,18,40,44,Cloudy,11.6,Wednesday,Yes
+479,2024-05-01,Place de Bordeaux,Wacken,14,10,8,Cloudy,11.6,Wednesday,Yes
+480,2024-05-01,Parlement Europeen,Wacken,19,5,4,Cloudy,11.6,Wednesday,Yes
+481,2024-05-02,Krutenau,Krutenau,13,16,14,Cloudy,13.3,Thursday,No
+482,2024-05-02,Place Arnold,Contades,7,12,10,Cloudy,13.3,Thursday,No
+483,2024-05-02,Meinau,Meinau,10,21,18,Cloudy,13.3,Thursday,No
+484,2024-05-02,Campus Esplanade,Esplanade,13,16,14,Cloudy,13.3,Thursday,No
+485,2024-05-02,Parlement Europeen,Wacken,12,33,32,Cloudy,13.3,Thursday,No
+486,2024-05-03,Petite France,Centre-Ville,8,37,39,Cloudy,16.4,Friday,No
+487,2024-05-03,Krutenau,Krutenau,7,16,17,Cloudy,16.4,Friday,No
+488,2024-05-03,Quai des Bateliers,Centre-Ville,18,57,65,Cloudy,16.4,Friday,No
+489,2024-05-03,Hopital Civil,Centre-Ville,10,14,8,Cloudy,16.4,Friday,No
+490,2024-05-03,Place de Bordeaux,Wacken,19,14,8,Cloudy,16.4,Friday,No
+491,2024-05-04,Place Broglie,Centre-Ville,7,9,8,Partly Cloudy,13.2,Saturday,No
+492,2024-05-04,Cronenbourg,Cronenbourg,17,23,28,Partly Cloudy,13.2,Saturday,No
+493,2024-05-04,Rue du Faubourg National,Gare,13,19,14,Partly Cloudy,13.2,Saturday,No
+494,2024-05-04,Campus Esplanade,Esplanade,8,19,21,Partly Cloudy,13.2,Saturday,No
+495,2024-05-04,Meinau,Meinau,19,12,11,Partly Cloudy,13.2,Saturday,No
+496,2024-05-05,Petite France,Centre-Ville,18,20,12,Partly Cloudy,17.4,Sunday,No
+497,2024-05-05,Place Kleber,Centre-Ville,10,9,11,Partly Cloudy,17.4,Sunday,No
+498,2024-05-05,Quai des Bateliers,Centre-Ville,9,16,16,Partly Cloudy,17.4,Sunday,No
+499,2024-05-05,Parc de lOrangerie,Orangerie,8,24,22,Partly Cloudy,17.4,Sunday,No
+500,2024-05-06,Porte de lHopital,Centre-Ville,9,52,37,Cloudy,18.2,Monday,No
+501,2024-05-06,Place de Bordeaux,Wacken,13,29,29,Cloudy,18.2,Monday,No
+502,2024-05-06,Place de Haguenau,Haguenau,7,17,10,Cloudy,18.2,Monday,No
+503,2024-05-06,Neudorf Marche,Neudorf,13,21,29,Cloudy,18.2,Monday,No
+504,2024-05-07,Cathedrale,Centre-Ville,14,18,11,Sunny,12.9,Tuesday,No
+505,2024-05-07,Schiltigheim Centre,Schiltigheim,9,45,31,Sunny,12.9,Tuesday,No
+506,2024-05-07,Parc de lOrangerie,Orangerie,8,43,34,Sunny,12.9,Tuesday,No
+507,2024-05-07,Parlement Europeen,Wacken,18,29,22,Sunny,12.9,Tuesday,No
+508,2024-05-08,Porte de lHopital,Centre-Ville,12,31,32,Sunny,19.5,Wednesday,No
+509,2024-05-08,Place de Bordeaux,Wacken,7,14,16,Sunny,19.5,Wednesday,No
+510,2024-05-08,Robertsau,Robertsau,10,15,20,Sunny,19.5,Wednesday,No
+511,2024-05-08,Quai des Bateliers,Centre-Ville,13,27,23,Sunny,19.5,Wednesday,No
+512,2024-05-09,Place Arnold,Contades,14,8,7,Sunny,14.8,Thursday,Yes
+513,2024-05-09,Porte de lHopital,Centre-Ville,19,17,16,Sunny,14.8,Thursday,Yes
+514,2024-05-09,Campus Esplanade,Esplanade,9,21,15,Sunny,14.8,Thursday,Yes
+515,2024-05-09,Place de la Republique,Republique,8,16,17,Sunny,14.8,Thursday,Yes
+516,2024-05-10,Quai des Bateliers,Centre-Ville,12,8,11,Rainy,13.8,Friday,No
+517,2024-05-10,Place de la Republique,Republique,12,9,8,Rainy,13.8,Friday,No
+518,2024-05-10,Neudorf Marche,Neudorf,9,15,20,Rainy,13.8,Friday,No
+519,2024-05-10,Gare Centrale,Gare,8,8,7,Rainy,13.8,Friday,No
+520,2024-05-11,Place Kleber,Centre-Ville,9,25,34,Sunny,11.3,Saturday,No
+521,2024-05-11,Krutenau,Krutenau,8,30,19,Sunny,11.3,Saturday,No
+522,2024-05-11,Gare Centrale,Gare,19,13,9,Sunny,11.3,Saturday,No
+523,2024-05-11,Campus Esplanade,Esplanade,18,29,29,Sunny,11.3,Saturday,No
+524,2024-05-11,Cathedrale,Centre-Ville,10,12,9,Sunny,11.3,Saturday,No
+525,2024-05-12,Neudorf Marche,Neudorf,19,2,1,Rainy,13.3,Sunday,No
+526,2024-05-12,Porte de lHopital,Centre-Ville,8,12,14,Rainy,13.3,Sunday,No
+527,2024-05-12,Parlement Europeen,Wacken,13,2,1,Rainy,13.3,Sunday,No
+528,2024-05-12,Cathedrale,Centre-Ville,17,13,16,Rainy,13.3,Sunday,No
+529,2024-05-13,Gare Centrale,Gare,14,4,2,Rainy,15.7,Monday,No
+530,2024-05-13,Cronenbourg,Cronenbourg,13,10,6,Rainy,15.7,Monday,No
+531,2024-05-13,Robertsau,Robertsau,9,10,9,Rainy,15.7,Monday,No
+532,2024-05-13,Porte de lHopital,Centre-Ville,8,13,16,Rainy,15.7,Monday,No
+533,2024-05-14,Petite France,Centre-Ville,17,15,20,Rainy,17.1,Tuesday,No
+534,2024-05-14,Place de la Republique,Republique,18,12,11,Rainy,17.1,Tuesday,No
+535,2024-05-14,Place de Haguenau,Haguenau,10,5,5,Rainy,17.1,Tuesday,No
+536,2024-05-14,Parc de lOrangerie,Orangerie,8,11,14,Rainy,17.1,Tuesday,No
+537,2024-05-15,Lingolsheim,Lingolsheim,13,17,12,Cloudy,12.3,Wednesday,No
+538,2024-05-15,Hopital Civil,Centre-Ville,18,50,41,Cloudy,12.3,Wednesday,No
+539,2024-05-15,Krutenau,Krutenau,14,23,21,Cloudy,12.3,Wednesday,No
+540,2024-05-15,Robertsau,Robertsau,10,15,18,Cloudy,12.3,Wednesday,No
+541,2024-05-15,Place de Haguenau,Haguenau,8,32,31,Cloudy,12.3,Wednesday,No
+542,2024-05-16,Meinau,Meinau,9,43,52,Partly Cloudy,13.5,Thursday,No
+543,2024-05-16,Place Broglie,Centre-Ville,14,25,16,Partly Cloudy,13.5,Thursday,No
+544,2024-05-16,Petite France,Centre-Ville,18,54,57,Partly Cloudy,13.5,Thursday,No
+545,2024-05-16,Schiltigheim Centre,Schiltigheim,19,12,7,Partly Cloudy,13.5,Thursday,No
+546,2024-05-17,Krutenau,Krutenau,17,16,17,Rainy,16.5,Friday,No
+547,2024-05-17,Place Arnold,Contades,17,14,16,Rainy,16.5,Friday,No
+548,2024-05-17,Gare Centrale,Gare,12,4,4,Rainy,16.5,Friday,No
+549,2024-05-18,Place Broglie,Centre-Ville,12,12,10,Rainy,20.1,Saturday,No
+550,2024-05-18,Krutenau,Krutenau,17,10,6,Rainy,20.1,Saturday,No
+551,2024-05-18,Place Arnold,Contades,12,5,3,Rainy,20.1,Saturday,No
+552,2024-05-18,Place de Bordeaux,Wacken,14,3,2,Rainy,20.1,Saturday,No
+553,2024-05-19,Place Broglie,Centre-Ville,7,4,3,Rainy,16.7,Sunday,No
+554,2024-05-19,Place de Haguenau,Haguenau,13,3,3,Rainy,16.7,Sunday,No
+555,2024-05-19,Place Kleber,Centre-Ville,7,2,2,Rainy,16.7,Sunday,No
+556,2024-05-19,Illkirch Graffenstaden,Illkirch,8,3,3,Rainy,16.7,Sunday,No
+557,2024-05-20,Porte de lHopital,Centre-Ville,19,22,16,Partly Cloudy,10.5,Monday,No
+558,2024-05-20,Place de Haguenau,Haguenau,12,31,26,Partly Cloudy,10.5,Monday,No
+559,2024-05-20,Neudorf Marche,Neudorf,12,18,24,Partly Cloudy,10.5,Monday,No
+560,2024-05-20,Cathedrale,Centre-Ville,14,10,8,Partly Cloudy,10.5,Monday,No
+561,2024-05-20,Quai des Bateliers,Centre-Ville,10,20,22,Partly Cloudy,10.5,Monday,No
+562,2024-05-21,Quai des Bateliers,Centre-Ville,8,21,23,Rainy,15.3,Tuesday,No
+563,2024-05-21,Lingolsheim,Lingolsheim,10,8,10,Rainy,15.3,Tuesday,No
+564,2024-05-21,Place de Bordeaux,Wacken,19,4,4,Rainy,15.3,Tuesday,No
+565,2024-05-21,Schiltigheim Centre,Schiltigheim,8,16,21,Rainy,15.3,Tuesday,No
+566,2024-05-21,Meinau,Meinau,18,23,21,Rainy,15.3,Tuesday,No
+567,2024-05-22,Meinau,Meinau,18,12,8,Rainy,16.7,Wednesday,No
+568,2024-05-22,Campus Esplanade,Esplanade,12,11,9,Rainy,16.7,Wednesday,No
+569,2024-05-22,Schiltigheim Centre,Schiltigheim,7,7,9,Rainy,16.7,Wednesday,No
+570,2024-05-22,Place Arnold,Contades,12,8,9,Rainy,16.7,Wednesday,No
+571,2024-05-22,Hopital Civil,Centre-Ville,14,14,8,Rainy,16.7,Wednesday,No
+572,2024-05-23,Robertsau,Robertsau,14,13,15,Cloudy,16.0,Thursday,No
+573,2024-05-23,Rue du Faubourg National,Gare,18,16,20,Cloudy,16.0,Thursday,No
+574,2024-05-23,Cathedrale,Centre-Ville,13,34,33,Cloudy,16.0,Thursday,No
+575,2024-05-23,Petite France,Centre-Ville,10,5,3,Cloudy,16.0,Thursday,No
+576,2024-05-23,Krutenau,Krutenau,14,13,9,Cloudy,16.0,Thursday,No
+577,2024-05-24,Hopital Civil,Centre-Ville,19,11,11,Cloudy,14.9,Friday,No
+578,2024-05-24,Campus Esplanade,Esplanade,10,17,19,Cloudy,14.9,Friday,No
+579,2024-05-24,Neudorf Marche,Neudorf,19,14,19,Cloudy,14.9,Friday,No
+580,2024-05-24,Place Arnold,Contades,19,14,9,Cloudy,14.9,Friday,No
+581,2024-05-25,Krutenau,Krutenau,14,2,2,Snowy,16.7,Saturday,No
+582,2024-05-25,Rue du Faubourg National,Gare,17,5,6,Snowy,16.7,Saturday,No
+583,2024-05-25,Gare Centrale,Gare,19,2,2,Snowy,16.7,Saturday,No
+584,2024-05-25,Hopital Civil,Centre-Ville,12,2,2,Snowy,16.7,Saturday,No
+585,2024-05-26,Petite France,Centre-Ville,18,37,51,Partly Cloudy,15.1,Sunday,No
+586,2024-05-26,Illkirch Graffenstaden,Illkirch,17,20,14,Partly Cloudy,15.1,Sunday,No
+587,2024-05-26,Place Broglie,Centre-Ville,18,22,18,Partly Cloudy,15.1,Sunday,No
+588,2024-05-26,Krutenau,Krutenau,9,15,9,Partly Cloudy,15.1,Sunday,No
+589,2024-05-26,Parlement Europeen,Wacken,9,21,17,Partly Cloudy,15.1,Sunday,No
+590,2024-05-27,Krutenau,Krutenau,8,27,16,Sunny,13.7,Monday,No
+591,2024-05-27,Porte de lHopital,Centre-Ville,12,29,29,Sunny,13.7,Monday,No
+592,2024-05-27,Lingolsheim,Lingolsheim,12,22,25,Sunny,13.7,Monday,No
+593,2024-05-28,Petite France,Centre-Ville,9,53,43,Sunny,11.9,Tuesday,No
+594,2024-05-28,Place de Haguenau,Haguenau,19,23,24,Sunny,11.9,Tuesday,No
+595,2024-05-28,Place Arnold,Contades,19,16,9,Sunny,11.9,Tuesday,No
+596,2024-05-28,Quai des Bateliers,Centre-Ville,10,16,15,Sunny,11.9,Tuesday,No
+597,2024-05-29,Illkirch Graffenstaden,Illkirch,12,6,7,Rainy,17.6,Wednesday,No
+598,2024-05-29,Gare Centrale,Gare,18,13,13,Rainy,17.6,Wednesday,No
+599,2024-05-29,Campus Esplanade,Esplanade,19,5,3,Rainy,17.6,Wednesday,No
+600,2024-05-30,Cronenbourg,Cronenbourg,9,11,15,Sunny,16.9,Thursday,No
+601,2024-05-30,Meinau,Meinau,14,16,21,Sunny,16.9,Thursday,No
+602,2024-05-30,Illkirch Graffenstaden,Illkirch,19,9,10,Sunny,16.9,Thursday,No
+603,2024-05-31,Place de Haguenau,Haguenau,12,21,13,Partly Cloudy,13.7,Friday,No
+604,2024-05-31,Hopital Civil,Centre-Ville,13,37,29,Partly Cloudy,13.7,Friday,No
+605,2024-05-31,Place Broglie,Centre-Ville,18,58,75,Partly Cloudy,13.7,Friday,No
+606,2024-06-01,Place Broglie,Centre-Ville,17,49,54,Partly Cloudy,20.3,Saturday,No
+607,2024-06-01,Quai des Bateliers,Centre-Ville,13,20,12,Partly Cloudy,20.3,Saturday,No
+608,2024-06-01,Neudorf Marche,Neudorf,8,21,15,Partly Cloudy,20.3,Saturday,No
+609,2024-06-01,Meinau,Meinau,8,30,26,Partly Cloudy,20.3,Saturday,No
+610,2024-06-02,Neudorf Marche,Neudorf,19,11,11,Sunny,18.8,Sunday,No
+611,2024-06-02,Campus Esplanade,Esplanade,9,34,33,Sunny,18.8,Sunday,No
+612,2024-06-02,Porte de lHopital,Centre-Ville,7,17,15,Sunny,18.8,Sunday,No
+613,2024-06-02,Place Arnold,Contades,7,13,13,Sunny,18.8,Sunday,No
+614,2024-06-02,Cathedrale,Centre-Ville,12,27,23,Sunny,18.8,Sunday,No
+615,2024-06-03,Place Broglie,Centre-Ville,19,28,20,Sunny,19.7,Monday,No
+616,2024-06-03,Quai des Bateliers,Centre-Ville,17,49,42,Sunny,19.7,Monday,No
+617,2024-06-03,Robertsau,Robertsau,8,59,58,Sunny,19.7,Monday,No
+618,2024-06-03,Gare Centrale,Gare,19,16,11,Sunny,19.7,Monday,No
+619,2024-06-03,Rue du Faubourg National,Gare,17,48,44,Sunny,19.7,Monday,No
+620,2024-06-04,Parc de lOrangerie,Orangerie,9,40,55,Partly Cloudy,18.4,Tuesday,No
+621,2024-06-04,Schiltigheim Centre,Schiltigheim,19,24,29,Partly Cloudy,18.4,Tuesday,No
+622,2024-06-04,Place de la Republique,Republique,12,38,47,Partly Cloudy,18.4,Tuesday,No
+623,2024-06-05,Krutenau,Krutenau,10,18,20,Partly Cloudy,16.6,Wednesday,No
+624,2024-06-05,Robertsau,Robertsau,10,15,19,Partly Cloudy,16.6,Wednesday,No
+625,2024-06-05,Place de Haguenau,Haguenau,9,33,28,Partly Cloudy,16.6,Wednesday,No
+626,2024-06-05,Neudorf Marche,Neudorf,13,34,34,Partly Cloudy,16.6,Wednesday,No
+627,2024-06-06,Hopital Civil,Centre-Ville,18,68,89,Cloudy,15.9,Thursday,No
+628,2024-06-06,Krutenau,Krutenau,14,5,5,Cloudy,15.9,Thursday,No
+629,2024-06-06,Schiltigheim Centre,Schiltigheim,7,14,10,Cloudy,15.9,Thursday,No
+630,2024-06-06,Neudorf Marche,Neudorf,13,30,24,Cloudy,15.9,Thursday,No
+631,2024-06-07,Place de Bordeaux,Wacken,10,26,25,Cloudy,20.5,Friday,No
+632,2024-06-07,Meinau,Meinau,10,20,24,Cloudy,20.5,Friday,No
+633,2024-06-07,Petite France,Centre-Ville,14,35,27,Cloudy,20.5,Friday,No
+634,2024-06-07,Rue du Faubourg National,Gare,18,34,30,Cloudy,20.5,Friday,No
+635,2024-06-07,Campus Esplanade,Esplanade,8,47,55,Cloudy,20.5,Friday,No
+636,2024-06-08,Quai des Bateliers,Centre-Ville,14,12,7,Sunny,13.3,Saturday,No
+637,2024-06-08,Schiltigheim Centre,Schiltigheim,9,30,31,Sunny,13.3,Saturday,No
+638,2024-06-08,Petite France,Centre-Ville,12,20,20,Sunny,13.3,Saturday,No
+639,2024-06-08,Neudorf Marche,Neudorf,10,8,5,Sunny,13.3,Saturday,No
+640,2024-06-08,Place Broglie,Centre-Ville,12,15,19,Sunny,13.3,Saturday,No
+641,2024-06-09,Place de la Republique,Republique,18,30,31,Sunny,18.0,Sunday,No
+642,2024-06-09,Rue du Faubourg National,Gare,7,7,8,Sunny,18.0,Sunday,No
+643,2024-06-09,Meinau,Meinau,8,11,13,Sunny,18.0,Sunday,No
+644,2024-06-10,Petite France,Centre-Ville,7,29,32,Partly Cloudy,19.6,Monday,No
+645,2024-06-10,Campus Esplanade,Esplanade,8,46,30,Partly Cloudy,19.6,Monday,No
+646,2024-06-10,Place de Bordeaux,Wacken,7,34,42,Partly Cloudy,19.6,Monday,No
+647,2024-06-11,Place Kleber,Centre-Ville,19,16,17,Sunny,14.7,Tuesday,No
+648,2024-06-11,Place de Bordeaux,Wacken,18,66,72,Sunny,14.7,Tuesday,No
+649,2024-06-11,Cronenbourg,Cronenbourg,12,11,7,Sunny,14.7,Tuesday,No
+650,2024-06-11,Parlement Europeen,Wacken,7,19,16,Sunny,14.7,Tuesday,No
+651,2024-06-12,Place de Bordeaux,Wacken,9,43,60,Sunny,19.4,Wednesday,No
+652,2024-06-12,Meinau,Meinau,17,53,31,Sunny,19.4,Wednesday,No
+653,2024-06-12,Petite France,Centre-Ville,12,50,40,Sunny,19.4,Wednesday,No
+654,2024-06-12,Place de la Republique,Republique,9,39,34,Sunny,19.4,Wednesday,No
+655,2024-06-12,Parlement Europeen,Wacken,18,54,40,Sunny,19.4,Wednesday,No
+656,2024-06-13,Hopital Civil,Centre-Ville,18,74,69,Sunny,23.5,Thursday,No
+657,2024-06-13,Cronenbourg,Cronenbourg,12,29,24,Sunny,23.5,Thursday,No
+658,2024-06-13,Meinau,Meinau,8,16,14,Sunny,23.5,Thursday,No
+659,2024-06-13,Parc de lOrangerie,Orangerie,7,17,21,Sunny,23.5,Thursday,No
+660,2024-06-13,Parlement Europeen,Wacken,19,17,11,Sunny,23.5,Thursday,No
+661,2024-06-14,Campus Esplanade,Esplanade,17,51,64,Sunny,25.3,Friday,No
+662,2024-06-14,Place Kleber,Centre-Ville,12,41,32,Sunny,25.3,Friday,No
+663,2024-06-14,Place de Haguenau,Haguenau,10,18,19,Sunny,25.3,Friday,No
+664,2024-06-15,Parc de lOrangerie,Orangerie,12,15,17,Sunny,15.7,Saturday,No
+665,2024-06-15,Porte de lHopital,Centre-Ville,9,33,30,Sunny,15.7,Saturday,No
+666,2024-06-15,Hopital Civil,Centre-Ville,13,25,16,Sunny,15.7,Saturday,No
+667,2024-06-15,Place Broglie,Centre-Ville,9,20,14,Sunny,15.7,Saturday,No
+668,2024-06-16,Porte de lHopital,Centre-Ville,7,5,5,Rainy,18.1,Sunday,No
+669,2024-06-16,Robertsau,Robertsau,7,1,0,Rainy,18.1,Sunday,No
+670,2024-06-16,Hopital Civil,Centre-Ville,19,4,3,Rainy,18.1,Sunday,No
+671,2024-06-16,Rue du Faubourg National,Gare,19,2,1,Rainy,18.1,Sunday,No
+672,2024-06-16,Krutenau,Krutenau,9,9,8,Rainy,18.1,Sunday,No
+673,2024-06-17,Cathedrale,Centre-Ville,18,32,29,Sunny,22.6,Monday,No
+674,2024-06-17,Place de Bordeaux,Wacken,19,27,24,Sunny,22.6,Monday,No
+675,2024-06-17,Place Kleber,Centre-Ville,10,29,35,Sunny,22.6,Monday,No
+676,2024-06-17,Meinau,Meinau,9,52,36,Sunny,22.6,Monday,No
+677,2024-06-17,Robertsau,Robertsau,7,19,20,Sunny,22.6,Monday,No
+678,2024-06-18,Robertsau,Robertsau,18,20,23,Rainy,24.2,Tuesday,No
+679,2024-06-18,Place de Bordeaux,Wacken,9,22,13,Rainy,24.2,Tuesday,No
+680,2024-06-18,Neudorf Marche,Neudorf,17,16,18,Rainy,24.2,Tuesday,No
+681,2024-06-18,Petite France,Centre-Ville,18,24,29,Rainy,24.2,Tuesday,No
+682,2024-06-19,Rue du Faubourg National,Gare,18,24,25,Rainy,20.6,Wednesday,No
+683,2024-06-19,Gare Centrale,Gare,8,23,30,Rainy,20.6,Wednesday,No
+684,2024-06-19,Porte de lHopital,Centre-Ville,13,20,25,Rainy,20.6,Wednesday,No
+685,2024-06-20,Parc de lOrangerie,Orangerie,9,37,49,Sunny,20.4,Thursday,No
+686,2024-06-20,Cathedrale,Centre-Ville,10,18,18,Sunny,20.4,Thursday,No
+687,2024-06-20,Place de Haguenau,Haguenau,17,48,66,Sunny,20.4,Thursday,No
+688,2024-06-20,Krutenau,Krutenau,13,25,28,Sunny,20.4,Thursday,No
+689,2024-06-20,Meinau,Meinau,9,46,49,Sunny,20.4,Thursday,No
+690,2024-06-21,Meinau,Meinau,9,26,35,Partly Cloudy,22.4,Friday,No
+691,2024-06-21,Porte de lHopital,Centre-Ville,10,22,24,Partly Cloudy,22.4,Friday,No
+692,2024-06-21,Place de Haguenau,Haguenau,17,66,66,Partly Cloudy,22.4,Friday,No
+693,2024-06-22,Hopital Civil,Centre-Ville,9,35,30,Partly Cloudy,20.2,Saturday,No
+694,2024-06-22,Meinau,Meinau,9,33,29,Partly Cloudy,20.2,Saturday,No
+695,2024-06-22,Illkirch Graffenstaden,Illkirch,19,9,10,Partly Cloudy,20.2,Saturday,No
+696,2024-06-22,Schiltigheim Centre,Schiltigheim,19,11,11,Partly Cloudy,20.2,Saturday,No
+697,2024-06-22,Place Arnold,Contades,17,22,29,Partly Cloudy,20.2,Saturday,No
+698,2024-06-23,Parc de lOrangerie,Orangerie,10,9,7,Partly Cloudy,21.9,Sunday,No
+699,2024-06-23,Cronenbourg,Cronenbourg,14,10,8,Partly Cloudy,21.9,Sunday,No
+700,2024-06-23,Place de la Republique,Republique,14,11,10,Partly Cloudy,21.9,Sunday,No
+701,2024-06-23,Porte de lHopital,Centre-Ville,7,13,13,Partly Cloudy,21.9,Sunday,No
+702,2024-06-23,Place de Haguenau,Haguenau,7,8,9,Partly Cloudy,21.9,Sunday,No
+703,2024-06-24,Krutenau,Krutenau,14,22,19,Sunny,17.4,Monday,No
+704,2024-06-24,Porte de lHopital,Centre-Ville,17,69,84,Sunny,17.4,Monday,No
+705,2024-06-24,Place de Bordeaux,Wacken,18,37,35,Sunny,17.4,Monday,No
+706,2024-06-25,Campus Esplanade,Esplanade,10,28,22,Partly Cloudy,23.2,Tuesday,No
+707,2024-06-25,Robertsau,Robertsau,7,24,30,Partly Cloudy,23.2,Tuesday,No
+708,2024-06-25,Cronenbourg,Cronenbourg,17,43,36,Partly Cloudy,23.2,Tuesday,No
+709,2024-06-25,Quai des Bateliers,Centre-Ville,8,74,60,Partly Cloudy,23.2,Tuesday,No
+710,2024-06-26,Place Broglie,Centre-Ville,12,47,57,Sunny,19.9,Wednesday,No
+711,2024-06-26,Quai des Bateliers,Centre-Ville,9,76,104,Sunny,19.9,Wednesday,No
+712,2024-06-26,Parc de lOrangerie,Orangerie,7,10,11,Sunny,19.9,Wednesday,No
+713,2024-06-26,Campus Esplanade,Esplanade,9,52,63,Sunny,19.9,Wednesday,No
+714,2024-06-26,Neudorf Marche,Neudorf,8,59,69,Sunny,19.9,Wednesday,No
+715,2024-06-27,Place Broglie,Centre-Ville,13,43,57,Partly Cloudy,13.4,Thursday,No
+716,2024-06-27,Place de la Republique,Republique,18,45,44,Partly Cloudy,13.4,Thursday,No
+717,2024-06-27,Porte de lHopital,Centre-Ville,9,84,116,Partly Cloudy,13.4,Thursday,No
+718,2024-06-28,Place de Bordeaux,Wacken,14,19,12,Sunny,19.0,Friday,No
+719,2024-06-28,Lingolsheim,Lingolsheim,9,45,45,Sunny,19.0,Friday,No
+720,2024-06-28,Meinau,Meinau,18,13,15,Sunny,19.0,Friday,No
+721,2024-06-28,Quai des Bateliers,Centre-Ville,8,52,37,Sunny,19.0,Friday,No
+722,2024-06-29,Cathedrale,Centre-Ville,7,13,10,Sunny,20.2,Saturday,No
+723,2024-06-29,Parlement Europeen,Wacken,19,7,9,Sunny,20.2,Saturday,No
+724,2024-06-29,Illkirch Graffenstaden,Illkirch,7,8,8,Sunny,20.2,Saturday,No
+725,2024-06-29,Quai des Bateliers,Centre-Ville,9,52,70,Sunny,20.2,Saturday,No
+726,2024-06-30,Rue du Faubourg National,Gare,14,8,4,Cloudy,19.4,Sunday,No
+727,2024-06-30,Parc de lOrangerie,Orangerie,14,16,18,Cloudy,19.4,Sunday,No
+728,2024-06-30,Place de la Republique,Republique,18,22,25,Cloudy,19.4,Sunday,No
+729,2024-06-30,Parlement Europeen,Wacken,17,37,40,Cloudy,19.4,Sunday,No
+730,2024-07-01,Cronenbourg,Cronenbourg,14,13,9,Partly Cloudy,20.3,Monday,No
+731,2024-07-01,Meinau,Meinau,17,33,40,Partly Cloudy,20.3,Monday,No
+732,2024-07-01,Campus Esplanade,Esplanade,10,20,16,Partly Cloudy,20.3,Monday,No
+733,2024-07-01,Place Kleber,Centre-Ville,9,60,59,Partly Cloudy,20.3,Monday,No
+734,2024-07-01,Neudorf Marche,Neudorf,13,22,29,Partly Cloudy,20.3,Monday,No
+735,2024-07-02,Place Broglie,Centre-Ville,13,37,28,Sunny,20.4,Tuesday,No
+736,2024-07-02,Parlement Europeen,Wacken,12,24,28,Sunny,20.4,Tuesday,No
+737,2024-07-02,Krutenau,Krutenau,14,26,27,Sunny,20.4,Tuesday,No
+738,2024-07-02,Place de Bordeaux,Wacken,18,32,27,Sunny,20.4,Tuesday,No
+739,2024-07-03,Gare Centrale,Gare,12,33,43,Partly Cloudy,31.8,Wednesday,No
+740,2024-07-03,Place de Bordeaux,Wacken,14,21,16,Partly Cloudy,31.8,Wednesday,No
+741,2024-07-03,Illkirch Graffenstaden,Illkirch,19,19,13,Partly Cloudy,31.8,Wednesday,No
+742,2024-07-04,Place de Bordeaux,Wacken,18,72,58,Sunny,21.2,Thursday,No
+743,2024-07-04,Porte de lHopital,Centre-Ville,13,44,38,Sunny,21.2,Thursday,No
+744,2024-07-04,Place Arnold,Contades,12,28,37,Sunny,21.2,Thursday,No
+745,2024-07-04,Krutenau,Krutenau,7,14,10,Sunny,21.2,Thursday,No
+746,2024-07-05,Neudorf Marche,Neudorf,17,52,62,Partly Cloudy,24.2,Friday,No
+747,2024-07-05,Cathedrale,Centre-Ville,9,77,68,Partly Cloudy,24.2,Friday,No
+748,2024-07-05,Hopital Civil,Centre-Ville,19,30,26,Partly Cloudy,24.2,Friday,No
+749,2024-07-05,Meinau,Meinau,10,17,21,Partly Cloudy,24.2,Friday,No
+750,2024-07-06,Place Kleber,Centre-Ville,18,49,56,Sunny,18.7,Saturday,No
+751,2024-07-06,Robertsau,Robertsau,19,10,9,Sunny,18.7,Saturday,No
+752,2024-07-06,Rue du Faubourg National,Gare,17,31,33,Sunny,18.7,Saturday,No
+753,2024-07-07,Place Kleber,Centre-Ville,9,46,46,Partly Cloudy,20.7,Sunday,No
+754,2024-07-07,Cronenbourg,Cronenbourg,9,29,39,Partly Cloudy,20.7,Sunday,No
+755,2024-07-07,Neudorf Marche,Neudorf,12,8,6,Partly Cloudy,20.7,Sunday,No
+756,2024-07-08,Robertsau,Robertsau,8,23,25,Rainy,19.7,Monday,No
+757,2024-07-08,Krutenau,Krutenau,13,9,6,Rainy,19.7,Monday,No
+758,2024-07-08,Lingolsheim,Lingolsheim,17,17,10,Rainy,19.7,Monday,No
+759,2024-07-08,Campus Esplanade,Esplanade,14,7,6,Rainy,19.7,Monday,No
+760,2024-07-08,Place Broglie,Centre-Ville,13,17,23,Rainy,19.7,Monday,No
+761,2024-07-09,Illkirch Graffenstaden,Illkirch,10,3,3,Rainy,20.2,Tuesday,No
+762,2024-07-09,Krutenau,Krutenau,9,30,41,Rainy,20.2,Tuesday,No
+763,2024-07-09,Porte de lHopital,Centre-Ville,18,22,24,Rainy,20.2,Tuesday,No
+764,2024-07-10,Rue du Faubourg National,Gare,19,23,19,Cloudy,22.1,Wednesday,No
+765,2024-07-10,Hopital Civil,Centre-Ville,18,47,34,Cloudy,22.1,Wednesday,No
+766,2024-07-10,Cronenbourg,Cronenbourg,18,40,49,Cloudy,22.1,Wednesday,No
+767,2024-07-10,Place Kleber,Centre-Ville,9,65,73,Cloudy,22.1,Wednesday,No
+768,2024-07-10,Place Arnold,Contades,10,13,8,Cloudy,22.1,Wednesday,No
+769,2024-07-11,Place de Haguenau,Haguenau,7,7,6,Cloudy,21.0,Thursday,No
+770,2024-07-11,Parc de lOrangerie,Orangerie,13,17,18,Cloudy,21.0,Thursday,No
+771,2024-07-11,Robertsau,Robertsau,7,21,25,Cloudy,21.0,Thursday,No
+772,2024-07-11,Meinau,Meinau,7,18,14,Cloudy,21.0,Thursday,No
+773,2024-07-11,Cronenbourg,Cronenbourg,8,45,52,Cloudy,21.0,Thursday,No
+774,2024-07-12,Parc de lOrangerie,Orangerie,7,23,31,Partly Cloudy,21.9,Friday,No
+775,2024-07-12,Schiltigheim Centre,Schiltigheim,12,44,45,Partly Cloudy,21.9,Friday,No
+776,2024-07-12,Place de Haguenau,Haguenau,7,7,8,Partly Cloudy,21.9,Friday,No
+777,2024-07-12,Neudorf Marche,Neudorf,17,29,37,Partly Cloudy,21.9,Friday,No
+778,2024-07-13,Quai des Bateliers,Centre-Ville,14,9,7,Cloudy,18.1,Saturday,No
+779,2024-07-13,Krutenau,Krutenau,12,21,26,Cloudy,18.1,Saturday,No
+780,2024-07-13,Cathedrale,Centre-Ville,10,19,20,Cloudy,18.1,Saturday,No
+781,2024-07-13,Place de Haguenau,Haguenau,17,23,30,Cloudy,18.1,Saturday,No
+782,2024-07-14,Place Kleber,Centre-Ville,17,35,42,Partly Cloudy,14.5,Sunday,Yes
+783,2024-07-14,Gare Centrale,Gare,17,14,13,Partly Cloudy,14.5,Sunday,Yes
+784,2024-07-14,Cronenbourg,Cronenbourg,19,8,5,Partly Cloudy,14.5,Sunday,Yes
+785,2024-07-14,Place Arnold,Contades,13,9,12,Partly Cloudy,14.5,Sunday,Yes
+786,2024-07-14,Place de la Republique,Republique,19,6,3,Partly Cloudy,14.5,Sunday,Yes
+787,2024-07-15,Porte de lHopital,Centre-Ville,14,33,42,Cloudy,20.9,Monday,No
+788,2024-07-15,Place Arnold,Contades,10,17,19,Cloudy,20.9,Monday,No
+789,2024-07-15,Neudorf Marche,Neudorf,14,22,22,Cloudy,20.9,Monday,No
+790,2024-07-15,Schiltigheim Centre,Schiltigheim,10,11,7,Cloudy,20.9,Monday,No
+791,2024-07-16,Parlement Europeen,Wacken,14,8,10,Sunny,24.8,Tuesday,No
+792,2024-07-16,Rue du Faubourg National,Gare,18,49,62,Sunny,24.8,Tuesday,No
+793,2024-07-16,Place de la Republique,Republique,13,26,33,Sunny,24.8,Tuesday,No
+794,2024-07-16,Krutenau,Krutenau,18,68,72,Sunny,24.8,Tuesday,No
+795,2024-07-16,Schiltigheim Centre,Schiltigheim,12,33,34,Sunny,24.8,Tuesday,No
+796,2024-07-17,Robertsau,Robertsau,13,9,6,Rainy,23.0,Wednesday,No
+797,2024-07-17,Parc de lOrangerie,Orangerie,10,8,5,Rainy,23.0,Wednesday,No
+798,2024-07-17,Rue du Faubourg National,Gare,19,8,9,Rainy,23.0,Wednesday,No
+799,2024-07-17,Place Broglie,Centre-Ville,18,19,14,Rainy,23.0,Wednesday,No
+800,2024-07-17,Lingolsheim,Lingolsheim,18,27,25,Rainy,23.0,Wednesday,No
+801,2024-07-18,Parc de lOrangerie,Orangerie,18,75,53,Cloudy,19.8,Thursday,No
+802,2024-07-18,Parlement Europeen,Wacken,10,14,17,Cloudy,19.8,Thursday,No
+803,2024-07-18,Neudorf Marche,Neudorf,17,48,30,Cloudy,19.8,Thursday,No
+804,2024-07-19,Meinau,Meinau,14,33,35,Partly Cloudy,20.9,Friday,No
+805,2024-07-19,Lingolsheim,Lingolsheim,12,24,29,Partly Cloudy,20.9,Friday,No
+806,2024-07-19,Illkirch Graffenstaden,Illkirch,7,23,18,Partly Cloudy,20.9,Friday,No
+807,2024-07-19,Cronenbourg,Cronenbourg,12,42,46,Partly Cloudy,20.9,Friday,No
+808,2024-07-19,Campus Esplanade,Esplanade,19,8,7,Partly Cloudy,20.9,Friday,No
+809,2024-07-20,Quai des Bateliers,Centre-Ville,17,43,35,Sunny,22.5,Saturday,No
+810,2024-07-20,Cronenbourg,Cronenbourg,8,31,37,Sunny,22.5,Saturday,No
+811,2024-07-20,Neudorf Marche,Neudorf,18,31,18,Sunny,22.5,Saturday,No
+812,2024-07-20,Porte de lHopital,Centre-Ville,9,41,56,Sunny,22.5,Saturday,No
+813,2024-07-20,Krutenau,Krutenau,12,11,8,Sunny,22.5,Saturday,No
+814,2024-07-21,Place Broglie,Centre-Ville,18,42,26,Partly Cloudy,22.0,Sunday,No
+815,2024-07-21,Petite France,Centre-Ville,19,16,14,Partly Cloudy,22.0,Sunday,No
+816,2024-07-21,Parc de lOrangerie,Orangerie,17,18,22,Partly Cloudy,22.0,Sunday,No
+817,2024-07-21,Quai des Bateliers,Centre-Ville,12,22,24,Partly Cloudy,22.0,Sunday,No
+818,2024-07-21,Place Kleber,Centre-Ville,18,20,15,Partly Cloudy,22.0,Sunday,No
+819,2024-07-22,Place Arnold,Contades,14,25,29,Cloudy,15.9,Monday,No
+820,2024-07-22,Parc de lOrangerie,Orangerie,13,33,40,Cloudy,15.9,Monday,No
+821,2024-07-22,Petite France,Centre-Ville,19,35,29,Cloudy,15.9,Monday,No
+822,2024-07-23,Cronenbourg,Cronenbourg,13,16,18,Partly Cloudy,23.8,Tuesday,No
+823,2024-07-23,Hopital Civil,Centre-Ville,12,15,13,Partly Cloudy,23.8,Tuesday,No
+824,2024-07-23,Parlement Europeen,Wacken,17,18,25,Partly Cloudy,23.8,Tuesday,No
+825,2024-07-23,Parc de lOrangerie,Orangerie,14,19,24,Partly Cloudy,23.8,Tuesday,No
+826,2024-07-24,Robertsau,Robertsau,18,48,29,Partly Cloudy,23.6,Wednesday,No
+827,2024-07-24,Meinau,Meinau,17,49,40,Partly Cloudy,23.6,Wednesday,No
+828,2024-07-24,Place Kleber,Centre-Ville,18,74,73,Partly Cloudy,23.6,Wednesday,No
+829,2024-07-24,Illkirch Graffenstaden,Illkirch,18,24,25,Partly Cloudy,23.6,Wednesday,No
+830,2024-07-24,Cronenbourg,Cronenbourg,8,37,41,Partly Cloudy,23.6,Wednesday,No
+831,2024-07-25,Meinau,Meinau,19,25,34,Sunny,23.7,Thursday,No
+832,2024-07-25,Rue du Faubourg National,Gare,12,9,9,Sunny,23.7,Thursday,No
+833,2024-07-25,Place de la Republique,Republique,7,12,11,Sunny,23.7,Thursday,No
+834,2024-07-26,Place Broglie,Centre-Ville,14,10,10,Cloudy,19.8,Friday,No
+835,2024-07-26,Robertsau,Robertsau,18,58,42,Cloudy,19.8,Friday,No
+836,2024-07-26,Cronenbourg,Cronenbourg,17,51,59,Cloudy,19.8,Friday,No
+837,2024-07-26,Meinau,Meinau,9,31,19,Cloudy,19.8,Friday,No
+838,2024-07-27,Place Kleber,Centre-Ville,8,46,60,Cloudy,23.0,Saturday,No
+839,2024-07-27,Illkirch Graffenstaden,Illkirch,17,29,19,Cloudy,23.0,Saturday,No
+840,2024-07-27,Schiltigheim Centre,Schiltigheim,14,11,7,Cloudy,23.0,Saturday,No
+841,2024-07-27,Krutenau,Krutenau,14,12,11,Cloudy,23.0,Saturday,No
+842,2024-07-28,Petite France,Centre-Ville,12,28,38,Sunny,21.2,Sunday,No
+843,2024-07-28,Place Kleber,Centre-Ville,17,51,69,Sunny,21.2,Sunday,No
+844,2024-07-28,Parlement Europeen,Wacken,13,15,19,Sunny,21.2,Sunday,No
+845,2024-07-28,Lingolsheim,Lingolsheim,18,34,28,Sunny,21.2,Sunday,No
+846,2024-07-29,Cronenbourg,Cronenbourg,18,69,44,Cloudy,24.1,Monday,No
+847,2024-07-29,Place de la Republique,Republique,17,39,31,Cloudy,24.1,Monday,No
+848,2024-07-29,Campus Esplanade,Esplanade,19,20,13,Cloudy,24.1,Monday,No
+849,2024-07-29,Place Arnold,Contades,14,20,21,Cloudy,24.1,Monday,No
+850,2024-07-30,Illkirch Graffenstaden,Illkirch,17,54,67,Cloudy,17.3,Tuesday,No
+851,2024-07-30,Campus Esplanade,Esplanade,13,20,27,Cloudy,17.3,Tuesday,No
+852,2024-07-30,Quai des Bateliers,Centre-Ville,17,26,20,Cloudy,17.3,Tuesday,No
+853,2024-07-30,Place Kleber,Centre-Ville,13,25,30,Cloudy,17.3,Tuesday,No
+854,2024-07-31,Quai des Bateliers,Centre-Ville,8,80,58,Sunny,24.1,Wednesday,No
+855,2024-07-31,Lingolsheim,Lingolsheim,18,43,55,Sunny,24.1,Wednesday,No
+856,2024-07-31,Place Arnold,Contades,13,35,42,Sunny,24.1,Wednesday,No
+857,2024-08-01,Neudorf Marche,Neudorf,7,15,13,Partly Cloudy,21.6,Thursday,No
+858,2024-08-01,Meinau,Meinau,18,35,22,Partly Cloudy,21.6,Thursday,No
+859,2024-08-01,Cathedrale,Centre-Ville,13,39,24,Partly Cloudy,21.6,Thursday,No
+860,2024-08-01,Lingolsheim,Lingolsheim,12,38,44,Partly Cloudy,21.6,Thursday,No
+861,2024-08-02,Krutenau,Krutenau,19,4,5,Rainy,18.6,Friday,No
+862,2024-08-02,Place Arnold,Contades,13,9,7,Rainy,18.6,Friday,No
+863,2024-08-02,Parlement Europeen,Wacken,7,3,3,Rainy,18.6,Friday,No
+864,2024-08-02,Gare Centrale,Gare,9,20,16,Rainy,18.6,Friday,No
+865,2024-08-02,Place Broglie,Centre-Ville,17,27,21,Rainy,18.6,Friday,No
+866,2024-08-03,Place de Bordeaux,Wacken,12,26,31,Cloudy,23.9,Saturday,No
+867,2024-08-03,Krutenau,Krutenau,8,31,29,Cloudy,23.9,Saturday,No
+868,2024-08-03,Cronenbourg,Cronenbourg,19,10,9,Cloudy,23.9,Saturday,No
+869,2024-08-04,Place Broglie,Centre-Ville,9,43,60,Sunny,20.9,Sunday,No
+870,2024-08-04,Neudorf Marche,Neudorf,10,9,6,Sunny,20.9,Sunday,No
+871,2024-08-04,Porte de lHopital,Centre-Ville,10,19,17,Sunny,20.9,Sunday,No
+872,2024-08-05,Meinau,Meinau,18,51,54,Sunny,20.9,Monday,No
+873,2024-08-05,Gare Centrale,Gare,12,36,30,Sunny,20.9,Monday,No
+874,2024-08-05,Parlement Europeen,Wacken,14,11,14,Sunny,20.9,Monday,No
+875,2024-08-05,Porte de lHopital,Centre-Ville,10,21,21,Sunny,20.9,Monday,No
+876,2024-08-05,Cathedrale,Centre-Ville,18,27,18,Sunny,20.9,Monday,No
+877,2024-08-06,Place de Bordeaux,Wacken,17,39,33,Partly Cloudy,18.5,Tuesday,No
+878,2024-08-06,Campus Esplanade,Esplanade,10,23,25,Partly Cloudy,18.5,Tuesday,No
+879,2024-08-06,Hopital Civil,Centre-Ville,17,68,84,Partly Cloudy,18.5,Tuesday,No
+880,2024-08-07,Porte de lHopital,Centre-Ville,8,17,18,Rainy,21.1,Wednesday,No
+881,2024-08-07,Parc de lOrangerie,Orangerie,7,8,10,Rainy,21.1,Wednesday,No
+882,2024-08-07,Place Kleber,Centre-Ville,7,10,8,Rainy,21.1,Wednesday,No
+883,2024-08-07,Rue du Faubourg National,Gare,19,9,10,Rainy,21.1,Wednesday,No
+884,2024-08-08,Gare Centrale,Gare,12,31,21,Partly Cloudy,18.0,Thursday,No
+885,2024-08-08,Neudorf Marche,Neudorf,12,27,32,Partly Cloudy,18.0,Thursday,No
+886,2024-08-08,Quai des Bateliers,Centre-Ville,12,40,31,Partly Cloudy,18.0,Thursday,No
+887,2024-08-08,Robertsau,Robertsau,17,41,29,Partly Cloudy,18.0,Thursday,No
+888,2024-08-09,Rue du Faubourg National,Gare,14,14,10,Sunny,19.8,Friday,No
+889,2024-08-09,Cronenbourg,Cronenbourg,13,14,18,Sunny,19.8,Friday,No
+890,2024-08-09,Place de la Republique,Republique,13,33,21,Sunny,19.8,Friday,No
+891,2024-08-10,Quai des Bateliers,Centre-Ville,19,16,17,Sunny,17.5,Saturday,No
+892,2024-08-10,Petite France,Centre-Ville,9,29,27,Sunny,17.5,Saturday,No
+893,2024-08-10,Krutenau,Krutenau,14,13,13,Sunny,17.5,Saturday,No
+894,2024-08-10,Place Kleber,Centre-Ville,14,9,7,Sunny,17.5,Saturday,No
+895,2024-08-11,Cathedrale,Centre-Ville,14,12,7,Cloudy,19.5,Sunday,No
+896,2024-08-11,Place de Haguenau,Haguenau,17,30,38,Cloudy,19.5,Sunday,No
+897,2024-08-11,Porte de lHopital,Centre-Ville,12,15,14,Cloudy,19.5,Sunday,No
+898,2024-08-12,Place Arnold,Contades,13,37,40,Sunny,20.9,Monday,No
+899,2024-08-12,Parlement Europeen,Wacken,10,22,16,Sunny,20.9,Monday,No
+900,2024-08-12,Place Kleber,Centre-Ville,13,32,36,Sunny,20.9,Monday,No
+901,2024-08-13,Rue du Faubourg National,Gare,10,12,8,Partly Cloudy,19.9,Tuesday,No
+902,2024-08-13,Robertsau,Robertsau,8,20,13,Partly Cloudy,19.9,Tuesday,No
+903,2024-08-13,Place Kleber,Centre-Ville,18,21,23,Partly Cloudy,19.9,Tuesday,No
+904,2024-08-14,Illkirch Graffenstaden,Illkirch,7,19,24,Partly Cloudy,16.9,Wednesday,No
+905,2024-08-14,Porte de lHopital,Centre-Ville,19,22,25,Partly Cloudy,16.9,Wednesday,No
+906,2024-08-14,Quai des Bateliers,Centre-Ville,7,8,10,Partly Cloudy,16.9,Wednesday,No
+907,2024-08-14,Place Kleber,Centre-Ville,12,13,14,Partly Cloudy,16.9,Wednesday,No
+908,2024-08-15,Place Arnold,Contades,17,26,20,Cloudy,20.9,Thursday,Yes
+909,2024-08-15,Place de la Republique,Republique,17,28,24,Cloudy,20.9,Thursday,Yes
+910,2024-08-15,Parlement Europeen,Wacken,13,24,31,Cloudy,20.9,Thursday,Yes
+911,2024-08-16,Quai des Bateliers,Centre-Ville,18,50,44,Partly Cloudy,22.6,Friday,No
+912,2024-08-16,Place de Bordeaux,Wacken,19,20,15,Partly Cloudy,22.6,Friday,No
+913,2024-08-16,Robertsau,Robertsau,18,47,38,Partly Cloudy,22.6,Friday,No
+914,2024-08-17,Schiltigheim Centre,Schiltigheim,10,12,8,Sunny,21.0,Saturday,No
+915,2024-08-17,Cathedrale,Centre-Ville,17,13,11,Sunny,21.0,Saturday,No
+916,2024-08-17,Cronenbourg,Cronenbourg,19,8,9,Sunny,21.0,Saturday,No
+917,2024-08-17,Gare Centrale,Gare,17,29,25,Sunny,21.0,Saturday,No
+918,2024-08-17,Rue du Faubourg National,Gare,7,10,9,Sunny,21.0,Saturday,No
+919,2024-08-18,Lingolsheim,Lingolsheim,14,15,13,Partly Cloudy,17.9,Sunday,No
+920,2024-08-18,Parc de lOrangerie,Orangerie,13,17,18,Partly Cloudy,17.9,Sunday,No
+921,2024-08-18,Place de Haguenau,Haguenau,10,11,10,Partly Cloudy,17.9,Sunday,No
+922,2024-08-19,Meinau,Meinau,17,14,9,Rainy,23.6,Monday,No
+923,2024-08-19,Petite France,Centre-Ville,12,8,10,Rainy,23.6,Monday,No
+924,2024-08-19,Lingolsheim,Lingolsheim,10,5,6,Rainy,23.6,Monday,No
+925,2024-08-19,Parlement Europeen,Wacken,13,9,9,Rainy,23.6,Monday,No
+926,2024-08-20,Place Broglie,Centre-Ville,7,14,15,Rainy,23.3,Tuesday,No
+927,2024-08-20,Krutenau,Krutenau,12,9,9,Rainy,23.3,Tuesday,No
+928,2024-08-20,Illkirch Graffenstaden,Illkirch,7,7,9,Rainy,23.3,Tuesday,No
+929,2024-08-20,Quai des Bateliers,Centre-Ville,17,19,15,Rainy,23.3,Tuesday,No
+930,2024-08-20,Petite France,Centre-Ville,9,27,22,Rainy,23.3,Tuesday,No
+931,2024-08-21,Porte de lHopital,Centre-Ville,9,59,64,Sunny,20.0,Wednesday,No
+932,2024-08-21,Petite France,Centre-Ville,13,38,30,Sunny,20.0,Wednesday,No
+933,2024-08-21,Place Kleber,Centre-Ville,12,41,53,Sunny,20.0,Wednesday,No
+934,2024-08-22,Porte de lHopital,Centre-Ville,18,44,42,Cloudy,23.5,Thursday,No
+935,2024-08-22,Neudorf Marche,Neudorf,17,60,61,Cloudy,23.5,Thursday,No
+936,2024-08-22,Place Kleber,Centre-Ville,17,63,52,Cloudy,23.5,Thursday,No
+937,2024-08-22,Hopital Civil,Centre-Ville,18,72,46,Cloudy,23.5,Thursday,No
+938,2024-08-22,Place de Bordeaux,Wacken,9,56,62,Cloudy,23.5,Thursday,No
+939,2024-08-23,Campus Esplanade,Esplanade,9,36,42,Sunny,18.7,Friday,No
+940,2024-08-23,Porte de lHopital,Centre-Ville,12,19,25,Sunny,18.7,Friday,No
+941,2024-08-23,Meinau,Meinau,8,74,76,Sunny,18.7,Friday,No
+942,2024-08-23,Robertsau,Robertsau,17,23,31,Sunny,18.7,Friday,No
+943,2024-08-23,Parc de lOrangerie,Orangerie,9,22,20,Sunny,18.7,Friday,No
+944,2024-08-24,Place Broglie,Centre-Ville,12,22,14,Sunny,24.1,Saturday,No
+945,2024-08-24,Place de Haguenau,Haguenau,18,25,23,Sunny,24.1,Saturday,No
+946,2024-08-24,Lingolsheim,Lingolsheim,18,8,5,Sunny,24.1,Saturday,No
+947,2024-08-24,Illkirch Graffenstaden,Illkirch,10,11,14,Sunny,24.1,Saturday,No
+948,2024-08-24,Place de la Republique,Republique,13,18,17,Sunny,24.1,Saturday,No
+949,2024-08-25,Cronenbourg,Cronenbourg,9,33,36,Partly Cloudy,19.7,Sunday,No
+950,2024-08-25,Hopital Civil,Centre-Ville,9,45,55,Partly Cloudy,19.7,Sunday,No
+951,2024-08-25,Schiltigheim Centre,Schiltigheim,12,12,11,Partly Cloudy,19.7,Sunday,No
+952,2024-08-25,Parc de lOrangerie,Orangerie,12,11,10,Partly Cloudy,19.7,Sunday,No
+953,2024-08-25,Porte de lHopital,Centre-Ville,18,20,25,Partly Cloudy,19.7,Sunday,No
+954,2024-08-26,Petite France,Centre-Ville,7,11,7,Rainy,21.6,Monday,No
+955,2024-08-26,Porte de lHopital,Centre-Ville,13,18,22,Rainy,21.6,Monday,No
+956,2024-08-26,Neudorf Marche,Neudorf,17,27,33,Rainy,21.6,Monday,No
+957,2024-08-26,Hopital Civil,Centre-Ville,10,9,8,Rainy,21.6,Monday,No
+958,2024-08-27,Place Broglie,Centre-Ville,10,27,32,Sunny,20.8,Tuesday,No
+959,2024-08-27,Meinau,Meinau,8,56,62,Sunny,20.8,Tuesday,No
+960,2024-08-27,Quai des Bateliers,Centre-Ville,14,32,26,Sunny,20.8,Tuesday,No
+961,2024-08-27,Parlement Europeen,Wacken,10,14,18,Sunny,20.8,Tuesday,No
+962,2024-08-28,Quai des Bateliers,Centre-Ville,19,3,2,Rainy,23.0,Wednesday,No
+963,2024-08-28,Place de Bordeaux,Wacken,14,8,9,Rainy,23.0,Wednesday,No
+964,2024-08-28,Robertsau,Robertsau,8,27,34,Rainy,23.0,Wednesday,No
+965,2024-08-28,Campus Esplanade,Esplanade,19,3,2,Rainy,23.0,Wednesday,No
+966,2024-08-29,Quai des Bateliers,Centre-Ville,10,9,7,Rainy,20.3,Thursday,No
+967,2024-08-29,Porte de lHopital,Centre-Ville,8,24,14,Rainy,20.3,Thursday,No
+968,2024-08-29,Place Broglie,Centre-Ville,19,10,9,Rainy,20.3,Thursday,No
+969,2024-08-29,Petite France,Centre-Ville,7,7,5,Rainy,20.3,Thursday,No
+970,2024-08-29,Cronenbourg,Cronenbourg,8,19,14,Rainy,20.3,Thursday,No
+971,2024-08-30,Krutenau,Krutenau,19,16,18,Sunny,22.3,Friday,No
+972,2024-08-30,Porte de lHopital,Centre-Ville,18,73,70,Sunny,22.3,Friday,No
+973,2024-08-30,Neudorf Marche,Neudorf,12,25,31,Sunny,22.3,Friday,No
+974,2024-08-30,Illkirch Graffenstaden,Illkirch,8,53,39,Sunny,22.3,Friday,No
+975,2024-08-30,Quai des Bateliers,Centre-Ville,8,64,86,Sunny,22.3,Friday,No
+976,2024-08-31,Parc de lOrangerie,Orangerie,8,31,37,Cloudy,22.8,Saturday,No
+977,2024-08-31,Cronenbourg,Cronenbourg,18,21,19,Cloudy,22.8,Saturday,No
+978,2024-08-31,Meinau,Meinau,18,25,34,Cloudy,22.8,Saturday,No
+979,2024-08-31,Place Broglie,Centre-Ville,9,47,61,Cloudy,22.8,Saturday,No
+980,2024-09-01,Place Kleber,Centre-Ville,17,32,38,Sunny,16.4,Sunday,No
+981,2024-09-01,Campus Esplanade,Esplanade,13,14,17,Sunny,16.4,Sunday,No
+982,2024-09-01,Parc de lOrangerie,Orangerie,10,8,6,Sunny,16.4,Sunday,No
+983,2024-09-01,Cathedrale,Centre-Ville,7,13,9,Sunny,16.4,Sunday,No
+984,2024-09-01,Porte de lHopital,Centre-Ville,18,15,12,Sunny,16.4,Sunday,No
+985,2024-09-02,Neudorf Marche,Neudorf,8,50,57,Partly Cloudy,14.2,Monday,No
+986,2024-09-02,Rue du Faubourg National,Gare,7,14,15,Partly Cloudy,14.2,Monday,No
+987,2024-09-02,Porte de lHopital,Centre-Ville,7,24,24,Partly Cloudy,14.2,Monday,No
+988,2024-09-02,Place Broglie,Centre-Ville,14,22,29,Partly Cloudy,14.2,Monday,No
+989,2024-09-02,Illkirch Graffenstaden,Illkirch,18,25,16,Partly Cloudy,14.2,Monday,No
+990,2024-09-03,Neudorf Marche,Neudorf,7,10,6,Sunny,14.4,Tuesday,No
+991,2024-09-03,Krutenau,Krutenau,9,26,32,Sunny,14.4,Tuesday,No
+992,2024-09-03,Cathedrale,Centre-Ville,7,13,8,Sunny,14.4,Tuesday,No
+993,2024-09-03,Illkirch Graffenstaden,Illkirch,9,27,29,Sunny,14.4,Tuesday,No
+994,2024-09-04,Gare Centrale,Gare,13,19,13,Sunny,14.9,Wednesday,No
+995,2024-09-04,Place Arnold,Contades,8,29,18,Sunny,14.9,Wednesday,No
+996,2024-09-04,Petite France,Centre-Ville,12,32,41,Sunny,14.9,Wednesday,No
+997,2024-09-05,Cathedrale,Centre-Ville,7,25,23,Partly Cloudy,20.2,Thursday,No
+998,2024-09-05,Parlement Europeen,Wacken,13,19,12,Partly Cloudy,20.2,Thursday,No
+999,2024-09-05,Krutenau,Krutenau,7,12,16,Partly Cloudy,20.2,Thursday,No
+1000,2024-09-05,Campus Esplanade,Esplanade,19,16,18,Partly Cloudy,20.2,Thursday,No
+1001,2024-09-06,Rue du Faubourg National,Gare,17,15,17,Rainy,17.0,Friday,No
+1002,2024-09-06,Meinau,Meinau,9,23,20,Rainy,17.0,Friday,No
+1003,2024-09-06,Petite France,Centre-Ville,17,24,14,Rainy,17.0,Friday,No
+1004,2024-09-06,Illkirch Graffenstaden,Illkirch,10,5,4,Rainy,17.0,Friday,No
+1005,2024-09-06,Cathedrale,Centre-Ville,18,20,19,Rainy,17.0,Friday,No
+1006,2024-09-07,Hopital Civil,Centre-Ville,13,4,3,Snowy,20.0,Saturday,No
+1007,2024-09-07,Lingolsheim,Lingolsheim,10,2,2,Snowy,20.0,Saturday,No
+1008,2024-09-07,Place de la Republique,Republique,14,1,1,Snowy,20.0,Saturday,No
+1009,2024-09-07,Meinau,Meinau,12,2,1,Snowy,20.0,Saturday,No
+1010,2024-09-07,Petite France,Centre-Ville,19,1,1,Snowy,20.0,Saturday,No
+1011,2024-09-08,Hopital Civil,Centre-Ville,12,6,6,Rainy,19.2,Sunday,No
+1012,2024-09-08,Place de la Republique,Republique,17,8,10,Rainy,19.2,Sunday,No
+1013,2024-09-08,Gare Centrale,Gare,17,5,6,Rainy,19.2,Sunday,No
+1014,2024-09-09,Krutenau,Krutenau,14,18,23,Cloudy,16.1,Monday,No
+1015,2024-09-09,Cathedrale,Centre-Ville,10,22,28,Cloudy,16.1,Monday,No
+1016,2024-09-09,Place de Haguenau,Haguenau,13,19,18,Cloudy,16.1,Monday,No
+1017,2024-09-09,Lingolsheim,Lingolsheim,14,19,20,Cloudy,16.1,Monday,No
+1018,2024-09-09,Campus Esplanade,Esplanade,18,30,23,Cloudy,16.1,Monday,No
+1019,2024-09-10,Hopital Civil,Centre-Ville,8,42,53,Cloudy,16.7,Tuesday,No
+1020,2024-09-10,Lingolsheim,Lingolsheim,9,28,18,Cloudy,16.7,Tuesday,No
+1021,2024-09-10,Illkirch Graffenstaden,Illkirch,7,22,24,Cloudy,16.7,Tuesday,No
+1022,2024-09-10,Parlement Europeen,Wacken,8,59,52,Cloudy,16.7,Tuesday,No
+1023,2024-09-11,Place Arnold,Contades,14,11,13,Cloudy,16.4,Wednesday,No
+1024,2024-09-11,Place Broglie,Centre-Ville,7,11,9,Cloudy,16.4,Wednesday,No
+1025,2024-09-11,Neudorf Marche,Neudorf,14,11,8,Cloudy,16.4,Wednesday,No
+1026,2024-09-12,Campus Esplanade,Esplanade,10,16,22,Sunny,16.4,Thursday,No
+1027,2024-09-12,Place de Haguenau,Haguenau,10,15,9,Sunny,16.4,Thursday,No
+1028,2024-09-12,Gare Centrale,Gare,8,27,28,Sunny,16.4,Thursday,No
+1029,2024-09-12,Meinau,Meinau,13,32,32,Sunny,16.4,Thursday,No
+1030,2024-09-12,Krutenau,Krutenau,18,27,19,Sunny,16.4,Thursday,No
+1031,2024-09-13,Campus Esplanade,Esplanade,10,18,23,Cloudy,13.7,Friday,No
+1032,2024-09-13,Quai des Bateliers,Centre-Ville,9,48,43,Cloudy,13.7,Friday,No
+1033,2024-09-13,Gare Centrale,Gare,10,13,11,Cloudy,13.7,Friday,No
+1034,2024-09-14,Meinau,Meinau,9,8,9,Rainy,15.9,Saturday,No
+1035,2024-09-14,Petite France,Centre-Ville,19,6,6,Rainy,15.9,Saturday,No
+1036,2024-09-14,Place Kleber,Centre-Ville,19,5,3,Rainy,15.9,Saturday,No
+1037,2024-09-15,Meinau,Meinau,14,3,2,Rainy,23.1,Sunday,No
+1038,2024-09-15,Place Broglie,Centre-Ville,18,10,7,Rainy,23.1,Sunday,No
+1039,2024-09-15,Lingolsheim,Lingolsheim,18,10,11,Rainy,23.1,Sunday,No
+1040,2024-09-15,Place de Haguenau,Haguenau,10,3,3,Rainy,23.1,Sunday,No
+1041,2024-09-16,Schiltigheim Centre,Schiltigheim,10,9,7,Rainy,11.6,Monday,No
+1042,2024-09-16,Parc de lOrangerie,Orangerie,19,3,3,Rainy,11.6,Monday,No
+1043,2024-09-16,Cathedrale,Centre-Ville,10,10,11,Rainy,11.6,Monday,No
+1044,2024-09-16,Hopital Civil,Centre-Ville,14,11,6,Rainy,11.6,Monday,No
+1045,2024-09-17,Lingolsheim,Lingolsheim,9,33,35,Sunny,18.9,Tuesday,No
+1046,2024-09-17,Parlement Europeen,Wacken,10,13,12,Sunny,18.9,Tuesday,No
+1047,2024-09-17,Neudorf Marche,Neudorf,14,17,10,Sunny,18.9,Tuesday,No
+1048,2024-09-17,Petite France,Centre-Ville,7,21,25,Sunny,18.9,Tuesday,No
+1049,2024-09-18,Gare Centrale,Gare,13,10,6,Rainy,16.8,Wednesday,No
+1050,2024-09-18,Parc de lOrangerie,Orangerie,19,3,2,Rainy,16.8,Wednesday,No
+1051,2024-09-18,Neudorf Marche,Neudorf,19,7,4,Rainy,16.8,Wednesday,No
+1052,2024-09-19,Quai des Bateliers,Centre-Ville,8,42,33,Cloudy,14.0,Thursday,No
+1053,2024-09-19,Rue du Faubourg National,Gare,9,29,39,Cloudy,14.0,Thursday,No
+1054,2024-09-19,Place Kleber,Centre-Ville,13,19,18,Cloudy,14.0,Thursday,No
+1055,2024-09-19,Parlement Europeen,Wacken,7,9,11,Cloudy,14.0,Thursday,No
+1056,2024-09-19,Meinau,Meinau,19,14,15,Cloudy,14.0,Thursday,No
+1057,2024-09-20,Meinau,Meinau,13,4,3,Sunny,15.0,Friday,No
+1058,2024-09-20,Lingolsheim,Lingolsheim,13,30,40,Sunny,15.0,Friday,No
+1059,2024-09-20,Petite France,Centre-Ville,19,14,18,Sunny,15.0,Friday,No
+1060,2024-09-20,Cathedrale,Centre-Ville,18,43,41,Sunny,15.0,Friday,No
+1061,2024-09-21,Porte de lHopital,Centre-Ville,12,6,6,Rainy,16.5,Saturday,No
+1062,2024-09-21,Cathedrale,Centre-Ville,8,16,15,Rainy,16.5,Saturday,No
+1063,2024-09-21,Robertsau,Robertsau,12,5,5,Rainy,16.5,Saturday,No
+1064,2024-09-21,Place Arnold,Contades,19,3,3,Rainy,16.5,Saturday,No
+1065,2024-09-22,Petite France,Centre-Ville,8,31,38,Cloudy,9.6,Sunday,No
+1066,2024-09-22,Cathedrale,Centre-Ville,13,28,31,Cloudy,9.6,Sunday,No
+1067,2024-09-22,Place de la Republique,Republique,12,5,6,Cloudy,9.6,Sunday,No
+1068,2024-09-23,Rue du Faubourg National,Gare,19,1,1,Snowy,19.0,Monday,No
+1069,2024-09-23,Schiltigheim Centre,Schiltigheim,9,7,8,Snowy,19.0,Monday,No
+1070,2024-09-23,Cronenbourg,Cronenbourg,13,2,2,Snowy,19.0,Monday,No
+1071,2024-09-23,Gare Centrale,Gare,18,11,15,Snowy,19.0,Monday,No
+1072,2024-09-24,Rue du Faubourg National,Gare,7,4,5,Cloudy,19.5,Tuesday,No
+1073,2024-09-24,Illkirch Graffenstaden,Illkirch,12,12,11,Cloudy,19.5,Tuesday,No
+1074,2024-09-24,Place de Bordeaux,Wacken,14,14,16,Cloudy,19.5,Tuesday,No
+1075,2024-09-24,Parc de lOrangerie,Orangerie,7,24,23,Cloudy,19.5,Tuesday,No
+1076,2024-09-25,Neudorf Marche,Neudorf,17,20,27,Partly Cloudy,19.8,Wednesday,No
+1077,2024-09-25,Parlement Europeen,Wacken,17,25,22,Partly Cloudy,19.8,Wednesday,No
+1078,2024-09-25,Porte de lHopital,Centre-Ville,7,17,16,Partly Cloudy,19.8,Wednesday,No
+1079,2024-09-25,Campus Esplanade,Esplanade,12,26,35,Partly Cloudy,19.8,Wednesday,No
+1080,2024-09-25,Rue du Faubourg National,Gare,18,22,13,Partly Cloudy,19.8,Wednesday,No
+1081,2024-09-26,Hopital Civil,Centre-Ville,8,65,46,Partly Cloudy,18.0,Thursday,No
+1082,2024-09-26,Place de Bordeaux,Wacken,14,12,10,Partly Cloudy,18.0,Thursday,No
+1083,2024-09-26,Place Arnold,Contades,13,26,23,Partly Cloudy,18.0,Thursday,No
+1084,2024-09-26,Cathedrale,Centre-Ville,13,33,39,Partly Cloudy,18.0,Thursday,No
+1085,2024-09-26,Place Broglie,Centre-Ville,18,65,78,Partly Cloudy,18.0,Thursday,No
+1086,2024-09-27,Cathedrale,Centre-Ville,13,25,28,Sunny,12.3,Friday,No
+1087,2024-09-27,Place Broglie,Centre-Ville,17,29,24,Sunny,12.3,Friday,No
+1088,2024-09-27,Place de Bordeaux,Wacken,13,22,26,Sunny,12.3,Friday,No
+1089,2024-09-27,Place Arnold,Contades,8,44,28,Sunny,12.3,Friday,No
+1090,2024-09-27,Place Kleber,Centre-Ville,10,24,16,Sunny,12.3,Friday,No
+1091,2024-09-28,Place de Haguenau,Haguenau,19,15,16,Sunny,15.6,Saturday,No
+1092,2024-09-28,Place de la Republique,Republique,7,12,14,Sunny,15.6,Saturday,No
+1093,2024-09-28,Petite France,Centre-Ville,14,16,16,Sunny,15.6,Saturday,No
+1094,2024-09-28,Hopital Civil,Centre-Ville,9,33,34,Sunny,15.6,Saturday,No
+1095,2024-09-28,Place Arnold,Contades,14,6,4,Sunny,15.6,Saturday,No
+1096,2024-09-29,Illkirch Graffenstaden,Illkirch,19,3,4,Snowy,22.1,Sunday,No
+1097,2024-09-29,Quai des Bateliers,Centre-Ville,14,0,0,Snowy,22.1,Sunday,No
+1098,2024-09-29,Parlement Europeen,Wacken,18,3,4,Snowy,22.1,Sunday,No
+1099,2024-09-30,Place Broglie,Centre-Ville,8,40,53,Cloudy,18.4,Monday,No
+1100,2024-09-30,Parlement Europeen,Wacken,13,16,20,Cloudy,18.4,Monday,No
+1101,2024-09-30,Parc de lOrangerie,Orangerie,14,15,13,Cloudy,18.4,Monday,No
+1102,2024-09-30,Porte de lHopital,Centre-Ville,7,33,26,Cloudy,18.4,Monday,No
+1103,2024-09-30,Place de Haguenau,Haguenau,17,44,60,Cloudy,18.4,Monday,No
+1104,2024-10-01,Lingolsheim,Lingolsheim,9,13,11,Rainy,9.0,Tuesday,No
+1105,2024-10-01,Parlement Europeen,Wacken,17,17,11,Rainy,9.0,Tuesday,No
+1106,2024-10-01,Rue du Faubourg National,Gare,9,16,14,Rainy,9.0,Tuesday,No
+1107,2024-10-01,Place de la Republique,Republique,14,7,5,Rainy,9.0,Tuesday,No
+1108,2024-10-01,Place de Haguenau,Haguenau,12,5,3,Rainy,9.0,Tuesday,No
+1109,2024-10-02,Hopital Civil,Centre-Ville,8,18,15,Rainy,10.8,Wednesday,No
+1110,2024-10-02,Rue du Faubourg National,Gare,19,7,4,Rainy,10.8,Wednesday,No
+1111,2024-10-02,Place Kleber,Centre-Ville,8,8,5,Rainy,10.8,Wednesday,No
+1112,2024-10-03,Parc de lOrangerie,Orangerie,14,2,2,Snowy,10.2,Thursday,No
+1113,2024-10-03,Porte de lHopital,Centre-Ville,10,5,4,Snowy,10.2,Thursday,No
+1114,2024-10-03,Hopital Civil,Centre-Ville,13,5,3,Snowy,10.2,Thursday,No
+1115,2024-10-03,Cathedrale,Centre-Ville,18,8,9,Snowy,10.2,Thursday,No
+1116,2024-10-03,Krutenau,Krutenau,18,6,5,Snowy,10.2,Thursday,No
+1117,2024-10-04,Quai des Bateliers,Centre-Ville,13,34,21,Sunny,9.3,Friday,No
+1118,2024-10-04,Place de Bordeaux,Wacken,14,12,10,Sunny,9.3,Friday,No
+1119,2024-10-04,Rue du Faubourg National,Gare,19,14,17,Sunny,9.3,Friday,No
+1120,2024-10-05,Place de Bordeaux,Wacken,17,30,19,Cloudy,10.5,Saturday,No
+1121,2024-10-05,Cronenbourg,Cronenbourg,8,25,29,Cloudy,10.5,Saturday,No
+1122,2024-10-05,Petite France,Centre-Ville,10,8,8,Cloudy,10.5,Saturday,No
+1123,2024-10-05,Parc de lOrangerie,Orangerie,18,17,15,Cloudy,10.5,Saturday,No
+1124,2024-10-06,Place de Haguenau,Haguenau,17,12,16,Partly Cloudy,15.1,Sunday,No
+1125,2024-10-06,Parc de lOrangerie,Orangerie,13,8,7,Partly Cloudy,15.1,Sunday,No
+1126,2024-10-06,Parlement Europeen,Wacken,17,23,20,Partly Cloudy,15.1,Sunday,No
+1127,2024-10-07,Robertsau,Robertsau,19,5,3,Rainy,10.4,Monday,No
+1128,2024-10-07,Place de Haguenau,Haguenau,13,10,8,Rainy,10.4,Monday,No
+1129,2024-10-07,Petite France,Centre-Ville,9,22,21,Rainy,10.4,Monday,No
+1130,2024-10-07,Place de la Republique,Republique,18,16,16,Rainy,10.4,Monday,No
+1131,2024-10-08,Place Broglie,Centre-Ville,17,47,38,Partly Cloudy,8.5,Tuesday,No
+1132,2024-10-08,Parc de lOrangerie,Orangerie,7,10,6,Partly Cloudy,8.5,Tuesday,No
+1133,2024-10-08,Porte de lHopital,Centre-Ville,12,24,32,Partly Cloudy,8.5,Tuesday,No
+1134,2024-10-08,Parlement Europeen,Wacken,19,9,12,Partly Cloudy,8.5,Tuesday,No
+1135,2024-10-08,Cronenbourg,Cronenbourg,7,10,12,Partly Cloudy,8.5,Tuesday,No
+1136,2024-10-09,Place Broglie,Centre-Ville,19,26,24,Sunny,7.1,Wednesday,No
+1137,2024-10-09,Place Arnold,Contades,8,36,42,Sunny,7.1,Wednesday,No
+1138,2024-10-09,Gare Centrale,Gare,18,37,49,Sunny,7.1,Wednesday,No
+1139,2024-10-09,Hopital Civil,Centre-Ville,9,56,51,Sunny,7.1,Wednesday,No
+1140,2024-10-09,Meinau,Meinau,12,18,14,Sunny,7.1,Wednesday,No
+1141,2024-10-10,Campus Esplanade,Esplanade,7,16,18,Sunny,9.9,Thursday,No
+1142,2024-10-10,Place de Bordeaux,Wacken,19,8,10,Sunny,9.9,Thursday,No
+1143,2024-10-10,Parc de lOrangerie,Orangerie,13,24,16,Sunny,9.9,Thursday,No
+1144,2024-10-10,Meinau,Meinau,14,22,24,Sunny,9.9,Thursday,No
+1145,2024-10-11,Hopital Civil,Centre-Ville,8,27,29,Partly Cloudy,9.8,Friday,No
+1146,2024-10-11,Parc de lOrangerie,Orangerie,18,27,30,Partly Cloudy,9.8,Friday,No
+1147,2024-10-11,Lingolsheim,Lingolsheim,10,9,7,Partly Cloudy,9.8,Friday,No
+1148,2024-10-11,Petite France,Centre-Ville,7,13,18,Partly Cloudy,9.8,Friday,No
+1149,2024-10-12,Rue du Faubourg National,Gare,7,12,12,Partly Cloudy,4.4,Saturday,No
+1150,2024-10-12,Petite France,Centre-Ville,17,25,21,Partly Cloudy,4.4,Saturday,No
+1151,2024-10-12,Lingolsheim,Lingolsheim,19,10,9,Partly Cloudy,4.4,Saturday,No
+1152,2024-10-12,Porte de lHopital,Centre-Ville,13,13,15,Partly Cloudy,4.4,Saturday,No
+1153,2024-10-13,Illkirch Graffenstaden,Illkirch,10,14,10,Cloudy,16.8,Sunday,No
+1154,2024-10-13,Place de Haguenau,Haguenau,14,6,5,Cloudy,16.8,Sunday,No
+1155,2024-10-13,Cathedrale,Centre-Ville,14,12,13,Cloudy,16.8,Sunday,No
+1156,2024-10-13,Campus Esplanade,Esplanade,8,25,21,Cloudy,16.8,Sunday,No
+1157,2024-10-14,Parc de lOrangerie,Orangerie,7,3,2,Rainy,10.8,Monday,No
+1158,2024-10-14,Porte de lHopital,Centre-Ville,14,9,6,Rainy,10.8,Monday,No
+1159,2024-10-14,Illkirch Graffenstaden,Illkirch,8,14,18,Rainy,10.8,Monday,No
+1160,2024-10-15,Rue du Faubourg National,Gare,18,21,27,Sunny,15.8,Tuesday,No
+1161,2024-10-15,Cathedrale,Centre-Ville,17,50,31,Sunny,15.8,Tuesday,No
+1162,2024-10-15,Parlement Europeen,Wacken,10,10,13,Sunny,15.8,Tuesday,No
+1163,2024-10-15,Neudorf Marche,Neudorf,12,33,43,Sunny,15.8,Tuesday,No
+1164,2024-10-15,Place Kleber,Centre-Ville,8,49,52,Sunny,15.8,Tuesday,No
+1165,2024-10-16,Schiltigheim Centre,Schiltigheim,9,29,35,Cloudy,8.2,Wednesday,No
+1166,2024-10-16,Petite France,Centre-Ville,9,71,96,Cloudy,8.2,Wednesday,No
+1167,2024-10-16,Cathedrale,Centre-Ville,12,28,28,Cloudy,8.2,Wednesday,No
+1168,2024-10-17,Place Arnold,Contades,19,12,8,Partly Cloudy,8.8,Thursday,No
+1169,2024-10-17,Krutenau,Krutenau,18,64,39,Partly Cloudy,8.8,Thursday,No
+1170,2024-10-17,Gare Centrale,Gare,8,33,34,Partly Cloudy,8.8,Thursday,No
+1171,2024-10-17,Petite France,Centre-Ville,13,45,54,Partly Cloudy,8.8,Thursday,No
+1172,2024-10-17,Schiltigheim Centre,Schiltigheim,10,19,18,Partly Cloudy,8.8,Thursday,No
+1173,2024-10-18,Place de Bordeaux,Wacken,10,15,20,Sunny,11.4,Friday,No
+1174,2024-10-18,Place Broglie,Centre-Ville,7,17,17,Sunny,11.4,Friday,No
+1175,2024-10-18,Rue du Faubourg National,Gare,17,31,42,Sunny,11.4,Friday,No
+1176,2024-10-19,Place de Haguenau,Haguenau,14,9,9,Cloudy,16.4,Saturday,No
+1177,2024-10-19,Schiltigheim Centre,Schiltigheim,9,28,31,Cloudy,16.4,Saturday,No
+1178,2024-10-19,Place de Bordeaux,Wacken,17,11,12,Cloudy,16.4,Saturday,No
+1179,2024-10-19,Hopital Civil,Centre-Ville,14,5,4,Cloudy,16.4,Saturday,No
+1180,2024-10-20,Robertsau,Robertsau,14,3,4,Rainy,10.0,Sunday,No
+1181,2024-10-20,Neudorf Marche,Neudorf,12,5,5,Rainy,10.0,Sunday,No
+1182,2024-10-20,Rue du Faubourg National,Gare,10,1,0,Rainy,10.0,Sunday,No
+1183,2024-10-20,Krutenau,Krutenau,14,0,0,Rainy,10.0,Sunday,No
+1184,2024-10-21,Schiltigheim Centre,Schiltigheim,17,13,11,Cloudy,12.9,Monday,No
+1185,2024-10-21,Campus Esplanade,Esplanade,14,11,12,Cloudy,12.9,Monday,No
+1186,2024-10-21,Krutenau,Krutenau,13,24,15,Cloudy,12.9,Monday,No
+1187,2024-10-22,Meinau,Meinau,9,28,30,Sunny,14.2,Tuesday,No
+1188,2024-10-22,Place de Bordeaux,Wacken,17,26,35,Sunny,14.2,Tuesday,No
+1189,2024-10-22,Place Broglie,Centre-Ville,17,57,58,Sunny,14.2,Tuesday,No
+1190,2024-10-23,Meinau,Meinau,19,3,2,Snowy,15.2,Wednesday,No
+1191,2024-10-23,Cathedrale,Centre-Ville,14,3,3,Snowy,15.2,Wednesday,No
+1192,2024-10-23,Schiltigheim Centre,Schiltigheim,14,4,3,Snowy,15.2,Wednesday,No
+1193,2024-10-23,Place de Haguenau,Haguenau,8,5,6,Snowy,15.2,Wednesday,No
+1194,2024-10-24,Quai des Bateliers,Centre-Ville,7,10,12,Rainy,11.0,Thursday,No
+1195,2024-10-24,Parc de lOrangerie,Orangerie,13,11,9,Rainy,11.0,Thursday,No
+1196,2024-10-24,Krutenau,Krutenau,7,4,3,Rainy,11.0,Thursday,No
+1197,2024-10-24,Place Kleber,Centre-Ville,17,2,2,Rainy,11.0,Thursday,No
+1198,2024-10-25,Parlement Europeen,Wacken,8,14,13,Rainy,7.9,Friday,No
+1199,2024-10-25,Schiltigheim Centre,Schiltigheim,17,14,18,Rainy,7.9,Friday,No
+1200,2024-10-25,Neudorf Marche,Neudorf,17,14,9,Rainy,7.9,Friday,No
+1201,2024-10-26,Cronenbourg,Cronenbourg,12,13,13,Partly Cloudy,9.5,Saturday,No
+1202,2024-10-26,Illkirch Graffenstaden,Illkirch,14,8,5,Partly Cloudy,9.5,Saturday,No
+1203,2024-10-26,Rue du Faubourg National,Gare,17,19,19,Partly Cloudy,9.5,Saturday,No
+1204,2024-10-26,Place de Bordeaux,Wacken,18,13,12,Partly Cloudy,9.5,Saturday,No
+1205,2024-10-26,Robertsau,Robertsau,17,30,36,Partly Cloudy,9.5,Saturday,No
+1206,2024-10-27,Lingolsheim,Lingolsheim,18,21,24,Sunny,10.2,Sunday,No
+1207,2024-10-27,Campus Esplanade,Esplanade,12,8,7,Sunny,10.2,Sunday,No
+1208,2024-10-27,Schiltigheim Centre,Schiltigheim,18,22,23,Sunny,10.2,Sunday,No
+1209,2024-10-28,Schiltigheim Centre,Schiltigheim,9,40,54,Partly Cloudy,9.7,Monday,No
+1210,2024-10-28,Quai des Bateliers,Centre-Ville,14,23,19,Partly Cloudy,9.7,Monday,No
+1211,2024-10-28,Place Broglie,Centre-Ville,10,19,20,Partly Cloudy,9.7,Monday,No
+1212,2024-10-28,Krutenau,Krutenau,10,15,11,Partly Cloudy,9.7,Monday,No
+1213,2024-10-29,Lingolsheim,Lingolsheim,8,34,22,Sunny,8.0,Tuesday,No
+1214,2024-10-29,Gare Centrale,Gare,8,30,29,Sunny,8.0,Tuesday,No
+1215,2024-10-29,Parc de lOrangerie,Orangerie,7,13,8,Sunny,8.0,Tuesday,No
+1216,2024-10-29,Campus Esplanade,Esplanade,9,40,42,Sunny,8.0,Tuesday,No
+1217,2024-10-30,Place Broglie,Centre-Ville,18,56,44,Cloudy,10.8,Wednesday,No
+1218,2024-10-30,Gare Centrale,Gare,12,14,15,Cloudy,10.8,Wednesday,No
+1219,2024-10-30,Place de la Republique,Republique,12,27,17,Cloudy,10.8,Wednesday,No
+1220,2024-10-30,Meinau,Meinau,10,11,13,Cloudy,10.8,Wednesday,No
+1221,2024-10-31,Parlement Europeen,Wacken,14,17,14,Sunny,10.1,Thursday,No
+1222,2024-10-31,Krutenau,Krutenau,14,17,20,Sunny,10.1,Thursday,No
+1223,2024-10-31,Meinau,Meinau,7,15,11,Sunny,10.1,Thursday,No
+1224,2024-10-31,Porte de lHopital,Centre-Ville,8,40,41,Sunny,10.1,Thursday,No
+1225,2024-11-01,Robertsau,Robertsau,13,11,10,Cloudy,6.0,Friday,Yes
+1226,2024-11-01,Place Arnold,Contades,12,18,17,Cloudy,6.0,Friday,Yes
+1227,2024-11-01,Neudorf Marche,Neudorf,8,18,14,Cloudy,6.0,Friday,Yes
+1228,2024-11-01,Place de Bordeaux,Wacken,17,18,11,Cloudy,6.0,Friday,Yes
+1229,2024-11-02,Robertsau,Robertsau,19,8,10,Cloudy,10.1,Saturday,No
+1230,2024-11-02,Rue du Faubourg National,Gare,9,17,13,Cloudy,10.1,Saturday,No
+1231,2024-11-02,Place Kleber,Centre-Ville,9,34,33,Cloudy,10.1,Saturday,No
+1232,2024-11-02,Neudorf Marche,Neudorf,10,12,9,Cloudy,10.1,Saturday,No
+1233,2024-11-02,Parlement Europeen,Wacken,12,11,14,Cloudy,10.1,Saturday,No
+1234,2024-11-03,Cronenbourg,Cronenbourg,9,13,16,Partly Cloudy,1.4,Sunday,No
+1235,2024-11-03,Cathedrale,Centre-Ville,17,32,43,Partly Cloudy,1.4,Sunday,No
+1236,2024-11-03,Parc de lOrangerie,Orangerie,18,29,33,Partly Cloudy,1.4,Sunday,No
+1237,2024-11-03,Place Arnold,Contades,7,13,9,Partly Cloudy,1.4,Sunday,No
+1238,2024-11-03,Illkirch Graffenstaden,Illkirch,12,12,8,Partly Cloudy,1.4,Sunday,No
+1239,2024-11-04,Illkirch Graffenstaden,Illkirch,13,29,38,Partly Cloudy,7.7,Monday,No
+1240,2024-11-04,Quai des Bateliers,Centre-Ville,10,11,8,Partly Cloudy,7.7,Monday,No
+1241,2024-11-04,Parc de lOrangerie,Orangerie,18,55,73,Partly Cloudy,7.7,Monday,No
+1242,2024-11-04,Place de Haguenau,Haguenau,18,41,52,Partly Cloudy,7.7,Monday,No
+1243,2024-11-05,Robertsau,Robertsau,18,43,34,Sunny,0.9,Tuesday,No
+1244,2024-11-05,Neudorf Marche,Neudorf,7,14,16,Sunny,0.9,Tuesday,No
+1245,2024-11-05,Parlement Europeen,Wacken,7,12,9,Sunny,0.9,Tuesday,No
+1246,2024-11-05,Illkirch Graffenstaden,Illkirch,9,32,26,Sunny,0.9,Tuesday,No
+1247,2024-11-06,Parc de lOrangerie,Orangerie,10,3,3,Snowy,4.6,Wednesday,No
+1248,2024-11-06,Illkirch Graffenstaden,Illkirch,14,1,0,Snowy,4.6,Wednesday,No
+1249,2024-11-06,Place de Haguenau,Haguenau,9,8,7,Snowy,4.6,Wednesday,No
+1250,2024-11-06,Cathedrale,Centre-Ville,19,3,2,Snowy,4.6,Wednesday,No
+1251,2024-11-07,Neudorf Marche,Neudorf,19,16,19,Cloudy,7.2,Thursday,No
+1252,2024-11-07,Schiltigheim Centre,Schiltigheim,10,9,5,Cloudy,7.2,Thursday,No
+1253,2024-11-07,Campus Esplanade,Esplanade,8,50,63,Cloudy,7.2,Thursday,No
+1254,2024-11-07,Rue du Faubourg National,Gare,19,14,13,Cloudy,7.2,Thursday,No
+1255,2024-11-07,Place de la Republique,Republique,9,4,3,Cloudy,7.2,Thursday,No
+1256,2024-11-08,Campus Esplanade,Esplanade,14,3,3,Snowy,3.2,Friday,No
+1257,2024-11-08,Place Kleber,Centre-Ville,14,3,3,Snowy,3.2,Friday,No
+1258,2024-11-08,Schiltigheim Centre,Schiltigheim,8,7,8,Snowy,3.2,Friday,No
+1259,2024-11-08,Place Arnold,Contades,17,3,2,Snowy,3.2,Friday,No
+1260,2024-11-08,Place de Haguenau,Haguenau,18,6,7,Snowy,3.2,Friday,No
+1261,2024-11-09,Place Arnold,Contades,19,6,7,Sunny,6.0,Saturday,No
+1262,2024-11-09,Lingolsheim,Lingolsheim,10,7,7,Sunny,6.0,Saturday,No
+1263,2024-11-09,Cathedrale,Centre-Ville,10,8,8,Sunny,6.0,Saturday,No
+1264,2024-11-09,Parlement Europeen,Wacken,13,15,14,Sunny,6.0,Saturday,No
+1265,2024-11-09,Place de Haguenau,Haguenau,8,19,19,Sunny,6.0,Saturday,No
+1266,2024-11-10,Campus Esplanade,Esplanade,17,7,7,Rainy,5.6,Sunday,No
+1267,2024-11-10,Cronenbourg,Cronenbourg,17,8,9,Rainy,5.6,Sunday,No
+1268,2024-11-10,Place Arnold,Contades,10,4,3,Rainy,5.6,Sunday,No
+1269,2024-11-10,Place de Bordeaux,Wacken,13,6,8,Rainy,5.6,Sunday,No
+1270,2024-11-11,Gare Centrale,Gare,12,8,8,Partly Cloudy,9.8,Monday,Yes
+1271,2024-11-11,Place de Haguenau,Haguenau,14,10,10,Partly Cloudy,9.8,Monday,Yes
+1272,2024-11-11,Robertsau,Robertsau,18,29,31,Partly Cloudy,9.8,Monday,Yes
+1273,2024-11-12,Meinau,Meinau,19,16,11,Partly Cloudy,6.7,Tuesday,No
+1274,2024-11-12,Place Kleber,Centre-Ville,13,26,18,Partly Cloudy,6.7,Tuesday,No
+1275,2024-11-12,Illkirch Graffenstaden,Illkirch,13,19,24,Partly Cloudy,6.7,Tuesday,No
+1276,2024-11-12,Schiltigheim Centre,Schiltigheim,19,18,11,Partly Cloudy,6.7,Tuesday,No
+1277,2024-11-12,Campus Esplanade,Esplanade,17,18,22,Partly Cloudy,6.7,Tuesday,No
+1278,2024-11-13,Campus Esplanade,Esplanade,12,12,10,Partly Cloudy,5.8,Wednesday,No
+1279,2024-11-13,Parlement Europeen,Wacken,14,14,17,Partly Cloudy,5.8,Wednesday,No
+1280,2024-11-13,Lingolsheim,Lingolsheim,10,23,23,Partly Cloudy,5.8,Wednesday,No
+1281,2024-11-14,Parlement Europeen,Wacken,18,46,58,Partly Cloudy,4.2,Thursday,No
+1282,2024-11-14,Place de Bordeaux,Wacken,19,7,4,Partly Cloudy,4.2,Thursday,No
+1283,2024-11-14,Meinau,Meinau,8,36,37,Partly Cloudy,4.2,Thursday,No
+1284,2024-11-15,Gare Centrale,Gare,19,11,10,Cloudy,7.8,Friday,No
+1285,2024-11-15,Petite France,Centre-Ville,9,63,58,Cloudy,7.8,Friday,No
+1286,2024-11-15,Place de Haguenau,Haguenau,10,8,6,Cloudy,7.8,Friday,No
+1287,2024-11-15,Campus Esplanade,Esplanade,18,26,31,Cloudy,7.8,Friday,No
+1288,2024-11-16,Schiltigheim Centre,Schiltigheim,19,8,6,Cloudy,5.9,Saturday,No
+1289,2024-11-16,Place Kleber,Centre-Ville,19,11,8,Cloudy,5.9,Saturday,No
+1290,2024-11-16,Porte de lHopital,Centre-Ville,19,16,12,Cloudy,5.9,Saturday,No
+1291,2024-11-17,Cathedrale,Centre-Ville,9,6,7,Cloudy,3.8,Sunday,No
+1292,2024-11-17,Lingolsheim,Lingolsheim,13,11,8,Cloudy,3.8,Sunday,No
+1293,2024-11-17,Neudorf Marche,Neudorf,14,11,11,Cloudy,3.8,Sunday,No
+1294,2024-11-17,Cronenbourg,Cronenbourg,9,20,18,Cloudy,3.8,Sunday,No
+1295,2024-11-17,Parc de lOrangerie,Orangerie,9,21,24,Cloudy,3.8,Sunday,No
+1296,2024-11-18,Place Arnold,Contades,10,5,5,Rainy,4.7,Monday,No
+1297,2024-11-18,Robertsau,Robertsau,17,12,12,Rainy,4.7,Monday,No
+1298,2024-11-18,Rue du Faubourg National,Gare,13,7,5,Rainy,4.7,Monday,No
+1299,2024-11-19,Place Arnold,Contades,14,11,11,Partly Cloudy,13.2,Tuesday,No
+1300,2024-11-19,Schiltigheim Centre,Schiltigheim,7,17,10,Partly Cloudy,13.2,Tuesday,No
+1301,2024-11-19,Lingolsheim,Lingolsheim,17,35,41,Partly Cloudy,13.2,Tuesday,No
+1302,2024-11-19,Robertsau,Robertsau,12,13,14,Partly Cloudy,13.2,Tuesday,No
+1303,2024-11-20,Illkirch Graffenstaden,Illkirch,7,6,3,Rainy,3.7,Wednesday,No
+1304,2024-11-20,Cathedrale,Centre-Ville,17,9,9,Rainy,3.7,Wednesday,No
+1305,2024-11-20,Krutenau,Krutenau,8,16,17,Rainy,3.7,Wednesday,No
+1306,2024-11-20,Place de la Republique,Republique,7,3,3,Rainy,3.7,Wednesday,No
+1307,2024-11-21,Hopital Civil,Centre-Ville,10,3,2,Snowy,3.1,Thursday,No
+1308,2024-11-21,Cronenbourg,Cronenbourg,7,3,3,Snowy,3.1,Thursday,No
+1309,2024-11-21,Neudorf Marche,Neudorf,19,1,1,Snowy,3.1,Thursday,No
+1310,2024-11-22,Hopital Civil,Centre-Ville,9,48,51,Partly Cloudy,9.2,Friday,No
+1311,2024-11-22,Place de Bordeaux,Wacken,13,33,28,Partly Cloudy,9.2,Friday,No
+1312,2024-11-22,Lingolsheim,Lingolsheim,7,11,15,Partly Cloudy,9.2,Friday,No
+1313,2024-11-23,Place Kleber,Centre-Ville,13,14,18,Sunny,4.3,Saturday,No
+1314,2024-11-23,Place Arnold,Contades,9,19,12,Sunny,4.3,Saturday,No
+1315,2024-11-23,Place de Haguenau,Haguenau,10,7,7,Sunny,4.3,Saturday,No
+1316,2024-11-23,Neudorf Marche,Neudorf,9,20,12,Sunny,4.3,Saturday,No
+1317,2024-11-24,Porte de lHopital,Centre-Ville,18,25,27,Sunny,9.8,Sunday,No
+1318,2024-11-24,Place Kleber,Centre-Ville,14,16,13,Sunny,9.8,Sunday,No
+1319,2024-11-24,Schiltigheim Centre,Schiltigheim,8,21,27,Sunny,9.8,Sunday,No
+1320,2024-11-25,Parlement Europeen,Wacken,13,20,16,Sunny,7.0,Monday,No
+1321,2024-11-25,Quai des Bateliers,Centre-Ville,14,29,36,Sunny,7.0,Monday,No
+1322,2024-11-25,Robertsau,Robertsau,18,41,29,Sunny,7.0,Monday,No
+1323,2024-11-25,Place Kleber,Centre-Ville,18,18,19,Sunny,7.0,Monday,No
+1324,2024-11-25,Gare Centrale,Gare,17,40,44,Sunny,7.0,Monday,No
+1325,2024-11-26,Meinau,Meinau,8,24,19,Rainy,3.0,Tuesday,No
+1326,2024-11-26,Place de Haguenau,Haguenau,19,5,5,Rainy,3.0,Tuesday,No
+1327,2024-11-26,Petite France,Centre-Ville,18,25,23,Rainy,3.0,Tuesday,No
+1328,2024-11-26,Robertsau,Robertsau,19,2,1,Rainy,3.0,Tuesday,No
+1329,2024-11-26,Place de Bordeaux,Wacken,9,13,13,Rainy,3.0,Tuesday,No
+1330,2024-11-27,Petite France,Centre-Ville,7,24,28,Cloudy,13.0,Wednesday,No
+1331,2024-11-27,Hopital Civil,Centre-Ville,12,34,31,Cloudy,13.0,Wednesday,No
+1332,2024-11-27,Robertsau,Robertsau,17,32,31,Cloudy,13.0,Wednesday,No
+1333,2024-11-28,Place Kleber,Centre-Ville,10,19,11,Cloudy,1.8,Thursday,No
+1334,2024-11-28,Schiltigheim Centre,Schiltigheim,17,32,36,Cloudy,1.8,Thursday,No
+1335,2024-11-28,Porte de lHopital,Centre-Ville,7,7,4,Cloudy,1.8,Thursday,No
+1336,2024-11-29,Petite France,Centre-Ville,10,27,29,Partly Cloudy,4.5,Friday,No
+1337,2024-11-29,Place Broglie,Centre-Ville,12,21,13,Partly Cloudy,4.5,Friday,No
+1338,2024-11-29,Place Kleber,Centre-Ville,13,35,46,Partly Cloudy,4.5,Friday,No
+1339,2024-11-30,Place de Haguenau,Haguenau,12,16,15,Partly Cloudy,3.7,Saturday,No
+1340,2024-11-30,Illkirch Graffenstaden,Illkirch,19,7,8,Partly Cloudy,3.7,Saturday,No
+1341,2024-11-30,Porte de lHopital,Centre-Ville,7,13,13,Partly Cloudy,3.7,Saturday,No
+1342,2024-11-30,Gare Centrale,Gare,9,10,10,Partly Cloudy,3.7,Saturday,No
+1343,2024-11-30,Parlement Europeen,Wacken,12,19,16,Partly Cloudy,3.7,Saturday,No
+1344,2024-12-01,Place Broglie,Centre-Ville,17,13,10,Partly Cloudy,6.9,Sunday,No
+1345,2024-12-01,Campus Esplanade,Esplanade,18,4,3,Partly Cloudy,6.9,Sunday,No
+1346,2024-12-01,Place Kleber,Centre-Ville,7,3,3,Partly Cloudy,6.9,Sunday,No
+1347,2024-12-01,Place de la Republique,Republique,12,7,9,Partly Cloudy,6.9,Sunday,No
+1348,2024-12-01,Illkirch Graffenstaden,Illkirch,7,3,2,Partly Cloudy,6.9,Sunday,No
+1349,2024-12-02,Porte de lHopital,Centre-Ville,17,19,23,Cloudy,2.4,Monday,No
+1350,2024-12-02,Neudorf Marche,Neudorf,14,9,6,Cloudy,2.4,Monday,No
+1351,2024-12-02,Cronenbourg,Cronenbourg,18,19,14,Cloudy,2.4,Monday,No
+1352,2024-12-02,Robertsau,Robertsau,14,5,6,Cloudy,2.4,Monday,No
+1353,2024-12-03,Place de Bordeaux,Wacken,14,1,1,Snowy,-0.9,Tuesday,No
+1354,2024-12-03,Place Arnold,Contades,19,1,1,Snowy,-0.9,Tuesday,No
+1355,2024-12-03,Campus Esplanade,Esplanade,8,5,4,Snowy,-0.9,Tuesday,No
+1356,2024-12-03,Petite France,Centre-Ville,14,1,0,Snowy,-0.9,Tuesday,No
+1357,2024-12-04,Place Arnold,Contades,8,4,5,Snowy,4.3,Wednesday,No
+1358,2024-12-04,Place Broglie,Centre-Ville,13,0,0,Snowy,4.3,Wednesday,No
+1359,2024-12-04,Place Kleber,Centre-Ville,18,4,4,Snowy,4.3,Wednesday,No
+1360,2024-12-04,Illkirch Graffenstaden,Illkirch,9,3,3,Snowy,4.3,Wednesday,No
+1361,2024-12-05,Quai des Bateliers,Centre-Ville,9,18,19,Cloudy,1.5,Thursday,No
+1362,2024-12-05,Place de la Republique,Republique,9,21,23,Cloudy,1.5,Thursday,No
+1363,2024-12-05,Parc de lOrangerie,Orangerie,14,6,4,Cloudy,1.5,Thursday,No
+1364,2024-12-05,Place Arnold,Contades,9,13,16,Cloudy,1.5,Thursday,No
+1365,2024-12-05,Place de Haguenau,Haguenau,17,17,18,Cloudy,1.5,Thursday,No
+1366,2024-12-06,Lingolsheim,Lingolsheim,17,22,25,Cloudy,3.2,Friday,No
+1367,2024-12-06,Petite France,Centre-Ville,14,9,9,Cloudy,3.2,Friday,No
+1368,2024-12-06,Porte de lHopital,Centre-Ville,17,26,28,Cloudy,3.2,Friday,No
+1369,2024-12-06,Hopital Civil,Centre-Ville,9,27,25,Cloudy,3.2,Friday,No
+1370,2024-12-07,Krutenau,Krutenau,14,5,6,Cloudy,0.1,Saturday,No
+1371,2024-12-07,Quai des Bateliers,Centre-Ville,9,12,8,Cloudy,0.1,Saturday,No
+1372,2024-12-07,Place Broglie,Centre-Ville,17,24,15,Cloudy,0.1,Saturday,No
+1373,2024-12-08,Place Broglie,Centre-Ville,10,0,0,Snowy,5.6,Sunday,No
+1374,2024-12-08,Krutenau,Krutenau,8,2,2,Snowy,5.6,Sunday,No
+1375,2024-12-08,Gare Centrale,Gare,17,2,2,Snowy,5.6,Sunday,No
+1376,2024-12-08,Place de la Republique,Republique,7,1,1,Snowy,5.6,Sunday,No
+1377,2024-12-09,Krutenau,Krutenau,14,5,3,Partly Cloudy,3.3,Monday,No
+1378,2024-12-09,Campus Esplanade,Esplanade,18,20,12,Partly Cloudy,3.3,Monday,No
+1379,2024-12-09,Parlement Europeen,Wacken,14,6,7,Partly Cloudy,3.3,Monday,No
+1380,2024-12-09,Illkirch Graffenstaden,Illkirch,13,20,19,Partly Cloudy,3.3,Monday,No
+1381,2024-12-09,Place de Haguenau,Haguenau,8,16,15,Partly Cloudy,3.3,Monday,No
+1382,2024-12-10,Robertsau,Robertsau,17,5,3,Rainy,2.9,Tuesday,No
+1383,2024-12-10,Place de la Republique,Republique,9,6,6,Rainy,2.9,Tuesday,No
+1384,2024-12-10,Cronenbourg,Cronenbourg,14,3,2,Rainy,2.9,Tuesday,No
+1385,2024-12-10,Meinau,Meinau,18,9,9,Rainy,2.9,Tuesday,No
+1386,2024-12-11,Campus Esplanade,Esplanade,9,10,11,Rainy,5.1,Wednesday,No
+1387,2024-12-11,Meinau,Meinau,17,6,8,Rainy,5.1,Wednesday,No
+1388,2024-12-11,Illkirch Graffenstaden,Illkirch,13,5,4,Rainy,5.1,Wednesday,No
+1389,2024-12-12,Parlement Europeen,Wacken,14,8,9,Cloudy,4.1,Thursday,No
+1390,2024-12-12,Illkirch Graffenstaden,Illkirch,14,9,12,Cloudy,4.1,Thursday,No
+1391,2024-12-12,Petite France,Centre-Ville,12,20,27,Cloudy,4.1,Thursday,No
+1392,2024-12-12,Place Kleber,Centre-Ville,7,7,4,Cloudy,4.1,Thursday,No
+1393,2024-12-13,Petite France,Centre-Ville,10,1,1,Snowy,3.4,Friday,No
+1394,2024-12-13,Place de Haguenau,Haguenau,18,4,4,Snowy,3.4,Friday,No
+1395,2024-12-13,Campus Esplanade,Esplanade,12,2,2,Snowy,3.4,Friday,No
+1396,2024-12-14,Gare Centrale,Gare,10,3,3,Partly Cloudy,-0.2,Saturday,No
+1397,2024-12-14,Porte de lHopital,Centre-Ville,8,19,22,Partly Cloudy,-0.2,Saturday,No
+1398,2024-12-14,Schiltigheim Centre,Schiltigheim,12,7,5,Partly Cloudy,-0.2,Saturday,No
+1399,2024-12-14,Petite France,Centre-Ville,7,2,1,Partly Cloudy,-0.2,Saturday,No
+1400,2024-12-14,Lingolsheim,Lingolsheim,12,6,3,Partly Cloudy,-0.2,Saturday,No
+1401,2024-12-15,Gare Centrale,Gare,10,2,1,Sunny,-0.9,Sunday,No
+1402,2024-12-15,Parc de lOrangerie,Orangerie,17,11,11,Sunny,-0.9,Sunday,No
+1403,2024-12-15,Place Broglie,Centre-Ville,19,6,7,Sunny,-0.9,Sunday,No
+1404,2024-12-15,Place de Haguenau,Haguenau,18,5,4,Sunny,-0.9,Sunday,No
+1405,2024-12-15,Hopital Civil,Centre-Ville,12,4,4,Sunny,-0.9,Sunday,No
+1406,2024-12-16,Place Broglie,Centre-Ville,7,4,5,Partly Cloudy,-1.5,Monday,No
+1407,2024-12-16,Gare Centrale,Gare,18,18,21,Partly Cloudy,-1.5,Monday,No
+1408,2024-12-16,Petite France,Centre-Ville,12,23,25,Partly Cloudy,-1.5,Monday,No
+1409,2024-12-16,Porte de lHopital,Centre-Ville,10,11,11,Partly Cloudy,-1.5,Monday,No
+1410,2024-12-17,Krutenau,Krutenau,10,8,7,Partly Cloudy,3.3,Tuesday,No
+1411,2024-12-17,Gare Centrale,Gare,14,2,2,Partly Cloudy,3.3,Tuesday,No
+1412,2024-12-17,Illkirch Graffenstaden,Illkirch,7,7,6,Partly Cloudy,3.3,Tuesday,No
+1413,2024-12-17,Place de la Republique,Republique,19,7,8,Partly Cloudy,3.3,Tuesday,No
+1414,2024-12-18,Meinau,Meinau,17,16,9,Cloudy,0.9,Wednesday,No
+1415,2024-12-18,Place de la Republique,Republique,18,18,18,Cloudy,0.9,Wednesday,No
+1416,2024-12-18,Place Arnold,Contades,19,9,11,Cloudy,0.9,Wednesday,No
+1417,2024-12-18,Porte de lHopital,Centre-Ville,14,10,11,Cloudy,0.9,Wednesday,No
+1418,2024-12-19,Parc de lOrangerie,Orangerie,9,6,7,Rainy,3.6,Thursday,No
+1419,2024-12-19,Cronenbourg,Cronenbourg,8,6,4,Rainy,3.6,Thursday,No
+1420,2024-12-19,Krutenau,Krutenau,19,3,2,Rainy,3.6,Thursday,No
+1421,2024-12-20,Rue du Faubourg National,Gare,17,15,14,Cloudy,5.2,Friday,No
+1422,2024-12-20,Quai des Bateliers,Centre-Ville,10,14,19,Cloudy,5.2,Friday,No
+1423,2024-12-20,Petite France,Centre-Ville,8,24,21,Cloudy,5.2,Friday,No
+1424,2024-12-20,Place de Bordeaux,Wacken,10,6,6,Cloudy,5.2,Friday,No
+1425,2024-12-20,Neudorf Marche,Neudorf,19,4,5,Cloudy,5.2,Friday,No
+1426,2024-12-21,Place de Bordeaux,Wacken,14,3,3,Partly Cloudy,1.2,Saturday,No
+1427,2024-12-21,Illkirch Graffenstaden,Illkirch,9,9,11,Partly Cloudy,1.2,Saturday,No
+1428,2024-12-21,Place de la Republique,Republique,9,8,6,Partly Cloudy,1.2,Saturday,No
+1429,2024-12-21,Hopital Civil,Centre-Ville,10,7,9,Partly Cloudy,1.2,Saturday,No
+1430,2024-12-22,Quai des Bateliers,Centre-Ville,14,1,1,Rainy,5.3,Sunday,No
+1431,2024-12-22,Lingolsheim,Lingolsheim,9,3,3,Rainy,5.3,Sunday,No
+1432,2024-12-22,Place de la Republique,Republique,17,4,2,Rainy,5.3,Sunday,No
+1433,2024-12-22,Schiltigheim Centre,Schiltigheim,8,4,3,Rainy,5.3,Sunday,No
+1434,2024-12-22,Illkirch Graffenstaden,Illkirch,19,1,1,Rainy,5.3,Sunday,No
+1435,2024-12-23,Place Broglie,Centre-Ville,13,6,7,Rainy,1.2,Monday,No
+1436,2024-12-23,Porte de lHopital,Centre-Ville,19,4,4,Rainy,1.2,Monday,No
+1437,2024-12-23,Place de Haguenau,Haguenau,7,1,0,Rainy,1.2,Monday,No
+1438,2024-12-24,Place de Haguenau,Haguenau,17,9,12,Rainy,-0.3,Tuesday,No
+1439,2024-12-24,Parc de lOrangerie,Orangerie,10,3,2,Rainy,-0.3,Tuesday,No
+1440,2024-12-24,Hopital Civil,Centre-Ville,14,4,3,Rainy,-0.3,Tuesday,No
+1441,2024-12-24,Porte de lHopital,Centre-Ville,18,3,2,Rainy,-0.3,Tuesday,No
+1442,2024-12-25,Schiltigheim Centre,Schiltigheim,19,3,3,Cloudy,3.8,Wednesday,Yes
+1443,2024-12-25,Place de la Republique,Republique,14,2,1,Cloudy,3.8,Wednesday,Yes
+1444,2024-12-25,Petite France,Centre-Ville,17,14,10,Cloudy,3.8,Wednesday,Yes
+1445,2024-12-25,Quai des Bateliers,Centre-Ville,12,4,2,Cloudy,3.8,Wednesday,Yes
+1446,2024-12-26,Meinau,Meinau,10,6,6,Sunny,6.6,Thursday,No
+1447,2024-12-26,Parc de lOrangerie,Orangerie,9,24,23,Sunny,6.6,Thursday,No
+1448,2024-12-26,Place de la Republique,Republique,18,27,29,Sunny,6.6,Thursday,No
+1449,2024-12-26,Quai des Bateliers,Centre-Ville,9,22,15,Sunny,6.6,Thursday,No
+1450,2024-12-26,Rue du Faubourg National,Gare,12,12,11,Sunny,6.6,Thursday,No
+1451,2024-12-27,Rue du Faubourg National,Gare,18,17,17,Partly Cloudy,-0.7,Friday,No
+1452,2024-12-27,Parc de lOrangerie,Orangerie,10,6,7,Partly Cloudy,-0.7,Friday,No
+1453,2024-12-27,Place Arnold,Contades,13,7,4,Partly Cloudy,-0.7,Friday,No
+1454,2024-12-28,Neudorf Marche,Neudorf,13,1,0,Rainy,2.6,Saturday,No
+1455,2024-12-28,Lingolsheim,Lingolsheim,8,3,3,Rainy,2.6,Saturday,No
+1456,2024-12-28,Campus Esplanade,Esplanade,19,1,1,Rainy,2.6,Saturday,No
+1457,2024-12-28,Parlement Europeen,Wacken,18,5,6,Rainy,2.6,Saturday,No
+1458,2024-12-28,Gare Centrale,Gare,9,2,1,Rainy,2.6,Saturday,No
+1459,2024-12-29,Parc de lOrangerie,Orangerie,8,9,6,Partly Cloudy,-2.9,Sunday,No
+1460,2024-12-29,Cathedrale,Centre-Ville,12,7,8,Partly Cloudy,-2.9,Sunday,No
+1461,2024-12-29,Illkirch Graffenstaden,Illkirch,18,11,10,Partly Cloudy,-2.9,Sunday,No
+1462,2024-12-30,Place de Haguenau,Haguenau,8,4,3,Snowy,2.0,Monday,No
+1463,2024-12-30,Gare Centrale,Gare,10,1,1,Snowy,2.0,Monday,No
+1464,2024-12-30,Cathedrale,Centre-Ville,8,5,3,Snowy,2.0,Monday,No

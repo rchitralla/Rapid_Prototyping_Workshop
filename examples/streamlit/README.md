@@ -23,7 +23,10 @@ Replace the sample data in `app.py` with your chosen dataset:
 ```python
 import pandas as pd
 
-df = pd.read_csv("../../datasets/startup_funding.csv")
+# Choose one:
+df = pd.read_csv("../../datasets/alsace_wines.csv")
+# df = pd.read_csv("../../datasets/strasbourg_bikes.csv")
+# df = pd.read_csv("../../datasets/christmas_markets.csv")
 
 # Quick check
 st.write(f"Loaded {len(df)} rows and {len(df.columns)} columns")
@@ -32,25 +35,25 @@ st.dataframe(df.head())
 
 ## Step 2: Add Sidebar Filters
 
-Filters let users explore the data interactively:
+Filters let users explore the data interactively. Here's an example using the wine dataset:
 
 ```python
 st.sidebar.header("Filters")
 
 # Dropdown filter
-industry = st.sidebar.selectbox("Industry", ["All"] + sorted(df["industry"].unique()))
-if industry != "All":
-    df = df[df["industry"] == industry]
+grape = st.sidebar.selectbox("Grape Variety", ["All"] + sorted(df["grape_variety"].unique()))
+if grape != "All":
+    df = df[df["grape_variety"] == grape]
 
 # Multi-select filter
-stages = st.sidebar.multiselect("Funding Stage", df["funding_stage"].unique())
-if stages:
-    df = df[df["funding_stage"].isin(stages)]
+villages = st.sidebar.multiselect("Village", df["village"].unique())
+if villages:
+    df = df[df["village"].isin(villages)]
 
 # Range slider
-min_val, max_val = int(df["amount_usd"].min()), int(df["amount_usd"].max())
-amount_range = st.sidebar.slider("Funding Amount", min_val, max_val, (min_val, max_val))
-df = df[df["amount_usd"].between(*amount_range)]
+min_price, max_price = float(df["price_eur"].min()), float(df["price_eur"].max())
+price_range = st.sidebar.slider("Price Range (EUR)", min_price, max_price, (min_price, max_price))
+df = df[df["price_eur"].between(*price_range)]
 ```
 
 ## Step 3: Add Metrics
@@ -59,9 +62,9 @@ Show key numbers at a glance:
 
 ```python
 col1, col2, col3 = st.columns(3)
-col1.metric("Total Companies", len(df))
-col2.metric("Total Funding", f"${df['amount_usd'].sum():,.0f}")
-col3.metric("Avg Round Size", f"${df['amount_usd'].mean():,.0f}")
+col1.metric("Total Wines", len(df))
+col2.metric("Avg Price", f"{df['price_eur'].mean():.0f} EUR")
+col3.metric("Avg Rating", f"{df['rating'].mean():.1f} / 5")
 ```
 
 ## Step 4: Add Charts
@@ -72,19 +75,19 @@ Use Plotly for interactive visualizations:
 import plotly.express as px
 
 # Bar chart
-fig = px.bar(df, x="industry", y="amount_usd", color="funding_stage",
-             title="Funding by Industry and Stage")
+fig = px.bar(df, x="grape_variety", y="price_eur", color="classification",
+             title="Price by Grape Variety and Classification")
 st.plotly_chart(fig, use_container_width=True)
 
 # Scatter plot
-fig2 = px.scatter(df, x="date", y="amount_usd", color="industry",
-                  size="amount_usd", hover_name="company_name",
-                  title="Funding Timeline")
+fig2 = px.scatter(df, x="price_eur", y="rating", color="grape_variety",
+                  hover_name="producer",
+                  title="Price vs Rating")
 st.plotly_chart(fig2, use_container_width=True)
 
 # Pie chart
-fig3 = px.pie(df, names="funding_stage", values="amount_usd",
-              title="Funding Distribution by Stage")
+fig3 = px.pie(df, names="grape_variety",
+              title="Distribution by Grape Variety")
 st.plotly_chart(fig3, use_container_width=True)
 ```
 

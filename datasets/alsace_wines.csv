@@ -1,0 +1,501 @@
+wine_id,grape_variety,village,producer,classification,vintage,price_eur,rating,organic
+1,Gewurztraminer,Riquewihr,Domaine Valentin Zusslin,AOC Alsace,2018,11.56,3.7,No
+2,Pinot Noir,Ribeauville,Domaine Weinbach,AOC Alsace,2018,17.32,3.6,Yes
+3,Pinot Blanc,Kientzheim,Domaine Rolly Gassmann,AOC Alsace Grand Cru,2021,14.55,2.8,Yes
+4,Pinot Gris,Kientzheim,Domaine Barmes-Buecher,AOC Alsace,2017,11.62,2.8,No
+5,Gewurztraminer,Colmar,Domaine Albert Mann,AOC Alsace,2020,17.41,3.4,No
+6,Pinot Noir,Colmar,Domaine Schlumberger,AOC Alsace,2020,18.29,2.6,No
+7,Riesling,Ammerschwihr,Leon Beyer,AOC Alsace Grand Cru,2016,31.75,3.7,No
+8,Sylvaner,Obernai,Domaine Schoffit,AOC Alsace,2019,10.65,2.9,No
+9,Gewurztraminer,Heiligenstein,Domaine Rolly Gassmann,AOC Alsace,2018,11.86,2.5,No
+10,Pinot Blanc,Ammerschwihr,Domaine Paul Blanck,Vendanges Tardives,2015,20.39,4.5,Yes
+11,Sylvaner,Bergheim,Domaine Bott-Geyl,AOC Alsace,2020,7.13,2.5,No
+12,Pinot Gris,Andlau,Marcel Deiss,AOC Alsace,2023,15.41,3.2,No
+13,Pinot Noir,Soultzmatt,Domaine Marc Kreydenweiss,AOC Alsace,2018,23.96,3.5,No
+14,Gewurztraminer,Kaysersberg,Domaine Rolly Gassmann,AOC Alsace,2021,17.31,3.6,No
+15,Cremant d Alsace,Wintzenheim,Domaine Bott-Geyl,AOC Alsace,2015,13.12,3.8,No
+16,Sylvaner,Eguisheim,Josmeyer,AOC Alsace,2022,5.62,3.7,No
+17,Muscat,Wintzenheim,Domaine Pierre Frick,AOC Alsace,2016,16.32,3.0,No
+18,Pinot Gris,Hunawihr,Domaine Pierre Frick,AOC Alsace,2023,19.85,3.7,No
+19,Cremant d Alsace,Riquewihr,Domaine Zind-Humbrecht,AOC Alsace,2019,9.16,3.2,Yes
+20,Cremant d Alsace,Westhalten,Hugel et Fils,AOC Alsace,2023,13.89,3.7,Yes
+21,Cremant d Alsace,Molsheim,Albert Boxler,AOC Alsace,2021,15.68,3.8,No
+22,Muscat,Bergheim,Domaine Ernest Burn,AOC Alsace Grand Cru,2022,29.89,3.2,No
+23,Pinot Blanc,Mittelbergheim,Hugel et Fils,AOC Alsace,2023,8.16,3.2,No
+24,Pinot Blanc,Colmar,Domaine Barmès,AOC Alsace,2020,6.87,3.4,Yes
+25,Cremant d Alsace,Barr,Domaine Schlumberger,AOC Alsace,2022,9.19,2.8,Yes
+26,Pinot Noir,Hunawihr,Domaine Barmes-Buecher,AOC Alsace,2015,19.59,3.3,No
+27,Gewurztraminer,Ribeauville,Domaine Albert Mann,AOC Alsace Grand Cru,2016,23.28,3.6,No
+28,Muscat,Guebwiller,Leon Beyer,Vendanges Tardives,2016,30.22,4.1,No
+29,Gewurztraminer,Ribeauville,Domaine Rolly Gassmann,Selection de Grains Nobles,2015,77.03,4.6,Yes
+30,Cremant d Alsace,Thann,Domaine Ostertag,AOC Alsace,2015,8.48,2.9,Yes
+31,Pinot Noir,Andlau,Domaine Kuentz-Bas,AOC Alsace,2022,14.35,3.0,No
+32,Cremant d Alsace,Kaysersberg,Domaine Ostertag,AOC Alsace,2015,12.21,2.6,No
+33,Sylvaner,Ribeauville,Trimbach,AOC Alsace Grand Cru,2023,22.0,3.3,No
+34,Pinot Gris,Colmar,Domaine Mittnacht-Klack,AOC Alsace,2018,13.82,3.2,No
+35,Pinot Blanc,Marlenheim,Domaine Mittnacht-Klack,AOC Alsace,2016,9.7,2.8,No
+36,Pinot Blanc,Ammerschwihr,Domaine Dirler-Cade,AOC Alsace,2019,9.51,3.0,No
+37,Muscat,Guebwiller,Domaine Paul Blanck,Selection de Grains Nobles,2016,27.27,3.6,Yes
+38,Pinot Blanc,Wintzenheim,Domaine Bott-Geyl,AOC Alsace,2020,13.43,2.8,No
+39,Sylvaner,Dambach-la-Ville,Albert Boxler,AOC Alsace,2023,10.67,2.5,No
+40,Riesling,Ammerschwihr,Domaine Loew,AOC Alsace Grand Cru,2016,33.37,2.7,Yes
+41,Gewurztraminer,Soultzmatt,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2017,23.82,2.9,Yes
+42,Muscat,Wintzenheim,Dopff au Moulin,AOC Alsace,2015,8.61,2.8,No
+43,Muscat,Ribeauville,Domaine Weinbach,AOC Alsace,2017,14.01,3.2,No
+44,Pinot Noir,Molsheim,Domaine Weinbach,AOC Alsace,2017,17.87,3.9,No
+45,Pinot Gris,Rouffach,Marcel Deiss,AOC Alsace,2020,19.62,3.4,No
+46,Pinot Blanc,Ammerschwihr,Leon Beyer,AOC Alsace Grand Cru,2020,22.71,2.7,No
+47,Pinot Noir,Heiligenstein,Domaine Valentin Zusslin,AOC Alsace,2018,22.17,3.9,No
+48,Riesling,Obernai,Domaine Valentin Zusslin,Selection de Grains Nobles,2021,59.72,3.8,No
+49,Pinot Blanc,Andlau,Albert Boxler,AOC Alsace Grand Cru,2016,16.92,3.9,Yes
+50,Cremant d Alsace,Hunawihr,Josmeyer,AOC Alsace,2018,9.01,3.3,No
+51,Pinot Noir,Turckheim,Domaine Bott-Geyl,AOC Alsace,2019,15.24,2.6,No
+52,Sylvaner,Riquewihr,Domaine Zind-Humbrecht,Vendanges Tardives,2019,17.21,3.6,No
+53,Muscat,Ribeauville,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2020,26.84,3.2,No
+54,Pinot Noir,Soultzmatt,Domaine Marc Kreydenweiss,AOC Alsace,2015,20.07,3.7,Yes
+55,Pinot Blanc,Hunawihr,Domaine Barmes-Buecher,AOC Alsace,2020,11.35,3.1,No
+56,Muscat,Ammerschwihr,Domaine Barmes-Buecher,AOC Alsace,2019,13.19,3.0,Yes
+57,Pinot Noir,Ammerschwihr,Domaine Valentin Zusslin,AOC Alsace,2019,15.98,3.4,Yes
+58,Sylvaner,Guebwiller,Cave de Ribeauville,AOC Alsace,2018,9.28,2.9,No
+59,Pinot Gris,Ammerschwihr,Hugel et Fils,AOC Alsace,2020,10.19,3.5,No
+60,Pinot Blanc,Kaysersberg,Domaine Weinbach,AOC Alsace,2022,11.25,3.1,No
+61,Cremant d Alsace,Rouffach,Domaine Barmès,AOC Alsace,2018,13.47,2.9,Yes
+62,Riesling,Soultzmatt,Domaine Pierre Frick,Vendanges Tardives,2016,42.02,3.9,Yes
+63,Cremant d Alsace,Ribeauville,Domaine Schlumberger,AOC Alsace,2016,11.11,3.4,No
+64,Sylvaner,Bennwihr,Domaine Barmès,AOC Alsace,2023,8.67,2.6,No
+65,Cremant d Alsace,Soultzmatt,Albert Boxler,AOC Alsace,2022,11.05,3.2,Yes
+66,Cremant d Alsace,Nothalten,Leon Beyer,AOC Alsace,2016,13.42,2.5,Yes
+67,Sylvaner,Turckheim,Domaine Barmès,AOC Alsace,2017,6.69,3.0,Yes
+68,Pinot Noir,Rouffach,Domaine Paul Blanck,AOC Alsace,2021,11.34,3.4,No
+69,Pinot Noir,Soultzmatt,Domaine Pierre Frick,AOC Alsace,2015,22.07,3.2,Yes
+70,Sylvaner,Dambach-la-Ville,Domaine Pierre Frick,AOC Alsace,2021,9.48,2.8,No
+71,Pinot Blanc,Thann,Leon Beyer,AOC Alsace,2022,6.54,2.9,No
+72,Pinot Gris,Westhalten,Cave de Ribeauville,Vendanges Tardives,2023,23.54,4.2,No
+73,Riesling,Colmar,Domaine Rolly Gassmann,AOC Alsace,2022,10.36,3.2,No
+74,Sylvaner,Bennwihr,Domaine Barmès,AOC Alsace,2021,7.42,3.6,Yes
+75,Riesling,Sigolsheim,Domaine Schlumberger,AOC Alsace,2020,10.82,4.1,Yes
+76,Riesling,Mittelbergheim,Domaine Ostertag,Vendanges Tardives,2017,27.44,4.1,No
+77,Gewurztraminer,Marlenheim,Domaine Ostertag,AOC Alsace,2019,19.46,3.5,No
+78,Gewurztraminer,Bennwihr,Domaine Loew,AOC Alsace,2019,11.16,3.7,Yes
+79,Muscat,Marlenheim,Domaine Ernest Burn,Vendanges Tardives,2021,29.07,3.6,No
+80,Pinot Blanc,Eguisheim,Domaine Dirler-Cade,AOC Alsace Grand Cru,2016,22.95,3.3,No
+81,Riesling,Hunawihr,Domaine Schlumberger,AOC Alsace,2020,9.14,3.2,No
+82,Cremant d Alsace,Eguisheim,Domaine Barmes-Buecher,AOC Alsace,2022,13.37,3.1,No
+83,Muscat,Heiligenstein,Cave de Pfaffenheim,Vendanges Tardives,2022,30.76,3.9,No
+84,Pinot Blanc,Westhalten,Domaine Kuentz-Bas,AOC Alsace,2022,8.28,2.7,No
+85,Pinot Noir,Turckheim,Domaine Weinbach,AOC Alsace,2020,12.95,3.4,No
+86,Muscat,Molsheim,Domaine Weinbach,AOC Alsace,2018,8.55,3.9,No
+87,Cremant d Alsace,Molsheim,Domaine Pierre Frick,AOC Alsace,2022,12.81,2.5,Yes
+88,Pinot Blanc,Bergheim,Domaine Dirler-Cade,AOC Alsace,2020,10.13,3.2,No
+89,Pinot Noir,Sigolsheim,Domaine Schlumberger,AOC Alsace,2022,14.16,3.2,Yes
+90,Gewurztraminer,Sigolsheim,Domaine Schlumberger,Selection de Grains Nobles,2017,42.75,4.2,No
+91,Muscat,Sigolsheim,Domaine Marc Kreydenweiss,Selection de Grains Nobles,2023,47.63,4.7,Yes
+92,Sylvaner,Obernai,Josmeyer,AOC Alsace,2023,6.51,3.1,Yes
+93,Riesling,Molsheim,Josmeyer,AOC Alsace Grand Cru,2017,27.52,3.4,Yes
+94,Muscat,Thann,Dopff au Moulin,AOC Alsace,2017,17.26,3.0,Yes
+95,Cremant d Alsace,Eguisheim,Domaine Loew,AOC Alsace,2022,7.67,3.1,Yes
+96,Muscat,Colmar,Leon Beyer,AOC Alsace,2021,13.7,3.1,No
+97,Pinot Blanc,Bennwihr,Cave de Turckheim,AOC Alsace,2022,8.71,2.8,No
+98,Riesling,Heiligenstein,Domaine Valentin Zusslin,AOC Alsace,2018,15.16,3.0,Yes
+99,Gewurztraminer,Obernai,Leon Beyer,AOC Alsace,2016,11.77,2.7,No
+100,Riesling,Mittelbergheim,Josmeyer,AOC Alsace Grand Cru,2022,16.5,3.8,Yes
+101,Muscat,Zellenberg,Cave de Pfaffenheim,AOC Alsace Grand Cru,2018,21.44,2.9,No
+102,Pinot Gris,Colmar,Trimbach,AOC Alsace,2019,16.06,3.0,No
+103,Muscat,Guebwiller,Domaine Zind-Humbrecht,AOC Alsace,2019,14.63,3.6,No
+104,Gewurztraminer,Heiligenstein,Trimbach,Vendanges Tardives,2020,43.52,3.5,Yes
+105,Pinot Blanc,Ammerschwihr,Domaine Loew,Vendanges Tardives,2015,35.99,3.5,Yes
+106,Pinot Gris,Thann,Cave de Turckheim,AOC Alsace Grand Cru,2019,20.2,3.2,No
+107,Cremant d Alsace,Colmar,Dopff au Moulin,AOC Alsace,2020,9.89,3.4,No
+108,Cremant d Alsace,Dambach-la-Ville,Domaine Ernest Burn,AOC Alsace,2023,7.33,3.3,Yes
+109,Muscat,Turckheim,Domaine Zind-Humbrecht,Selection de Grains Nobles,2021,56.92,4.0,No
+110,Cremant d Alsace,Rouffach,Trimbach,AOC Alsace,2020,12.6,3.2,No
+111,Cremant d Alsace,Bennwihr,Trimbach,AOC Alsace,2023,8.18,3.0,No
+112,Riesling,Nothalten,Domaine Mittnacht-Klack,AOC Alsace Grand Cru,2017,21.16,4.2,Yes
+113,Pinot Noir,Colmar,Leon Beyer,AOC Alsace,2016,16.73,3.8,No
+114,Muscat,Wintzenheim,Domaine Dirler-Cade,AOC Alsace,2022,17.4,3.7,Yes
+115,Pinot Gris,Bergheim,Domaine Ostertag,Selection de Grains Nobles,2023,62.41,4.0,No
+116,Pinot Noir,Turckheim,Domaine Kuentz-Bas,AOC Alsace,2019,21.58,3.3,Yes
+117,Muscat,Westhalten,Domaine Marc Kreydenweiss,AOC Alsace Grand Cru,2022,29.28,3.0,No
+118,Pinot Noir,Guebwiller,Domaine Kuentz-Bas,AOC Alsace,2018,23.74,3.4,Yes
+119,Pinot Noir,Mittelbergheim,Domaine Muré,AOC Alsace,2015,14.8,2.5,No
+120,Pinot Gris,Thann,Trimbach,AOC Alsace,2020,19.28,3.3,No
+121,Cremant d Alsace,Eguisheim,Cave de Turckheim,AOC Alsace,2015,13.5,2.7,Yes
+122,Cremant d Alsace,Zellenberg,Domaine Bott-Geyl,AOC Alsace,2021,12.85,3.5,No
+123,Pinot Noir,Turckheim,Domaine Rolly Gassmann,AOC Alsace,2022,22.28,3.3,No
+124,Muscat,Mittelbergheim,Domaine Valentin Zusslin,AOC Alsace,2016,15.23,3.2,No
+125,Gewurztraminer,Guebwiller,Albert Boxler,AOC Alsace Grand Cru,2015,18.68,3.5,No
+126,Pinot Gris,Mittelbergheim,Cave de Turckheim,AOC Alsace,2017,11.09,2.9,Yes
+127,Pinot Noir,Heiligenstein,Domaine Ernest Burn,AOC Alsace,2017,13.63,2.9,No
+128,Cremant d Alsace,Soultzmatt,Josmeyer,AOC Alsace,2017,7.66,2.9,No
+129,Muscat,Nothalten,Domaine Barmes-Buecher,AOC Alsace Grand Cru,2022,28.92,3.6,No
+130,Pinot Blanc,Bergheim,Domaine Marc Kreydenweiss,AOC Alsace,2019,14.34,3.6,Yes
+131,Pinot Noir,Andlau,Domaine Weinbach,AOC Alsace,2015,22.79,3.2,No
+132,Pinot Blanc,Heiligenstein,Cave de Pfaffenheim,AOC Alsace,2018,11.33,2.5,No
+133,Pinot Gris,Nothalten,Domaine Zind-Humbrecht,Vendanges Tardives,2015,31.79,3.2,No
+134,Gewurztraminer,Orschwihr,Josmeyer,AOC Alsace,2021,12.01,3.4,Yes
+135,Sylvaner,Wintzenheim,Cave de Turckheim,Vendanges Tardives,2017,18.63,3.9,No
+136,Sylvaner,Zellenberg,Domaine Zind-Humbrecht,AOC Alsace,2016,6.61,2.8,No
+137,Pinot Noir,Pfaffenheim,Cave de Pfaffenheim,AOC Alsace,2016,21.17,3.7,No
+138,Muscat,Marlenheim,Domaine Albert Mann,Vendanges Tardives,2020,21.93,3.7,Yes
+139,Riesling,Heiligenstein,Domaine Barmès,Selection de Grains Nobles,2020,64.0,4.0,No
+140,Muscat,Nothalten,Domaine Barmes-Buecher,AOC Alsace,2015,17.07,3.3,No
+141,Cremant d Alsace,Eguisheim,Domaine Zind-Humbrecht,AOC Alsace,2023,8.22,2.6,No
+142,Pinot Noir,Marlenheim,Domaine Valentin Zusslin,AOC Alsace,2021,19.34,3.4,No
+143,Pinot Noir,Andlau,Trimbach,AOC Alsace,2018,16.49,3.9,Yes
+144,Sylvaner,Molsheim,Domaine Barmès,Selection de Grains Nobles,2020,21.13,3.7,Yes
+145,Gewurztraminer,Pfaffenheim,Domaine Loew,AOC Alsace,2018,17.89,3.1,No
+146,Pinot Blanc,Kaysersberg,Cave de Pfaffenheim,AOC Alsace Grand Cru,2016,23.44,3.4,No
+147,Pinot Blanc,Westhalten,Domaine Muré,AOC Alsace,2017,12.69,2.9,No
+148,Pinot Gris,Molsheim,Domaine Bott-Geyl,AOC Alsace Grand Cru,2016,30.3,3.3,Yes
+149,Riesling,Hunawihr,Cave de Pfaffenheim,AOC Alsace Grand Cru,2020,15.43,3.4,No
+150,Gewurztraminer,Sigolsheim,Hugel et Fils,AOC Alsace,2020,16.27,3.4,Yes
+151,Pinot Blanc,Heiligenstein,Trimbach,AOC Alsace Grand Cru,2023,15.74,3.4,No
+152,Pinot Noir,Rouffach,Domaine Ernest Burn,AOC Alsace,2022,11.49,3.1,Yes
+153,Pinot Gris,Colmar,Marcel Deiss,AOC Alsace,2023,17.43,2.8,Yes
+154,Pinot Noir,Eguisheim,Cave de Pfaffenheim,AOC Alsace,2023,20.23,3.6,Yes
+155,Cremant d Alsace,Soultzmatt,Leon Beyer,AOC Alsace,2022,10.59,3.2,No
+156,Muscat,Hunawihr,Marcel Deiss,AOC Alsace Grand Cru,2022,15.06,3.1,No
+157,Gewurztraminer,Rouffach,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2020,36.05,2.9,No
+158,Sylvaner,Ammerschwihr,Domaine Zind-Humbrecht,AOC Alsace,2021,11.85,3.0,No
+159,Muscat,Heiligenstein,Josmeyer,AOC Alsace,2023,9.81,3.0,Yes
+160,Sylvaner,Eguisheim,Domaine Pierre Frick,AOC Alsace,2018,11.41,3.0,No
+161,Riesling,Heiligenstein,Domaine Kuentz-Bas,AOC Alsace Grand Cru,2019,15.68,3.3,No
+162,Sylvaner,Riquewihr,Albert Boxler,Vendanges Tardives,2021,15.25,4.3,No
+163,Riesling,Colmar,Domaine Valentin Zusslin,AOC Alsace,2021,12.93,3.0,No
+164,Gewurztraminer,Soultzmatt,Trimbach,AOC Alsace,2015,18.29,3.5,Yes
+165,Pinot Noir,Thann,Domaine Mittnacht-Klack,AOC Alsace,2019,13.41,2.8,Yes
+166,Cremant d Alsace,Wintzenheim,Domaine Ernest Burn,AOC Alsace,2018,10.56,3.2,No
+167,Riesling,Barr,Josmeyer,Selection de Grains Nobles,2017,58.29,3.9,No
+168,Pinot Noir,Obernai,Marcel Deiss,AOC Alsace,2018,17.25,3.4,No
+169,Sylvaner,Colmar,Domaine Albert Mann,Vendanges Tardives,2015,21.85,3.5,No
+170,Pinot Noir,Marlenheim,Domaine Albert Mann,AOC Alsace,2021,14.41,3.2,No
+171,Sylvaner,Obernai,Cave de Pfaffenheim,Selection de Grains Nobles,2022,40.57,4.1,No
+172,Pinot Blanc,Rouffach,Domaine Marc Kreydenweiss,AOC Alsace,2016,9.51,3.1,No
+173,Sylvaner,Mittelbergheim,Domaine Paul Blanck,AOC Alsace Grand Cru,2016,16.7,3.8,No
+174,Sylvaner,Hunawihr,Domaine Valentin Zusslin,Selection de Grains Nobles,2017,25.55,4.3,Yes
+175,Pinot Blanc,Obernai,Domaine Mittnacht-Klack,AOC Alsace,2016,7.73,3.3,No
+176,Cremant d Alsace,Ammerschwihr,Domaine Kuentz-Bas,AOC Alsace,2020,14.78,2.7,No
+177,Pinot Gris,Guebwiller,Hugel et Fils,AOC Alsace,2019,18.42,2.9,Yes
+178,Cremant d Alsace,Guebwiller,Trimbach,AOC Alsace,2019,7.69,3.0,No
+179,Gewurztraminer,Heiligenstein,Domaine Mittnacht-Klack,AOC Alsace,2022,17.11,3.8,Yes
+180,Pinot Blanc,Turckheim,Domaine Mittnacht-Klack,AOC Alsace,2017,14.06,3.0,No
+181,Sylvaner,Kientzheim,Hugel et Fils,AOC Alsace,2017,5.88,2.9,No
+182,Pinot Gris,Hunawihr,Domaine Schoffit,Vendanges Tardives,2021,34.71,2.5,No
+183,Riesling,Zellenberg,Domaine Rolly Gassmann,AOC Alsace Grand Cru,2016,21.53,3.1,Yes
+184,Pinot Gris,Turckheim,Hugel et Fils,AOC Alsace Grand Cru,2017,35.69,3.3,No
+185,Pinot Noir,Kaysersberg,Domaine Mittnacht-Klack,AOC Alsace,2016,14.68,2.7,No
+186,Gewurztraminer,Nothalten,Domaine Ernest Burn,AOC Alsace,2020,10.03,3.7,No
+187,Pinot Blanc,Turckheim,Domaine Pierre Frick,AOC Alsace,2018,14.4,3.4,No
+188,Riesling,Ammerschwihr,Domaine Paul Blanck,Vendanges Tardives,2017,37.13,3.9,Yes
+189,Pinot Gris,Westhalten,Domaine Dirler-Cade,AOC Alsace Grand Cru,2017,31.57,3.8,No
+190,Cremant d Alsace,Heiligenstein,Josmeyer,AOC Alsace,2022,9.11,3.3,Yes
+191,Cremant d Alsace,Soultzmatt,Domaine Loew,AOC Alsace,2022,11.16,3.1,No
+192,Pinot Gris,Westhalten,Domaine Ostertag,Vendanges Tardives,2017,48.29,4.0,Yes
+193,Cremant d Alsace,Pfaffenheim,Domaine Schoffit,AOC Alsace,2016,13.4,3.0,Yes
+194,Pinot Gris,Andlau,Cave de Ribeauville,Vendanges Tardives,2017,47.06,3.6,Yes
+195,Pinot Blanc,Westhalten,Cave de Ribeauville,Vendanges Tardives,2015,24.15,3.3,No
+196,Gewurztraminer,Hunawihr,Leon Beyer,AOC Alsace,2016,20.37,3.4,No
+197,Pinot Gris,Kaysersberg,Trimbach,AOC Alsace,2022,17.24,3.6,No
+198,Riesling,Soultzmatt,Hugel et Fils,AOC Alsace,2018,17.42,3.7,No
+199,Pinot Noir,Eguisheim,Domaine Pierre Frick,AOC Alsace,2019,12.14,3.2,No
+200,Gewurztraminer,Eguisheim,Domaine Loew,Vendanges Tardives,2023,25.02,4.2,No
+201,Pinot Blanc,Kientzheim,Marcel Deiss,AOC Alsace,2015,11.28,3.2,No
+202,Gewurztraminer,Wintzenheim,Domaine Schoffit,AOC Alsace,2023,16.66,3.6,No
+203,Riesling,Bergheim,Domaine Muré,AOC Alsace,2021,19.0,3.2,No
+204,Sylvaner,Mittelbergheim,Domaine Valentin Zusslin,AOC Alsace Grand Cru,2016,20.08,3.5,No
+205,Sylvaner,Kaysersberg,Trimbach,AOC Alsace,2020,11.46,3.5,No
+206,Cremant d Alsace,Nothalten,Albert Boxler,AOC Alsace,2016,13.44,3.8,No
+207,Riesling,Dambach-la-Ville,Domaine Ostertag,AOC Alsace,2018,17.97,3.1,No
+208,Cremant d Alsace,Andlau,Trimbach,AOC Alsace,2018,9.57,3.5,No
+209,Riesling,Pfaffenheim,Domaine Rolly Gassmann,AOC Alsace,2016,17.03,2.8,No
+210,Pinot Noir,Turckheim,Albert Boxler,AOC Alsace,2022,15.46,3.4,No
+211,Muscat,Zellenberg,Hugel et Fils,AOC Alsace Grand Cru,2016,21.53,3.7,Yes
+212,Gewurztraminer,Colmar,Domaine Paul Blanck,AOC Alsace Grand Cru,2019,27.75,3.4,No
+213,Pinot Gris,Kientzheim,Cave de Ribeauville,AOC Alsace,2015,17.6,3.7,No
+214,Riesling,Colmar,Domaine Ernest Burn,AOC Alsace Grand Cru,2020,25.09,3.1,No
+215,Pinot Gris,Riquewihr,Marcel Deiss,Vendanges Tardives,2022,23.77,4.3,No
+216,Pinot Noir,Marlenheim,Trimbach,AOC Alsace,2022,23.31,3.5,No
+217,Gewurztraminer,Marlenheim,Marcel Deiss,AOC Alsace,2021,13.76,3.0,Yes
+218,Pinot Gris,Thann,Cave de Turckheim,AOC Alsace,2023,10.48,4.2,No
+219,Cremant d Alsace,Barr,Domaine Mittnacht-Klack,AOC Alsace,2022,8.8,3.3,Yes
+220,Cremant d Alsace,Colmar,Cave de Pfaffenheim,AOC Alsace,2020,13.01,3.3,No
+221,Muscat,Soultzmatt,Josmeyer,Vendanges Tardives,2017,38.89,3.4,Yes
+222,Pinot Gris,Mittelbergheim,Cave de Pfaffenheim,AOC Alsace,2020,15.58,3.2,No
+223,Pinot Gris,Heiligenstein,Domaine Barmès,AOC Alsace,2019,13.76,3.1,No
+224,Pinot Noir,Westhalten,Domaine Marc Kreydenweiss,AOC Alsace,2020,19.17,2.8,No
+225,Sylvaner,Kaysersberg,Domaine Barmès,Vendanges Tardives,2023,25.52,4.1,No
+226,Riesling,Westhalten,Domaine Zind-Humbrecht,AOC Alsace,2019,10.18,4.1,No
+227,Pinot Blanc,Hunawihr,Cave de Turckheim,Vendanges Tardives,2016,20.82,3.3,Yes
+228,Muscat,Heiligenstein,Domaine Schlumberger,AOC Alsace,2017,13.56,2.8,No
+229,Pinot Gris,Ammerschwihr,Domaine Mittnacht-Klack,AOC Alsace Grand Cru,2020,34.12,2.8,Yes
+230,Riesling,Nothalten,Domaine Pierre Frick,AOC Alsace Grand Cru,2018,30.03,3.1,No
+231,Riesling,Thann,Domaine Barmès,AOC Alsace Grand Cru,2019,27.6,3.3,No
+232,Pinot Noir,Dambach-la-Ville,Cave de Ribeauville,AOC Alsace,2015,12.63,3.5,No
+233,Cremant d Alsace,Barr,Domaine Paul Blanck,AOC Alsace,2020,14.75,2.7,No
+234,Pinot Noir,Kaysersberg,Domaine Pierre Frick,AOC Alsace,2023,11.93,4.3,Yes
+235,Gewurztraminer,Andlau,Cave de Ribeauville,AOC Alsace,2016,10.44,4.0,No
+236,Pinot Gris,Westhalten,Domaine Paul Blanck,Selection de Grains Nobles,2020,39.62,3.7,Yes
+237,Cremant d Alsace,Thann,Domaine Barmès,AOC Alsace,2015,7.81,2.9,Yes
+238,Sylvaner,Ribeauville,Trimbach,AOC Alsace,2022,7.66,3.5,Yes
+239,Gewurztraminer,Rouffach,Marcel Deiss,Vendanges Tardives,2020,48.56,3.4,No
+240,Pinot Blanc,Hunawihr,Domaine Schlumberger,AOC Alsace,2021,10.38,3.5,No
+241,Muscat,Westhalten,Domaine Mittnacht-Klack,AOC Alsace Grand Cru,2016,16.15,3.8,No
+242,Sylvaner,Bennwihr,Marcel Deiss,AOC Alsace,2023,8.49,3.4,Yes
+243,Riesling,Kaysersberg,Domaine Dirler-Cade,AOC Alsace,2022,14.01,3.7,Yes
+244,Sylvaner,Obernai,Domaine Albert Mann,Selection de Grains Nobles,2019,34.56,4.6,No
+245,Cremant d Alsace,Kientzheim,Domaine Marc Kreydenweiss,AOC Alsace,2015,10.32,2.7,No
+246,Riesling,Heiligenstein,Dopff au Moulin,AOC Alsace,2018,16.19,2.5,No
+247,Pinot Gris,Wintzenheim,Domaine Rolly Gassmann,AOC Alsace Grand Cru,2021,19.49,3.4,No
+248,Gewurztraminer,Barr,Domaine Weinbach,AOC Alsace,2021,11.71,3.1,No
+249,Pinot Noir,Wintzenheim,Domaine Pierre Frick,AOC Alsace,2022,22.28,3.2,Yes
+250,Pinot Blanc,Molsheim,Domaine Paul Blanck,Selection de Grains Nobles,2022,36.95,3.8,No
+251,Pinot Gris,Guebwiller,Domaine Kuentz-Bas,AOC Alsace,2023,13.25,3.3,No
+252,Muscat,Heiligenstein,Dopff au Moulin,AOC Alsace,2018,10.46,2.6,Yes
+253,Muscat,Bennwihr,Josmeyer,AOC Alsace Grand Cru,2022,19.51,2.9,No
+254,Muscat,Dambach-la-Ville,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2023,20.63,4.2,No
+255,Sylvaner,Bennwihr,Cave de Pfaffenheim,AOC Alsace,2015,7.67,3.1,No
+256,Muscat,Sigolsheim,Dopff au Moulin,AOC Alsace,2023,10.38,2.8,No
+257,Muscat,Kaysersberg,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2018,18.18,3.2,No
+258,Riesling,Eguisheim,Domaine Barmes-Buecher,AOC Alsace,2022,9.49,2.8,No
+259,Riesling,Molsheim,Domaine Kuentz-Bas,AOC Alsace,2022,13.56,3.5,No
+260,Riesling,Orschwihr,Domaine Pierre Frick,AOC Alsace,2018,14.18,4.2,No
+261,Riesling,Orschwihr,Domaine Kuentz-Bas,AOC Alsace,2017,18.49,3.9,No
+262,Pinot Gris,Orschwihr,Domaine Valentin Zusslin,Selection de Grains Nobles,2019,67.75,4.1,Yes
+263,Gewurztraminer,Orschwihr,Domaine Paul Blanck,AOC Alsace,2023,16.41,3.4,No
+264,Muscat,Barr,Cave de Pfaffenheim,AOC Alsace,2017,14.94,3.1,No
+265,Pinot Gris,Riquewihr,Domaine Valentin Zusslin,AOC Alsace,2019,15.74,3.2,No
+266,Pinot Noir,Westhalten,Domaine Barmes-Buecher,AOC Alsace,2016,15.91,3.0,Yes
+267,Pinot Gris,Thann,Domaine Paul Blanck,Selection de Grains Nobles,2015,42.53,4.0,No
+268,Muscat,Marlenheim,Domaine Valentin Zusslin,AOC Alsace Grand Cru,2019,25.51,4.1,No
+269,Riesling,Ammerschwihr,Domaine Zind-Humbrecht,AOC Alsace,2017,12.78,2.5,No
+270,Muscat,Kientzheim,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2019,20.41,3.4,Yes
+271,Pinot Gris,Thann,Marcel Deiss,AOC Alsace,2020,13.97,2.8,No
+272,Pinot Blanc,Bennwihr,Leon Beyer,AOC Alsace Grand Cru,2016,19.0,3.3,No
+273,Sylvaner,Colmar,Domaine Kuentz-Bas,AOC Alsace Grand Cru,2015,20.82,3.7,No
+274,Pinot Gris,Turckheim,Domaine Muré,AOC Alsace,2016,17.06,3.0,No
+275,Cremant d Alsace,Colmar,Domaine Barmès,AOC Alsace,2015,11.08,2.8,Yes
+276,Cremant d Alsace,Ammerschwihr,Cave de Pfaffenheim,AOC Alsace,2015,10.56,3.2,No
+277,Pinot Blanc,Marlenheim,Hugel et Fils,AOC Alsace,2020,11.97,3.1,No
+278,Cremant d Alsace,Ribeauville,Josmeyer,AOC Alsace,2017,13.89,3.2,No
+279,Pinot Noir,Hunawihr,Domaine Barmès,AOC Alsace,2021,15.57,3.0,No
+280,Sylvaner,Eguisheim,Albert Boxler,Selection de Grains Nobles,2021,32.93,3.4,No
+281,Pinot Blanc,Westhalten,Domaine Weinbach,AOC Alsace Grand Cru,2019,18.09,3.4,No
+282,Pinot Blanc,Mittelbergheim,Cave de Ribeauville,AOC Alsace,2019,7.83,2.8,No
+283,Gewurztraminer,Ribeauville,Cave de Pfaffenheim,AOC Alsace Grand Cru,2015,23.1,3.9,No
+284,Riesling,Mittelbergheim,Domaine Valentin Zusslin,AOC Alsace,2022,10.93,3.4,Yes
+285,Riesling,Kaysersberg,Cave de Turckheim,Selection de Grains Nobles,2018,60.24,3.9,No
+286,Sylvaner,Mittelbergheim,Josmeyer,Vendanges Tardives,2023,17.98,3.3,No
+287,Riesling,Molsheim,Domaine Marc Kreydenweiss,Vendanges Tardives,2017,37.9,3.2,No
+288,Pinot Noir,Zellenberg,Cave de Turckheim,AOC Alsace,2021,16.01,3.4,Yes
+289,Pinot Gris,Bennwihr,Domaine Schlumberger,AOC Alsace,2018,12.62,3.0,No
+290,Pinot Noir,Rouffach,Domaine Schlumberger,AOC Alsace,2021,13.78,2.5,Yes
+291,Gewurztraminer,Orschwihr,Cave de Ribeauville,Vendanges Tardives,2016,41.37,3.7,No
+292,Riesling,Pfaffenheim,Hugel et Fils,AOC Alsace,2023,10.74,3.1,Yes
+293,Sylvaner,Dambach-la-Ville,Domaine Kuentz-Bas,AOC Alsace,2018,12.53,4.4,No
+294,Pinot Blanc,Kientzheim,Domaine Mittnacht-Klack,AOC Alsace Grand Cru,2021,24.68,4.5,No
+295,Muscat,Bergheim,Cave de Ribeauville,AOC Alsace,2020,10.75,2.7,No
+296,Cremant d Alsace,Bennwihr,Domaine Loew,AOC Alsace,2018,10.34,3.8,No
+297,Pinot Blanc,Sigolsheim,Marcel Deiss,AOC Alsace,2023,13.87,2.8,Yes
+298,Sylvaner,Mittelbergheim,Domaine Albert Mann,AOC Alsace Grand Cru,2018,16.55,3.2,No
+299,Sylvaner,Andlau,Domaine Pierre Frick,Vendanges Tardives,2022,22.29,3.6,Yes
+300,Cremant d Alsace,Obernai,Domaine Kuentz-Bas,AOC Alsace,2015,11.72,2.8,No
+301,Gewurztraminer,Westhalten,Domaine Ernest Burn,AOC Alsace,2015,15.0,3.4,No
+302,Riesling,Barr,Cave de Turckheim,AOC Alsace,2015,15.07,3.0,No
+303,Cremant d Alsace,Ammerschwihr,Dopff au Moulin,AOC Alsace,2023,11.96,3.7,Yes
+304,Muscat,Riquewihr,Cave de Turckheim,Vendanges Tardives,2021,39.2,3.7,No
+305,Gewurztraminer,Orschwihr,Domaine Zind-Humbrecht,AOC Alsace,2018,12.22,2.5,Yes
+306,Pinot Noir,Colmar,Domaine Schoffit,AOC Alsace,2022,18.13,3.1,No
+307,Pinot Blanc,Dambach-la-Ville,Domaine Ernest Burn,Vendanges Tardives,2016,28.99,4.1,Yes
+308,Pinot Noir,Bergheim,Domaine Schlumberger,AOC Alsace,2015,19.99,2.7,Yes
+309,Pinot Noir,Nothalten,Cave de Pfaffenheim,AOC Alsace,2016,22.58,3.5,No
+310,Cremant d Alsace,Andlau,Trimbach,AOC Alsace,2019,15.09,3.1,No
+311,Riesling,Obernai,Domaine Kuentz-Bas,Vendanges Tardives,2015,46.96,3.1,No
+312,Pinot Noir,Orschwihr,Hugel et Fils,AOC Alsace,2018,18.15,2.9,No
+313,Sylvaner,Bergheim,Domaine Pierre Frick,AOC Alsace Grand Cru,2016,16.57,3.6,No
+314,Gewurztraminer,Turckheim,Domaine Mittnacht-Klack,AOC Alsace Grand Cru,2021,39.62,3.4,No
+315,Muscat,Zellenberg,Cave de Ribeauville,AOC Alsace,2020,13.18,3.0,No
+316,Pinot Noir,Colmar,Domaine Pierre Frick,AOC Alsace,2018,20.13,3.4,Yes
+317,Pinot Gris,Bergheim,Domaine Dirler-Cade,AOC Alsace Grand Cru,2017,31.96,3.4,Yes
+318,Muscat,Guebwiller,Domaine Schoffit,AOC Alsace Grand Cru,2016,16.22,3.6,Yes
+319,Cremant d Alsace,Molsheim,Domaine Schlumberger,AOC Alsace,2016,7.24,3.1,No
+320,Sylvaner,Pfaffenheim,Domaine Albert Mann,AOC Alsace,2021,8.39,3.3,Yes
+321,Pinot Blanc,Marlenheim,Cave de Turckheim,AOC Alsace,2021,7.67,3.2,Yes
+322,Pinot Gris,Rouffach,Domaine Bott-Geyl,AOC Alsace,2022,18.26,3.5,No
+323,Pinot Blanc,Sigolsheim,Domaine Rolly Gassmann,AOC Alsace,2018,10.01,3.2,No
+324,Pinot Noir,Zellenberg,Domaine Muré,AOC Alsace,2020,16.31,3.2,No
+325,Pinot Gris,Dambach-la-Ville,Domaine Paul Blanck,AOC Alsace Grand Cru,2018,26.47,3.6,No
+326,Cremant d Alsace,Marlenheim,Cave de Pfaffenheim,AOC Alsace,2021,9.52,3.6,No
+327,Sylvaner,Eguisheim,Domaine Kuentz-Bas,AOC Alsace Grand Cru,2023,12.41,3.5,No
+328,Pinot Blanc,Guebwiller,Cave de Pfaffenheim,AOC Alsace,2016,12.93,3.1,No
+329,Pinot Noir,Ammerschwihr,Dopff au Moulin,AOC Alsace,2019,13.77,2.9,No
+330,Gewurztraminer,Guebwiller,Domaine Mittnacht-Klack,AOC Alsace,2021,16.53,2.7,No
+331,Pinot Noir,Molsheim,Trimbach,AOC Alsace,2020,19.97,3.4,No
+332,Gewurztraminer,Bennwihr,Leon Beyer,AOC Alsace Grand Cru,2020,21.41,2.9,No
+333,Pinot Noir,Bennwihr,Domaine Paul Blanck,AOC Alsace,2021,11.93,3.4,No
+334,Pinot Blanc,Guebwiller,Domaine Schoffit,AOC Alsace,2023,7.52,3.4,No
+335,Cremant d Alsace,Eguisheim,Josmeyer,AOC Alsace,2016,8.04,3.4,No
+336,Cremant d Alsace,Zellenberg,Domaine Ostertag,AOC Alsace,2020,11.29,3.1,No
+337,Cremant d Alsace,Turckheim,Hugel et Fils,AOC Alsace,2016,7.2,3.1,No
+338,Pinot Blanc,Wintzenheim,Albert Boxler,AOC Alsace Grand Cru,2020,19.5,3.6,No
+339,Pinot Blanc,Zellenberg,Domaine Albert Mann,AOC Alsace Grand Cru,2017,20.68,3.4,No
+340,Pinot Blanc,Guebwiller,Domaine Marc Kreydenweiss,AOC Alsace,2015,12.01,3.2,Yes
+341,Gewurztraminer,Marlenheim,Domaine Zind-Humbrecht,AOC Alsace Grand Cru,2023,21.88,3.2,Yes
+342,Cremant d Alsace,Wintzenheim,Domaine Rolly Gassmann,AOC Alsace,2021,12.5,3.6,No
+343,Sylvaner,Hunawihr,Domaine Muré,AOC Alsace,2017,11.46,3.1,No
+344,Gewurztraminer,Ammerschwihr,Marcel Deiss,AOC Alsace,2018,13.65,2.9,Yes
+345,Pinot Gris,Wintzenheim,Domaine Albert Mann,AOC Alsace,2017,15.83,2.8,No
+346,Pinot Gris,Molsheim,Albert Boxler,AOC Alsace,2017,11.29,3.4,No
+347,Riesling,Pfaffenheim,Domaine Schoffit,Selection de Grains Nobles,2022,34.56,4.4,No
+348,Cremant d Alsace,Rouffach,Domaine Ernest Burn,AOC Alsace,2022,11.4,2.5,Yes
+349,Riesling,Zellenberg,Domaine Pierre Frick,AOC Alsace,2015,11.37,3.0,No
+350,Cremant d Alsace,Molsheim,Cave de Turckheim,AOC Alsace,2016,9.41,3.1,No
+351,Sylvaner,Molsheim,Domaine Loew,AOC Alsace Grand Cru,2022,17.16,3.6,No
+352,Pinot Blanc,Dambach-la-Ville,Domaine Muré,Selection de Grains Nobles,2022,29.5,3.9,No
+353,Gewurztraminer,Guebwiller,Domaine Muré,Selection de Grains Nobles,2018,43.56,3.9,No
+354,Pinot Noir,Obernai,Domaine Mittnacht-Klack,AOC Alsace,2018,21.48,2.6,No
+355,Sylvaner,Molsheim,Domaine Bott-Geyl,AOC Alsace Grand Cru,2017,14.27,3.3,Yes
+356,Gewurztraminer,Kaysersberg,Domaine Pierre Frick,AOC Alsace Grand Cru,2015,40.15,3.1,No
+357,Pinot Gris,Kientzheim,Domaine Muré,AOC Alsace,2017,17.42,3.5,No
+358,Cremant d Alsace,Kaysersberg,Domaine Marc Kreydenweiss,AOC Alsace,2021,10.38,2.6,Yes
+359,Gewurztraminer,Bergheim,Cave de Turckheim,AOC Alsace Grand Cru,2020,27.95,2.9,No
+360,Gewurztraminer,Sigolsheim,Cave de Ribeauville,AOC Alsace Grand Cru,2020,36.92,3.5,No
+361,Pinot Noir,Barr,Domaine Barmes-Buecher,AOC Alsace,2022,14.13,3.4,No
+362,Cremant d Alsace,Zellenberg,Domaine Paul Blanck,AOC Alsace,2015,7.41,2.9,No
+363,Cremant d Alsace,Riquewihr,Domaine Zind-Humbrecht,AOC Alsace,2017,10.97,4.2,Yes
+364,Pinot Gris,Soultzmatt,Domaine Rolly Gassmann,AOC Alsace,2019,10.19,3.2,No
+365,Gewurztraminer,Hunawihr,Domaine Ernest Burn,Vendanges Tardives,2017,26.13,3.2,No
+366,Pinot Noir,Nothalten,Hugel et Fils,AOC Alsace,2015,13.38,2.7,Yes
+367,Pinot Blanc,Wintzenheim,Domaine Ernest Burn,AOC Alsace,2015,11.93,3.7,No
+368,Pinot Gris,Thann,Hugel et Fils,AOC Alsace,2016,17.65,2.5,Yes
+369,Sylvaner,Hunawihr,Domaine Barmès,AOC Alsace,2021,11.17,3.2,No
+370,Pinot Gris,Colmar,Cave de Turckheim,AOC Alsace Grand Cru,2017,25.65,3.2,No
+371,Pinot Gris,Orschwihr,Domaine Barmes-Buecher,AOC Alsace Grand Cru,2022,34.49,3.6,No
+372,Pinot Noir,Hunawihr,Domaine Barmes-Buecher,AOC Alsace,2017,13.85,3.3,No
+373,Pinot Blanc,Molsheim,Domaine Mittnacht-Klack,AOC Alsace Grand Cru,2019,22.7,3.2,No
+374,Muscat,Barr,Cave de Turckheim,AOC Alsace Grand Cru,2018,27.19,2.7,Yes
+375,Riesling,Zellenberg,Domaine Barmès,AOC Alsace Grand Cru,2018,24.74,3.8,No
+376,Riesling,Hunawihr,Domaine Kuentz-Bas,AOC Alsace,2021,17.7,3.5,No
+377,Sylvaner,Molsheim,Domaine Ernest Burn,AOC Alsace,2022,12.47,3.2,Yes
+378,Muscat,Barr,Trimbach,Selection de Grains Nobles,2021,44.5,3.9,No
+379,Pinot Noir,Rouffach,Domaine Dirler-Cade,AOC Alsace,2023,17.76,3.3,Yes
+380,Pinot Blanc,Zellenberg,Marcel Deiss,AOC Alsace,2021,11.05,3.3,No
+381,Gewurztraminer,Dambach-la-Ville,Domaine Dirler-Cade,AOC Alsace,2018,10.53,3.6,No
+382,Riesling,Dambach-la-Ville,Domaine Ernest Burn,AOC Alsace Grand Cru,2017,17.44,3.7,No
+383,Riesling,Obernai,Dopff au Moulin,Selection de Grains Nobles,2023,48.95,4.1,No
+384,Muscat,Sigolsheim,Domaine Barmès,AOC Alsace,2015,11.02,2.9,No
+385,Gewurztraminer,Andlau,Domaine Dirler-Cade,Selection de Grains Nobles,2016,56.18,3.8,No
+386,Pinot Gris,Hunawihr,Albert Boxler,AOC Alsace,2016,19.56,3.2,No
+387,Gewurztraminer,Mittelbergheim,Domaine Valentin Zusslin,AOC Alsace,2015,20.62,3.3,No
+388,Pinot Gris,Obernai,Domaine Kuentz-Bas,Selection de Grains Nobles,2015,54.49,4.0,No
+389,Pinot Noir,Mittelbergheim,Domaine Paul Blanck,AOC Alsace,2020,14.16,3.5,No
+390,Riesling,Obernai,Leon Beyer,Vendanges Tardives,2015,46.76,3.8,Yes
+391,Cremant d Alsace,Pfaffenheim,Josmeyer,AOC Alsace,2019,9.95,3.2,Yes
+392,Muscat,Sigolsheim,Domaine Mittnacht-Klack,AOC Alsace,2020,13.56,3.2,No
+393,Pinot Blanc,Sigolsheim,Domaine Barmès,AOC Alsace,2018,7.52,3.3,No
+394,Riesling,Turckheim,Domaine Weinbach,AOC Alsace Grand Cru,2021,31.62,3.4,No
+395,Gewurztraminer,Barr,Cave de Turckheim,Selection de Grains Nobles,2021,56.0,5.0,No
+396,Gewurztraminer,Ribeauville,Domaine Kuentz-Bas,AOC Alsace,2023,15.0,3.7,No
+397,Cremant d Alsace,Sigolsheim,Hugel et Fils,AOC Alsace,2023,8.2,3.3,No
+398,Pinot Noir,Ammerschwihr,Marcel Deiss,AOC Alsace,2019,21.99,3.1,No
+399,Pinot Noir,Kientzheim,Domaine Loew,AOC Alsace,2020,16.61,3.3,Yes
+400,Gewurztraminer,Kaysersberg,Domaine Zind-Humbrecht,AOC Alsace,2022,13.76,4.2,Yes
+401,Sylvaner,Bennwihr,Domaine Ostertag,AOC Alsace,2022,7.51,3.4,No
+402,Riesling,Barr,Domaine Loew,Vendanges Tardives,2017,23.46,3.8,Yes
+403,Sylvaner,Bergheim,Cave de Turckheim,AOC Alsace,2019,7.47,3.3,No
+404,Cremant d Alsace,Molsheim,Domaine Valentin Zusslin,AOC Alsace,2016,11.16,3.2,No
+405,Pinot Gris,Eguisheim,Domaine Weinbach,AOC Alsace,2018,10.63,3.4,No
+406,Gewurztraminer,Marlenheim,Domaine Marc Kreydenweiss,AOC Alsace,2016,10.07,2.9,Yes
+407,Cremant d Alsace,Zellenberg,Marcel Deiss,AOC Alsace,2020,8.1,3.3,No
+408,Pinot Noir,Westhalten,Domaine Valentin Zusslin,AOC Alsace,2015,15.67,3.2,No
+409,Sylvaner,Barr,Domaine Kuentz-Bas,AOC Alsace,2019,8.81,3.5,No
+410,Muscat,Thann,Domaine Barmes-Buecher,Vendanges Tardives,2022,20.76,4.1,Yes
+411,Pinot Gris,Rouffach,Domaine Ostertag,AOC Alsace Grand Cru,2023,21.63,3.9,Yes
+412,Pinot Noir,Zellenberg,Domaine Dirler-Cade,AOC Alsace,2023,21.05,3.2,No
+413,Sylvaner,Bergheim,Domaine Bott-Geyl,AOC Alsace,2020,9.9,3.9,Yes
+414,Cremant d Alsace,Wintzenheim,Domaine Schoffit,AOC Alsace,2018,15.77,3.3,Yes
+415,Pinot Blanc,Andlau,Domaine Schlumberger,Vendanges Tardives,2015,31.22,4.1,No
+416,Pinot Noir,Hunawihr,Domaine Kuentz-Bas,AOC Alsace,2017,12.88,3.0,No
+417,Sylvaner,Orschwihr,Domaine Marc Kreydenweiss,AOC Alsace,2020,12.42,2.7,Yes
+418,Cremant d Alsace,Molsheim,Josmeyer,AOC Alsace,2015,7.81,3.0,Yes
+419,Pinot Blanc,Riquewihr,Cave de Turckheim,AOC Alsace,2020,13.73,3.3,No
+420,Sylvaner,Ribeauville,Domaine Weinbach,AOC Alsace,2017,11.18,3.4,No
+421,Sylvaner,Colmar,Domaine Schoffit,AOC Alsace Grand Cru,2021,17.67,3.3,No
+422,Pinot Noir,Zellenberg,Domaine Rolly Gassmann,AOC Alsace,2020,12.85,3.5,No
+423,Sylvaner,Mittelbergheim,Domaine Ernest Burn,AOC Alsace Grand Cru,2017,14.98,3.4,Yes
+424,Riesling,Kientzheim,Domaine Marc Kreydenweiss,AOC Alsace,2015,10.37,2.9,No
+425,Pinot Blanc,Nothalten,Domaine Marc Kreydenweiss,AOC Alsace,2022,7.44,3.2,No
+426,Pinot Gris,Nothalten,Domaine Barmès,Selection de Grains Nobles,2020,50.14,3.7,Yes
+427,Pinot Blanc,Kientzheim,Hugel et Fils,AOC Alsace,2016,12.14,3.6,No
+428,Pinot Gris,Soultzmatt,Domaine Barmes-Buecher,AOC Alsace,2021,13.21,3.3,No
+429,Cremant d Alsace,Zellenberg,Domaine Muré,AOC Alsace,2018,8.46,3.9,Yes
+430,Sylvaner,Andlau,Domaine Zind-Humbrecht,AOC Alsace,2017,11.99,3.5,Yes
+431,Gewurztraminer,Molsheim,Domaine Barmès,Selection de Grains Nobles,2020,60.5,3.6,Yes
+432,Pinot Gris,Heiligenstein,Domaine Barmès,AOC Alsace,2015,10.28,2.9,Yes
+433,Pinot Blanc,Rouffach,Domaine Dirler-Cade,AOC Alsace Grand Cru,2023,15.21,3.4,Yes
+434,Cremant d Alsace,Kaysersberg,Trimbach,AOC Alsace,2021,7.79,3.5,No
+435,Cremant d Alsace,Barr,Domaine Zind-Humbrecht,AOC Alsace,2017,12.74,3.6,Yes
+436,Pinot Noir,Thann,Dopff au Moulin,AOC Alsace,2019,11.73,3.1,No
+437,Pinot Gris,Hunawihr,Domaine Barmès,AOC Alsace,2017,14.32,3.2,Yes
+438,Muscat,Marlenheim,Trimbach,AOC Alsace,2016,8.55,3.6,No
+439,Pinot Noir,Bennwihr,Domaine Marc Kreydenweiss,AOC Alsace,2015,21.85,3.4,No
+440,Cremant d Alsace,Marlenheim,Domaine Barmès,AOC Alsace,2019,7.71,2.8,No
+441,Riesling,Wintzenheim,Domaine Marc Kreydenweiss,Vendanges Tardives,2017,24.25,3.7,No
+442,Pinot Blanc,Zellenberg,Domaine Ostertag,AOC Alsace,2021,6.93,3.0,No
+443,Pinot Blanc,Westhalten,Domaine Rolly Gassmann,AOC Alsace,2019,8.89,3.1,Yes
+444,Pinot Noir,Molsheim,Domaine Paul Blanck,AOC Alsace,2023,16.69,2.5,No
+445,Pinot Noir,Eguisheim,Domaine Barmes-Buecher,AOC Alsace,2016,22.99,3.0,Yes
+446,Sylvaner,Soultzmatt,Domaine Barmes-Buecher,AOC Alsace,2022,9.72,3.1,No
+447,Pinot Gris,Andlau,Domaine Albert Mann,AOC Alsace,2021,9.55,3.5,Yes
+448,Cremant d Alsace,Orschwihr,Domaine Bott-Geyl,AOC Alsace,2015,10.04,3.0,No
+449,Muscat,Andlau,Domaine Loew,AOC Alsace,2016,17.33,3.2,No
+450,Sylvaner,Andlau,Domaine Valentin Zusslin,AOC Alsace,2016,6.95,3.5,Yes
+451,Pinot Noir,Sigolsheim,Dopff au Moulin,AOC Alsace,2020,21.58,3.0,No
+452,Pinot Noir,Kaysersberg,Domaine Pierre Frick,AOC Alsace,2015,12.85,3.2,No
+453,Pinot Blanc,Westhalten,Trimbach,AOC Alsace,2022,6.71,3.0,No
+454,Cremant d Alsace,Wintzenheim,Domaine Albert Mann,AOC Alsace,2016,13.13,3.4,Yes
+455,Cremant d Alsace,Heiligenstein,Cave de Ribeauville,AOC Alsace,2022,12.28,3.1,No
+456,Gewurztraminer,Dambach-la-Ville,Domaine Weinbach,AOC Alsace,2017,20.56,3.4,No
+457,Pinot Blanc,Pfaffenheim,Leon Beyer,AOC Alsace Grand Cru,2018,15.26,3.4,No
+458,Riesling,Thann,Domaine Kuentz-Bas,AOC Alsace,2017,14.89,3.2,Yes
+459,Muscat,Heiligenstein,Cave de Pfaffenheim,Selection de Grains Nobles,2019,41.63,3.7,Yes
+460,Cremant d Alsace,Dambach-la-Ville,Domaine Ernest Burn,AOC Alsace,2021,12.26,3.5,Yes
+461,Sylvaner,Molsheim,Domaine Rolly Gassmann,AOC Alsace Grand Cru,2019,13.95,3.6,No
+462,Sylvaner,Pfaffenheim,Domaine Bott-Geyl,AOC Alsace,2019,6.96,3.3,No
+463,Pinot Blanc,Soultzmatt,Trimbach,Vendanges Tardives,2021,29.13,3.4,No
+464,Muscat,Andlau,Domaine Kuentz-Bas,AOC Alsace,2021,14.99,2.6,No
+465,Pinot Blanc,Turckheim,Domaine Valentin Zusslin,AOC Alsace Grand Cru,2023,20.65,2.5,No
+466,Muscat,Pfaffenheim,Albert Boxler,Vendanges Tardives,2023,23.73,3.8,Yes
+467,Pinot Gris,Sigolsheim,Domaine Bott-Geyl,AOC Alsace Grand Cru,2023,32.45,3.7,No
+468,Gewurztraminer,Mittelbergheim,Domaine Schoffit,AOC Alsace,2019,15.1,3.8,No
+469,Sylvaner,Andlau,Domaine Marc Kreydenweiss,AOC Alsace,2016,8.99,3.6,No
+470,Gewurztraminer,Thann,Domaine Barmès,AOC Alsace,2016,20.73,2.8,No
+471,Muscat,Rouffach,Trimbach,Vendanges Tardives,2017,22.65,3.8,No
+472,Cremant d Alsace,Kaysersberg,Domaine Paul Blanck,AOC Alsace,2017,14.01,3.6,No
+473,Pinot Gris,Turckheim,Domaine Rolly Gassmann,AOC Alsace,2022,12.3,3.2,No
+474,Cremant d Alsace,Zellenberg,Domaine Pierre Frick,AOC Alsace,2017,12.53,3.0,No
+475,Pinot Noir,Rouffach,Dopff au Moulin,AOC Alsace,2015,17.71,3.1,No
+476,Pinot Blanc,Riquewihr,Domaine Ernest Burn,AOC Alsace,2018,8.13,2.5,No
+477,Muscat,Kaysersberg,Domaine Zind-Humbrecht,AOC Alsace,2019,9.35,3.4,Yes
+478,Sylvaner,Rouffach,Domaine Barmès,AOC Alsace Grand Cru,2017,14.52,3.1,No
+479,Sylvaner,Bennwihr,Domaine Ostertag,AOC Alsace,2021,5.74,3.4,Yes
+480,Riesling,Marlenheim,Cave de Turckheim,AOC Alsace,2020,16.08,4.3,No
+481,Pinot Noir,Soultzmatt,Domaine Rolly Gassmann,AOC Alsace,2023,18.91,3.1,Yes
+482,Riesling,Ribeauville,Domaine Dirler-Cade,AOC Alsace,2022,12.51,3.1,No
+483,Cremant d Alsace,Kientzheim,Marcel Deiss,AOC Alsace,2015,9.71,2.9,Yes
+484,Pinot Gris,Rouffach,Domaine Loew,Vendanges Tardives,2023,43.77,3.1,Yes
+485,Gewurztraminer,Zellenberg,Domaine Zind-Humbrecht,AOC Alsace,2018,19.6,3.7,No
+486,Pinot Noir,Dambach-la-Ville,Albert Boxler,AOC Alsace,2022,22.79,2.5,No
+487,Cremant d Alsace,Turckheim,Leon Beyer,AOC Alsace,2016,15.16,3.5,Yes
+488,Gewurztraminer,Bennwihr,Cave de Turckheim,AOC Alsace,2016,21.2,2.7,No
+489,Cremant d Alsace,Dambach-la-Ville,Domaine Bott-Geyl,AOC Alsace,2016,14.32,3.8,No
+490,Sylvaner,Rouffach,Domaine Valentin Zusslin,AOC Alsace,2015,5.67,2.6,Yes
+491,Pinot Gris,Turckheim,Domaine Schoffit,Vendanges Tardives,2019,48.45,4.3,Yes
+492,Pinot Noir,Bergheim,Cave de Ribeauville,AOC Alsace,2021,19.81,3.6,No
+493,Pinot Noir,Nothalten,Domaine Barmès,AOC Alsace,2016,12.29,3.0,No
+494,Gewurztraminer,Rouffach,Domaine Kuentz-Bas,AOC Alsace Grand Cru,2022,21.75,2.5,No
+495,Sylvaner,Heiligenstein,Domaine Weinbach,Vendanges Tardives,2017,22.7,2.8,No
+496,Gewurztraminer,Andlau,Domaine Rolly Gassmann,AOC Alsace,2023,19.47,3.3,No
+497,Pinot Blanc,Ammerschwihr,Domaine Muré,AOC Alsace,2023,11.87,2.9,No
+498,Cremant d Alsace,Hunawihr,Domaine Ernest Burn,AOC Alsace,2021,8.34,2.9,No
+499,Riesling,Riquewihr,Domaine Rolly Gassmann,Selection de Grains Nobles,2023,61.49,4.4,Yes
+500,Cremant d Alsace,Turckheim,Leon Beyer,AOC Alsace,2019,7.45,2.6,Yes
