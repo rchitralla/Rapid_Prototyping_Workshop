@@ -29,9 +29,9 @@ st.markdown("Built during the Rapid Prototyping Workshop")
 
 # Uncomment ONE of the following lines to load a dataset:
 
-# df = pd.read_csv("../../datasets/startup_funding.csv")
-# df = pd.read_csv("../../datasets/coffee_survey.csv")
-# df = pd.read_csv("../../datasets/city_bikes.csv")
+# df = pd.read_csv("../../datasets/alsace_wines.csv")
+# df = pd.read_csv("../../datasets/strasbourg_bikes.csv")
+# df = pd.read_csv("../../datasets/christmas_markets.csv")
 
 # For demo purposes, we'll create a small sample dataframe:
 df = pd.DataFrame({

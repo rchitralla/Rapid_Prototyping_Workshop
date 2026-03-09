@@ -23,31 +23,32 @@ The quality of your prompt determines the quality of your prototype. Be specific
 
 ### Example Prompts by Brief
 
-**Brief 1 — Startup Funding Explorer:**
-> Build a dashboard for exploring startup funding data. It should have:
-> - A sidebar with filters for industry, funding stage, and country
-> - A summary row showing total companies, total funding, and average round size
-> - A bar chart showing funding by industry
-> - A timeline scatter plot showing funding rounds over time
+**Brief 1 — Alsace Wine Route Explorer:**
+> Build a wine discovery dashboard for the Alsace wine region. It should have:
+> - A sidebar with filters for grape variety (Riesling, Gewurztraminer, Pinot Gris, etc.), village, classification, and price range
+> - A summary row showing total wines, average price, and average rating
+> - A bar chart showing average price by grape variety, colored by classification
+> - A scatter plot of price vs rating, colored by grape variety
 > - A data table at the bottom with search and sort
-> Use a clean, professional design with a blue/gray color scheme.
+> Use an elegant design with burgundy and gold accents on a cream background.
 
-**Brief 2 — Coffee Survey:**
-> Create an interactive survey results viewer for coffee preferences. Include:
-> - Filter by age group and country in the sidebar
-> - Pie chart showing favorite coffee types
-> - Bar chart of brewing methods
-> - A comparison section showing preferences by demographic
-> - Summary cards showing total respondents and most popular choice
-> Use a warm color scheme with coffee-related browns and creams.
+**Brief 2 — Strasbourg Bike Share Analysis:**
+> Create an analytics dashboard for Strasbourg's bike-sharing system (Velhop). Include:
+> - Filters for neighborhood, weather, and day of week in the sidebar
+> - Summary cards showing total pickups, busiest station, and average daily rides
+> - A bar chart of pickups by hour of day (showing commute peaks)
+> - A chart comparing ridership across weather conditions
+> - A heatmap or grouped bar chart showing usage by neighborhood and day of week
+> Use a modern design with Strasbourg-blue accents and clean typography.
 
-**Brief 3 — City Bike-Share:**
-> Build a bike-share analytics dashboard. It should show:
-> - Key metrics: total trips, average duration, most popular station
-> - A bar chart of trips by time of day
-> - A chart comparing electric vs classic bike usage
-> - A table of the most popular routes
-> Use a modern, green-themed design.
+**Brief 3 — Christmas Market Visitor Trends:**
+> Build a dashboard exploring Strasbourg's Christmas market visitor data. It should show:
+> - Key metrics: total visitors, average daily spend, busiest market location
+> - A line chart of daily visitors over the market season, colored by market location
+> - A bar chart of spending estimates by vendor category
+> - A comparison of visitor counts on weekdays vs weekends
+> - A weather impact chart showing how conditions affect attendance
+> Use a festive, warm design with reds, golds, and deep greens.
 
 ## Step 2: Refine with Follow-Up Prompts
 
@@ -56,7 +57,7 @@ After Loveable generates the first version, iterate:
 - "Move the filters to the left sidebar"
 - "Make the chart colors consistent across all visualizations"
 - "Add a download button for the filtered data"
-- "Change the header to say 'Startup Funding Explorer'"
+- "Change the header to say 'Alsace Wine Explorer'"
 - "Make it responsive for mobile"
 
 ## Step 3: Connect Your Data

@@ -1,0 +1,249 @@
+record_id,date,market_location,market_name,daily_visitors,avg_spend_eur,total_spending_est_eur,top_vendor_category,num_vendors,weather,temperature_c,day_of_week,is_weekend
+1,2023-11-24,Place Broglie,Christkindelsmärik,7377,14.99,110581.23,Crafts & Gifts,15,Cloudy,-2.8,Friday,False
+2,2023-11-24,Place de la Cathedrale,Village du Partage,13021,15.91,207164.11,Food & Drink,32,Cloudy,-2.8,Friday,False
+3,2023-11-24,Petite France,Marche OFF,4855,16.41,79670.55,Sweets & Bakery,15,Cloudy,-2.8,Friday,False
+4,2023-11-24,Place Gutenberg,Marche des Artisans,2645,10.83,28645.35,Clothing & Accessories,15,Cloudy,-2.8,Friday,False
+5,2023-11-24,Place du Chateau,Marche du Chateau,2584,15.14,39121.76,Decorations,9,Cloudy,-2.8,Friday,False
+6,2023-11-24,Place Benjamin Zix,Marche de la Petite France,3318,21.23,70441.14,Sweets & Bakery,14,Cloudy,-2.8,Friday,False
+7,2023-11-24,Place des Meuniers,Marche Gourmand,3452,17.45,60237.4,Food & Drink,15,Cloudy,-2.8,Friday,False
+8,2023-11-24,Place du Marche Gayot,Marche des Delices,3388,22.82,77314.16,Decorations,12,Cloudy,-2.8,Friday,False
+9,2023-11-25,Place Broglie,Christkindelsmärik,7901,20.46,161654.46,Mulled Wine & Beverages,15,Rainy,3.6,Saturday,True
+10,2023-11-25,Place de la Cathedrale,Village du Partage,11605,16.53,191830.65,Mulled Wine & Beverages,21,Rainy,3.6,Saturday,True
+11,2023-11-25,Petite France,Marche OFF,4505,10.07,45365.35,Mulled Wine & Beverages,16,Rainy,3.6,Saturday,True
+12,2023-11-25,Place Gutenberg,Marche des Artisans,3321,10.43,34638.03,Decorations,18,Rainy,3.6,Saturday,True
+13,2023-11-25,Place du Chateau,Marche du Chateau,2412,19.0,45828.0,Sweets & Bakery,7,Rainy,3.6,Saturday,True
+14,2023-11-25,Place Benjamin Zix,Marche de la Petite France,2930,23.48,68796.4,Mulled Wine & Beverages,15,Rainy,3.6,Saturday,True
+15,2023-11-25,Place des Meuniers,Marche Gourmand,3477,17.78,61821.06,Mulled Wine & Beverages,5,Rainy,3.6,Saturday,True
+16,2023-11-25,Place du Marche Gayot,Marche des Delices,2869,18.67,53564.23,Food & Drink,14,Rainy,3.6,Saturday,True
+17,2023-11-26,Place Broglie,Christkindelsmärik,12516,13.31,166587.96,Decorations,19,Light Snow,0.7,Sunday,True
+18,2023-11-26,Place de la Cathedrale,Village du Partage,20770,20.71,430146.7,Decorations,30,Light Snow,0.7,Sunday,True
+19,2023-11-26,Petite France,Marche OFF,9837,26.46,260287.02,Food & Drink,15,Light Snow,0.7,Sunday,True
+20,2023-11-26,Place Gutenberg,Marche des Artisans,5510,15.26,84082.6,Sweets & Bakery,15,Light Snow,0.7,Sunday,True
+21,2023-11-26,Place du Chateau,Marche du Chateau,5594,21.56,120606.64,Mulled Wine & Beverages,9,Light Snow,0.7,Sunday,True
+22,2023-11-26,Place Benjamin Zix,Marche de la Petite France,4531,19.81,89759.11,Mulled Wine & Beverages,11,Light Snow,0.7,Sunday,True
+23,2023-11-26,Place des Meuniers,Marche Gourmand,5645,20.65,116569.25,Decorations,15,Light Snow,0.7,Sunday,True
+24,2023-11-26,Place du Marche Gayot,Marche des Delices,6428,26.73,171820.44,Crafts & Gifts,5,Light Snow,0.7,Sunday,True
+25,2023-11-27,Place Broglie,Christkindelsmärik,8908,17.05,151881.4,Food & Drink,24,Cloudy,-3.5,Monday,False
+26,2023-11-27,Place de la Cathedrale,Village du Partage,12021,9.19,110472.99,Decorations,25,Cloudy,-3.5,Monday,False
+27,2023-11-27,Petite France,Marche OFF,5081,16.24,82515.44,Clothing & Accessories,9,Cloudy,-3.5,Monday,False
+28,2023-11-27,Place Gutenberg,Marche des Artisans,2689,20.47,55043.83,Clothing & Accessories,6,Cloudy,-3.5,Monday,False
+29,2023-11-27,Place du Chateau,Marche du Chateau,2901,20.42,59238.42,Crafts & Gifts,15,Cloudy,-3.5,Monday,False
+30,2023-11-27,Place Benjamin Zix,Marche de la Petite France,3691,26.43,97553.13,Clothing & Accessories,15,Cloudy,-3.5,Monday,False
+31,2023-11-27,Place des Meuniers,Marche Gourmand,2725,22.47,61230.75,Decorations,14,Cloudy,-3.5,Monday,False
+32,2023-11-27,Place du Marche Gayot,Marche des Delices,3047,13.99,42627.53,Sweets & Bakery,13,Cloudy,-3.5,Monday,False
+33,2023-11-28,Place Broglie,Christkindelsmärik,4931,12.09,59615.79,Sweets & Bakery,35,Heavy Snow,3.2,Tuesday,False
+34,2023-11-28,Place de la Cathedrale,Village du Partage,6082,12.63,76815.66,Clothing & Accessories,22,Heavy Snow,3.2,Tuesday,False
+35,2023-11-28,Petite France,Marche OFF,1445,25.71,37150.95,Decorations,10,Heavy Snow,3.2,Tuesday,False
+36,2023-11-28,Place Gutenberg,Marche des Artisans,1877,27.92,52405.84,Sweets & Bakery,12,Heavy Snow,3.2,Tuesday,False
+37,2023-11-28,Place du Chateau,Marche du Chateau,1883,19.71,37113.93,Crafts & Gifts,11,Heavy Snow,3.2,Tuesday,False
+38,2023-11-28,Place Benjamin Zix,Marche de la Petite France,1450,14.33,20778.5,Mulled Wine & Beverages,11,Heavy Snow,3.2,Tuesday,False
+39,2023-11-28,Place des Meuniers,Marche Gourmand,1129,26.01,29365.29,Sweets & Bakery,15,Heavy Snow,3.2,Tuesday,False
+40,2023-11-28,Place du Marche Gayot,Marche des Delices,1413,14.65,20700.45,Sweets & Bakery,16,Heavy Snow,3.2,Tuesday,False
+41,2023-11-29,Place Broglie,Christkindelsmärik,9081,17.92,162731.52,Food & Drink,25,Sunny,3.7,Wednesday,False
+42,2023-11-29,Place de la Cathedrale,Village du Partage,11197,11.53,129101.41,Crafts & Gifts,14,Sunny,3.7,Wednesday,False
+43,2023-11-29,Petite France,Marche OFF,4710,17.46,82236.6,Food & Drink,11,Sunny,3.7,Wednesday,False
+44,2023-11-29,Place Gutenberg,Marche des Artisans,2857,17.66,50454.62,Decorations,11,Sunny,3.7,Wednesday,False
+45,2023-11-29,Place du Chateau,Marche du Chateau,3700,26.11,96607.0,Mulled Wine & Beverages,7,Sunny,3.7,Wednesday,False
+46,2023-11-29,Place Benjamin Zix,Marche de la Petite France,2702,11.11,30019.22,Decorations,13,Sunny,3.7,Wednesday,False
+47,2023-11-29,Place des Meuniers,Marche Gourmand,2672,15.57,41603.04,Mulled Wine & Beverages,14,Sunny,3.7,Wednesday,False
+48,2023-11-29,Place du Marche Gayot,Marche des Delices,3033,17.17,52076.61,Crafts & Gifts,6,Sunny,3.7,Wednesday,False
+49,2023-11-30,Place Broglie,Christkindelsmärik,8639,25.14,217184.46,Food & Drink,13,Cloudy,3.9,Thursday,False
+50,2023-11-30,Place de la Cathedrale,Village du Partage,8803,16.72,147186.16,Clothing & Accessories,20,Cloudy,3.9,Thursday,False
+51,2023-11-30,Petite France,Marche OFF,4432,18.04,79953.28,Decorations,7,Cloudy,3.9,Thursday,False
+52,2023-11-30,Place Gutenberg,Marche des Artisans,3360,17.57,59035.2,Decorations,17,Cloudy,3.9,Thursday,False
+53,2023-11-30,Place du Chateau,Marche du Chateau,3456,16.35,56505.6,Crafts & Gifts,7,Cloudy,3.9,Thursday,False
+54,2023-11-30,Place Benjamin Zix,Marche de la Petite France,2766,7.99,22100.34,Decorations,12,Cloudy,3.9,Thursday,False
+55,2023-11-30,Place des Meuniers,Marche Gourmand,3289,19.85,65286.65,Decorations,12,Cloudy,3.9,Thursday,False
+56,2023-11-30,Place du Marche Gayot,Marche des Delices,2333,23.72,55338.76,Clothing & Accessories,6,Cloudy,3.9,Thursday,False
+57,2023-12-01,Place Broglie,Christkindelsmärik,3929,21.22,83373.38,Crafts & Gifts,23,Heavy Snow,2.9,Friday,False
+58,2023-12-01,Place de la Cathedrale,Village du Partage,7215,12.62,91053.3,Decorations,9,Heavy Snow,2.9,Friday,False
+59,2023-12-01,Petite France,Marche OFF,2241,21.97,49234.77,Decorations,5,Heavy Snow,2.9,Friday,False
+60,2023-12-01,Place Gutenberg,Marche des Artisans,1779,17.9,31844.1,Mulled Wine & Beverages,11,Heavy Snow,2.9,Friday,False
+61,2023-12-01,Place du Chateau,Marche du Chateau,1633,20.08,32790.64,Sweets & Bakery,9,Heavy Snow,2.9,Friday,False
+62,2023-12-01,Place Benjamin Zix,Marche de la Petite France,1884,19.05,35890.2,Crafts & Gifts,15,Heavy Snow,2.9,Friday,False
+63,2023-12-01,Place des Meuniers,Marche Gourmand,1351,11.45,15468.95,Mulled Wine & Beverages,10,Heavy Snow,2.9,Friday,False
+64,2023-12-01,Place du Marche Gayot,Marche des Delices,988,22.21,21943.48,Sweets & Bakery,14,Heavy Snow,2.9,Friday,False
+65,2023-12-02,Place Broglie,Christkindelsmärik,13985,14.0,195790.0,Sweets & Bakery,19,Sunny,4.0,Saturday,True
+66,2023-12-02,Place de la Cathedrale,Village du Partage,22799,24.93,568379.07,Crafts & Gifts,9,Sunny,4.0,Saturday,True
+67,2023-12-02,Petite France,Marche OFF,8654,22.41,193936.14,Mulled Wine & Beverages,7,Sunny,4.0,Saturday,True
+68,2023-12-02,Place Gutenberg,Marche des Artisans,5113,17.41,89017.33,Clothing & Accessories,13,Sunny,4.0,Saturday,True
+69,2023-12-02,Place du Chateau,Marche du Chateau,6310,9.96,62847.6,Food & Drink,5,Sunny,4.0,Saturday,True
+70,2023-12-02,Place Benjamin Zix,Marche de la Petite France,6239,26.49,165271.11,Food & Drink,13,Sunny,4.0,Saturday,True
+71,2023-12-02,Place des Meuniers,Marche Gourmand,4941,20.91,103316.31,Decorations,13,Sunny,4.0,Saturday,True
+72,2023-12-02,Place du Marche Gayot,Marche des Delices,4068,8.5,34578.0,Decorations,16,Sunny,4.0,Saturday,True
+73,2023-12-03,Place Broglie,Christkindelsmärik,7842,18.13,142175.46,Food & Drink,34,Rainy,4.9,Sunday,True
+74,2023-12-03,Place de la Cathedrale,Village du Partage,11203,10.92,122336.76,Food & Drink,33,Rainy,4.9,Sunday,True
+75,2023-12-03,Petite France,Marche OFF,4397,15.86,69736.42,Sweets & Bakery,14,Rainy,4.9,Sunday,True
+76,2023-12-03,Place Gutenberg,Marche des Artisans,2356,15.96,37601.76,Food & Drink,11,Rainy,4.9,Sunday,True
+77,2023-12-03,Place du Chateau,Marche du Chateau,2074,19.0,39406.0,Sweets & Bakery,15,Rainy,4.9,Sunday,True
+78,2023-12-03,Place Benjamin Zix,Marche de la Petite France,3179,17.82,56649.78,Food & Drink,13,Rainy,4.9,Sunday,True
+79,2023-12-03,Place des Meuniers,Marche Gourmand,2428,22.97,55771.16,Crafts & Gifts,8,Rainy,4.9,Sunday,True
+80,2023-12-03,Place du Marche Gayot,Marche des Delices,3622,23.9,86565.8,Decorations,8,Rainy,4.9,Sunday,True
+81,2023-12-04,Place Broglie,Christkindelsmärik,3762,10.3,38748.6,Sweets & Bakery,8,Heavy Snow,5.5,Monday,False
+82,2023-12-04,Place de la Cathedrale,Village du Partage,5901,18.28,107870.28,Decorations,30,Heavy Snow,5.5,Monday,False
+83,2023-12-04,Petite France,Marche OFF,2559,17.33,44347.47,Clothing & Accessories,8,Heavy Snow,5.5,Monday,False
+84,2023-12-04,Place Gutenberg,Marche des Artisans,1521,20.29,30861.09,Crafts & Gifts,11,Heavy Snow,5.5,Monday,False
+85,2023-12-04,Place du Chateau,Marche du Chateau,1772,14.07,24932.04,Decorations,5,Heavy Snow,5.5,Monday,False
+86,2023-12-04,Place Benjamin Zix,Marche de la Petite France,1595,14.73,23494.35,Clothing & Accessories,13,Heavy Snow,5.5,Monday,False
+87,2023-12-04,Place des Meuniers,Marche Gourmand,1782,15.49,27603.18,Decorations,5,Heavy Snow,5.5,Monday,False
+88,2023-12-04,Place du Marche Gayot,Marche des Delices,1430,18.62,26626.6,Clothing & Accessories,15,Heavy Snow,5.5,Monday,False
+89,2023-12-05,Place Broglie,Christkindelsmärik,7843,21.66,169879.38,Decorations,26,Sunny,-1.7,Tuesday,False
+90,2023-12-05,Place de la Cathedrale,Village du Partage,8813,11.65,102671.45,Clothing & Accessories,8,Sunny,-1.7,Tuesday,False
+91,2023-12-05,Petite France,Marche OFF,3333,8.22,27397.26,Clothing & Accessories,9,Sunny,-1.7,Tuesday,False
+92,2023-12-05,Place Gutenberg,Marche des Artisans,3076,30.4,93510.4,Mulled Wine & Beverages,8,Sunny,-1.7,Tuesday,False
+93,2023-12-05,Place du Chateau,Marche du Chateau,2834,21.56,61101.04,Food & Drink,13,Sunny,-1.7,Tuesday,False
+94,2023-12-05,Place Benjamin Zix,Marche de la Petite France,4072,25.18,102532.96,Sweets & Bakery,17,Sunny,-1.7,Tuesday,False
+95,2023-12-05,Place des Meuniers,Marche Gourmand,2525,13.66,34491.5,Crafts & Gifts,16,Sunny,-1.7,Tuesday,False
+96,2023-12-05,Place du Marche Gayot,Marche des Delices,2704,17.31,46806.24,Decorations,14,Sunny,-1.7,Tuesday,False
+97,2023-12-06,Place Broglie,Christkindelsmärik,7923,23.6,186982.8,Mulled Wine & Beverages,20,Cloudy,6.0,Wednesday,False
+98,2023-12-06,Place de la Cathedrale,Village du Partage,10947,13.21,144609.87,Decorations,10,Cloudy,6.0,Wednesday,False
+99,2023-12-06,Petite France,Marche OFF,4910,20.56,100949.6,Food & Drink,13,Cloudy,6.0,Wednesday,False
+100,2023-12-06,Place Gutenberg,Marche des Artisans,1693,9.71,16439.03,Decorations,13,Cloudy,6.0,Wednesday,False
+101,2023-12-06,Place du Chateau,Marche du Chateau,2899,28.59,82882.41,Mulled Wine & Beverages,12,Cloudy,6.0,Wednesday,False
+102,2023-12-06,Place Benjamin Zix,Marche de la Petite France,2946,16.73,49286.58,Decorations,7,Cloudy,6.0,Wednesday,False
+103,2023-12-06,Place des Meuniers,Marche Gourmand,2759,10.8,29797.2,Decorations,11,Cloudy,6.0,Wednesday,False
+104,2023-12-06,Place du Marche Gayot,Marche des Delices,3038,19.36,58815.68,Food & Drink,5,Cloudy,6.0,Wednesday,False
+105,2023-12-07,Place Broglie,Christkindelsmärik,9728,15.08,146698.24,Food & Drink,13,Cloudy,-0.7,Thursday,False
+106,2023-12-07,Place de la Cathedrale,Village du Partage,14304,22.8,326131.2,Mulled Wine & Beverages,16,Cloudy,-0.7,Thursday,False
+107,2023-12-07,Petite France,Marche OFF,5613,16.72,93849.36,Food & Drink,18,Cloudy,-0.7,Thursday,False
+108,2023-12-07,Place Gutenberg,Marche des Artisans,3209,22.79,73133.11,Clothing & Accessories,9,Cloudy,-0.7,Thursday,False
+109,2023-12-07,Place du Chateau,Marche du Chateau,2826,18.88,53354.88,Decorations,5,Cloudy,-0.7,Thursday,False
+110,2023-12-07,Place Benjamin Zix,Marche de la Petite France,2362,22.48,53097.76,Food & Drink,15,Cloudy,-0.7,Thursday,False
+111,2023-12-07,Place des Meuniers,Marche Gourmand,2519,19.09,48087.71,Sweets & Bakery,15,Cloudy,-0.7,Thursday,False
+112,2023-12-07,Place du Marche Gayot,Marche des Delices,3018,22.36,67482.48,Decorations,11,Cloudy,-0.7,Thursday,False
+113,2023-12-08,Place Broglie,Christkindelsmärik,4067,11.96,48641.32,Sweets & Bakery,9,Heavy Snow,5.6,Friday,False
+114,2023-12-08,Place de la Cathedrale,Village du Partage,6127,19.9,121927.3,Sweets & Bakery,21,Heavy Snow,5.6,Friday,False
+115,2023-12-08,Petite France,Marche OFF,2015,23.96,48279.4,Decorations,11,Heavy Snow,5.6,Friday,False
+116,2023-12-08,Place Gutenberg,Marche des Artisans,1528,12.89,19695.92,Food & Drink,14,Heavy Snow,5.6,Friday,False
+117,2023-12-08,Place du Chateau,Marche du Chateau,1857,14.17,26313.69,Clothing & Accessories,9,Heavy Snow,5.6,Friday,False
+118,2023-12-08,Place Benjamin Zix,Marche de la Petite France,1211,5,6055,Food & Drink,7,Heavy Snow,5.6,Friday,False
+119,2023-12-08,Place des Meuniers,Marche Gourmand,1445,24.79,35821.55,Sweets & Bakery,5,Heavy Snow,5.6,Friday,False
+120,2023-12-08,Place du Marche Gayot,Marche des Delices,1663,20.69,34407.47,Crafts & Gifts,5,Heavy Snow,5.6,Friday,False
+121,2023-12-09,Place Broglie,Christkindelsmärik,15405,13.94,214745.7,Crafts & Gifts,24,Cloudy,4.6,Saturday,True
+122,2023-12-09,Place de la Cathedrale,Village du Partage,12620,6.83,86194.6,Sweets & Bakery,15,Cloudy,4.6,Saturday,True
+123,2023-12-09,Petite France,Marche OFF,7797,18.39,143386.83,Crafts & Gifts,6,Cloudy,4.6,Saturday,True
+124,2023-12-09,Place Gutenberg,Marche des Artisans,4023,19.54,78609.42,Sweets & Bakery,16,Cloudy,4.6,Saturday,True
+125,2023-12-09,Place du Chateau,Marche du Chateau,5277,17.26,91081.02,Decorations,7,Cloudy,4.6,Saturday,True
+126,2023-12-09,Place Benjamin Zix,Marche de la Petite France,5595,10.71,59922.45,Mulled Wine & Beverages,6,Cloudy,4.6,Saturday,True
+127,2023-12-09,Place des Meuniers,Marche Gourmand,4574,18.05,82560.7,Crafts & Gifts,18,Cloudy,4.6,Saturday,True
+128,2023-12-09,Place du Marche Gayot,Marche des Delices,4715,22.75,107266.25,Decorations,15,Cloudy,4.6,Saturday,True
+129,2023-12-10,Place Broglie,Christkindelsmärik,11937,18.04,215343.48,Food & Drink,26,Light Snow,2.7,Sunday,True
+130,2023-12-10,Place de la Cathedrale,Village du Partage,20177,16.25,327876.25,Crafts & Gifts,16,Light Snow,2.7,Sunday,True
+131,2023-12-10,Petite France,Marche OFF,10355,20.18,208963.9,Mulled Wine & Beverages,15,Light Snow,2.7,Sunday,True
+132,2023-12-10,Place Gutenberg,Marche des Artisans,5592,14.3,79965.6,Mulled Wine & Beverages,11,Light Snow,2.7,Sunday,True
+133,2023-12-10,Place du Chateau,Marche du Chateau,4472,10.48,46866.56,Decorations,5,Light Snow,2.7,Sunday,True
+134,2023-12-10,Place Benjamin Zix,Marche de la Petite France,4733,19.53,92435.49,Clothing & Accessories,12,Light Snow,2.7,Sunday,True
+135,2023-12-10,Place des Meuniers,Marche Gourmand,5783,11.53,66677.99,Mulled Wine & Beverages,5,Light Snow,2.7,Sunday,True
+136,2023-12-10,Place du Marche Gayot,Marche des Delices,4034,20.08,81002.72,Sweets & Bakery,7,Light Snow,2.7,Sunday,True
+137,2023-12-11,Place Broglie,Christkindelsmärik,9882,21.78,215229.96,Mulled Wine & Beverages,8,Cloudy,2.7,Monday,False
+138,2023-12-11,Place de la Cathedrale,Village du Partage,11765,25.23,296830.95,Mulled Wine & Beverages,35,Cloudy,2.7,Monday,False
+139,2023-12-11,Petite France,Marche OFF,5827,23.38,136235.26,Decorations,18,Cloudy,2.7,Monday,False
+140,2023-12-11,Place Gutenberg,Marche des Artisans,2785,14.8,41218.0,Crafts & Gifts,7,Cloudy,2.7,Monday,False
+141,2023-12-11,Place du Chateau,Marche du Chateau,3410,24.1,82181.0,Sweets & Bakery,6,Cloudy,2.7,Monday,False
+142,2023-12-11,Place Benjamin Zix,Marche de la Petite France,3395,24.79,84162.05,Mulled Wine & Beverages,9,Cloudy,2.7,Monday,False
+143,2023-12-11,Place des Meuniers,Marche Gourmand,2726,25.52,69567.52,Food & Drink,17,Cloudy,2.7,Monday,False
+144,2023-12-11,Place du Marche Gayot,Marche des Delices,3139,30.0,94170.0,Sweets & Bakery,18,Cloudy,2.7,Monday,False
+145,2023-12-12,Place Broglie,Christkindelsmärik,6027,17.19,103604.13,Mulled Wine & Beverages,9,Foggy,4.9,Tuesday,False
+146,2023-12-12,Place de la Cathedrale,Village du Partage,11328,17.65,199939.2,Mulled Wine & Beverages,17,Foggy,4.9,Tuesday,False
+147,2023-12-12,Petite France,Marche OFF,4034,15.34,61881.56,Clothing & Accessories,17,Foggy,4.9,Tuesday,False
+148,2023-12-12,Place Gutenberg,Marche des Artisans,1946,18.25,35514.5,Crafts & Gifts,14,Foggy,4.9,Tuesday,False
+149,2023-12-12,Place du Chateau,Marche du Chateau,2782,17.42,48462.44,Food & Drink,11,Foggy,4.9,Tuesday,False
+150,2023-12-12,Place Benjamin Zix,Marche de la Petite France,1923,15.75,30287.25,Crafts & Gifts,14,Foggy,4.9,Tuesday,False
+151,2023-12-12,Place des Meuniers,Marche Gourmand,1730,23.72,41035.6,Decorations,5,Foggy,4.9,Tuesday,False
+152,2023-12-12,Place du Marche Gayot,Marche des Delices,3115,22.2,69153.0,Sweets & Bakery,10,Foggy,4.9,Tuesday,False
+153,2023-12-13,Place Broglie,Christkindelsmärik,5186,24.52,127160.72,Clothing & Accessories,26,Sunny,3.2,Wednesday,False
+154,2023-12-13,Place de la Cathedrale,Village du Partage,9945,20.57,204568.65,Sweets & Bakery,27,Sunny,3.2,Wednesday,False
+155,2023-12-13,Petite France,Marche OFF,4182,22.53,94220.46,Sweets & Bakery,18,Sunny,3.2,Wednesday,False
+156,2023-12-13,Place Gutenberg,Marche des Artisans,2880,17.87,51465.6,Clothing & Accessories,5,Sunny,3.2,Wednesday,False
+157,2023-12-13,Place du Chateau,Marche du Chateau,3238,13.69,44328.22,Mulled Wine & Beverages,12,Sunny,3.2,Wednesday,False
+158,2023-12-13,Place Benjamin Zix,Marche de la Petite France,2993,9.15,27385.95,Clothing & Accessories,11,Sunny,3.2,Wednesday,False
+159,2023-12-13,Place des Meuniers,Marche Gourmand,2392,22.35,53461.2,Clothing & Accessories,16,Sunny,3.2,Wednesday,False
+160,2023-12-13,Place du Marche Gayot,Marche des Delices,3595,9.96,35806.2,Clothing & Accessories,6,Sunny,3.2,Wednesday,False
+161,2023-12-14,Place Broglie,Christkindelsmärik,4374,9.69,42384.06,Sweets & Bakery,30,Heavy Snow,3.5,Thursday,False
+162,2023-12-14,Place de la Cathedrale,Village du Partage,7031,32.62,229351.22,Food & Drink,27,Heavy Snow,3.5,Thursday,False
+163,2023-12-14,Petite France,Marche OFF,2756,24.86,68514.16,Sweets & Bakery,13,Heavy Snow,3.5,Thursday,False
+164,2023-12-14,Place Gutenberg,Marche des Artisans,1333,10.27,13689.91,Decorations,17,Heavy Snow,3.5,Thursday,False
+165,2023-12-14,Place du Chateau,Marche du Chateau,1623,22.98,37296.54,Food & Drink,6,Heavy Snow,3.5,Thursday,False
+166,2023-12-14,Place Benjamin Zix,Marche de la Petite France,1623,25.26,40996.98,Mulled Wine & Beverages,14,Heavy Snow,3.5,Thursday,False
+167,2023-12-14,Place des Meuniers,Marche Gourmand,1959,19.75,38690.25,Decorations,18,Heavy Snow,3.5,Thursday,False
+168,2023-12-14,Place du Marche Gayot,Marche des Delices,1661,23.72,39398.92,Decorations,6,Heavy Snow,3.5,Thursday,False
+169,2023-12-15,Place Broglie,Christkindelsmärik,10427,16.99,177154.73,Mulled Wine & Beverages,33,Sunny,2.8,Friday,False
+170,2023-12-15,Place de la Cathedrale,Village du Partage,13809,24.81,342601.29,Sweets & Bakery,20,Sunny,2.8,Friday,False
+171,2023-12-15,Petite France,Marche OFF,7112,13.75,97790.0,Crafts & Gifts,16,Sunny,2.8,Friday,False
+172,2023-12-15,Place Gutenberg,Marche des Artisans,3672,22.68,83280.96,Clothing & Accessories,11,Sunny,2.8,Friday,False
+173,2023-12-15,Place du Chateau,Marche du Chateau,4370,11.97,52308.9,Food & Drink,18,Sunny,2.8,Friday,False
+174,2023-12-15,Place Benjamin Zix,Marche de la Petite France,2589,20.38,52763.82,Crafts & Gifts,12,Sunny,2.8,Friday,False
+175,2023-12-15,Place des Meuniers,Marche Gourmand,2730,17.69,48293.7,Mulled Wine & Beverages,8,Sunny,2.8,Friday,False
+176,2023-12-15,Place du Marche Gayot,Marche des Delices,2980,16.0,47680.0,Mulled Wine & Beverages,6,Sunny,2.8,Friday,False
+177,2023-12-16,Place Broglie,Christkindelsmärik,10376,12.65,131256.4,Clothing & Accessories,31,Rainy,3.4,Saturday,True
+178,2023-12-16,Place de la Cathedrale,Village du Partage,11205,24.06,269592.3,Sweets & Bakery,14,Rainy,3.4,Saturday,True
+179,2023-12-16,Petite France,Marche OFF,5100,13.75,70125.0,Decorations,15,Rainy,3.4,Saturday,True
+180,2023-12-16,Place Gutenberg,Marche des Artisans,3548,22.49,79794.52,Crafts & Gifts,15,Rainy,3.4,Saturday,True
+181,2023-12-16,Place du Chateau,Marche du Chateau,3447,13.32,45914.04,Crafts & Gifts,9,Rainy,3.4,Saturday,True
+182,2023-12-16,Place Benjamin Zix,Marche de la Petite France,3610,23.65,85376.5,Decorations,11,Rainy,3.4,Saturday,True
+183,2023-12-16,Place des Meuniers,Marche Gourmand,4368,23.56,102910.08,Sweets & Bakery,17,Rainy,3.4,Saturday,True
+184,2023-12-16,Place du Marche Gayot,Marche des Delices,3527,17.08,60241.16,Food & Drink,15,Rainy,3.4,Saturday,True
+185,2023-12-17,Place Broglie,Christkindelsmärik,10235,18.13,185560.55,Decorations,15,Rainy,0.3,Sunday,True
+186,2023-12-17,Place de la Cathedrale,Village du Partage,15414,25.48,392748.72,Decorations,29,Rainy,0.3,Sunday,True
+187,2023-12-17,Petite France,Marche OFF,5859,23.23,136104.57,Crafts & Gifts,10,Rainy,0.3,Sunday,True
+188,2023-12-17,Place Gutenberg,Marche des Artisans,4244,17.03,72275.32,Mulled Wine & Beverages,14,Rainy,0.3,Sunday,True
+189,2023-12-17,Place du Chateau,Marche du Chateau,3792,18.9,71668.8,Sweets & Bakery,7,Rainy,0.3,Sunday,True
+190,2023-12-17,Place Benjamin Zix,Marche de la Petite France,3000,14.42,43260.0,Decorations,17,Rainy,0.3,Sunday,True
+191,2023-12-17,Place des Meuniers,Marche Gourmand,3800,21.39,81282.0,Sweets & Bakery,18,Rainy,0.3,Sunday,True
+192,2023-12-17,Place du Marche Gayot,Marche des Delices,3718,24.85,92392.3,Food & Drink,15,Rainy,0.3,Sunday,True
+193,2023-12-18,Place Broglie,Christkindelsmärik,9695,16.82,163069.9,Food & Drink,24,Foggy,6.3,Monday,False
+194,2023-12-18,Place de la Cathedrale,Village du Partage,10010,26.17,261961.7,Decorations,21,Foggy,6.3,Monday,False
+195,2023-12-18,Petite France,Marche OFF,3607,21.87,78885.09,Decorations,17,Foggy,6.3,Monday,False
+196,2023-12-18,Place Gutenberg,Marche des Artisans,3120,13.64,42556.8,Clothing & Accessories,13,Foggy,6.3,Monday,False
+197,2023-12-18,Place du Chateau,Marche du Chateau,2714,15.76,42772.64,Crafts & Gifts,12,Foggy,6.3,Monday,False
+198,2023-12-18,Place Benjamin Zix,Marche de la Petite France,3288,17.29,56849.52,Sweets & Bakery,8,Foggy,6.3,Monday,False
+199,2023-12-18,Place des Meuniers,Marche Gourmand,2884,15.84,45682.56,Sweets & Bakery,12,Foggy,6.3,Monday,False
+200,2023-12-18,Place du Marche Gayot,Marche des Delices,3819,21.66,82719.54,Crafts & Gifts,7,Foggy,6.3,Monday,False
+201,2023-12-19,Place Broglie,Christkindelsmärik,12193,5,60965,Food & Drink,22,Cloudy,0.9,Tuesday,False
+202,2023-12-19,Place de la Cathedrale,Village du Partage,12150,13.69,166333.5,Food & Drink,26,Cloudy,0.9,Tuesday,False
+203,2023-12-19,Petite France,Marche OFF,7749,15.39,119257.11,Sweets & Bakery,7,Cloudy,0.9,Tuesday,False
+204,2023-12-19,Place Gutenberg,Marche des Artisans,3619,14.29,51715.51,Decorations,17,Cloudy,0.9,Tuesday,False
+205,2023-12-19,Place du Chateau,Marche du Chateau,4445,21.68,96367.6,Mulled Wine & Beverages,6,Cloudy,0.9,Tuesday,False
+206,2023-12-19,Place Benjamin Zix,Marche de la Petite France,3702,24.08,89144.16,Mulled Wine & Beverages,6,Cloudy,0.9,Tuesday,False
+207,2023-12-19,Place des Meuniers,Marche Gourmand,4436,10.54,46755.44,Crafts & Gifts,10,Cloudy,0.9,Tuesday,False
+208,2023-12-19,Place du Marche Gayot,Marche des Delices,5022,18.38,92304.36,Clothing & Accessories,14,Cloudy,0.9,Tuesday,False
+209,2023-12-20,Place Broglie,Christkindelsmärik,13984,23.63,330441.92,Food & Drink,35,Sunny,4.5,Wednesday,False
+210,2023-12-20,Place de la Cathedrale,Village du Partage,18351,10.94,200759.94,Sweets & Bakery,10,Sunny,4.5,Wednesday,False
+211,2023-12-20,Petite France,Marche OFF,7292,12.57,91660.44,Crafts & Gifts,13,Sunny,4.5,Wednesday,False
+212,2023-12-20,Place Gutenberg,Marche des Artisans,3719,18.7,69545.3,Sweets & Bakery,6,Sunny,4.5,Wednesday,False
+213,2023-12-20,Place du Chateau,Marche du Chateau,3737,20.59,76944.83,Mulled Wine & Beverages,7,Sunny,4.5,Wednesday,False
+214,2023-12-20,Place Benjamin Zix,Marche de la Petite France,4534,17.66,80070.44,Sweets & Bakery,7,Sunny,4.5,Wednesday,False
+215,2023-12-20,Place des Meuniers,Marche Gourmand,4912,12.2,59926.4,Sweets & Bakery,16,Sunny,4.5,Wednesday,False
+216,2023-12-20,Place du Marche Gayot,Marche des Delices,5177,26.15,135378.55,Mulled Wine & Beverages,6,Sunny,4.5,Wednesday,False
+217,2023-12-21,Place Broglie,Christkindelsmärik,9013,29.34,264441.42,Sweets & Bakery,9,Foggy,-4.7,Thursday,False
+218,2023-12-21,Place de la Cathedrale,Village du Partage,13099,9.84,128894.16,Sweets & Bakery,35,Foggy,-4.7,Thursday,False
+219,2023-12-21,Petite France,Marche OFF,6373,23.48,149638.04,Food & Drink,17,Foggy,-4.7,Thursday,False
+220,2023-12-21,Place Gutenberg,Marche des Artisans,3324,15.39,51156.36,Sweets & Bakery,14,Foggy,-4.7,Thursday,False
+221,2023-12-21,Place du Chateau,Marche du Chateau,2923,18.08,52847.84,Mulled Wine & Beverages,11,Foggy,-4.7,Thursday,False
+222,2023-12-21,Place Benjamin Zix,Marche de la Petite France,3459,21.86,75613.74,Food & Drink,11,Foggy,-4.7,Thursday,False
+223,2023-12-21,Place des Meuniers,Marche Gourmand,3337,5.19,17319.03,Clothing & Accessories,5,Foggy,-4.7,Thursday,False
+224,2023-12-21,Place du Marche Gayot,Marche des Delices,3358,13.77,46239.66,Decorations,16,Foggy,-4.7,Thursday,False
+225,2023-12-22,Place Broglie,Christkindelsmärik,8835,17.37,153463.95,Sweets & Bakery,16,Sunny,2.2,Friday,False
+226,2023-12-22,Place de la Cathedrale,Village du Partage,16146,24.88,401712.48,Mulled Wine & Beverages,18,Sunny,2.2,Friday,False
+227,2023-12-22,Petite France,Marche OFF,6995,17.22,120453.9,Food & Drink,9,Sunny,2.2,Friday,False
+228,2023-12-22,Place Gutenberg,Marche des Artisans,4947,17.68,87462.96,Decorations,15,Sunny,2.2,Friday,False
+229,2023-12-22,Place du Chateau,Marche du Chateau,3532,20.02,70710.64,Food & Drink,10,Sunny,2.2,Friday,False
+230,2023-12-22,Place Benjamin Zix,Marche de la Petite France,4035,16.82,67868.7,Clothing & Accessories,18,Sunny,2.2,Friday,False
+231,2023-12-22,Place des Meuniers,Marche Gourmand,3016,12.09,36463.44,Sweets & Bakery,14,Sunny,2.2,Friday,False
+232,2023-12-22,Place du Marche Gayot,Marche des Delices,4782,19.85,94922.7,Clothing & Accessories,6,Sunny,2.2,Friday,False
+233,2023-12-23,Place Broglie,Christkindelsmärik,22578,19.54,441174.12,Sweets & Bakery,22,Cloudy,1.6,Saturday,True
+234,2023-12-23,Place de la Cathedrale,Village du Partage,26622,19.5,519129.0,Clothing & Accessories,35,Cloudy,1.6,Saturday,True
+235,2023-12-23,Petite France,Marche OFF,11898,17.63,209761.74,Clothing & Accessories,11,Cloudy,1.6,Saturday,True
+236,2023-12-23,Place Gutenberg,Marche des Artisans,6083,16.91,102863.53,Crafts & Gifts,6,Cloudy,1.6,Saturday,True
+237,2023-12-23,Place du Chateau,Marche du Chateau,7217,10.98,79242.66,Sweets & Bakery,15,Cloudy,1.6,Saturday,True
+238,2023-12-23,Place Benjamin Zix,Marche de la Petite France,6083,16.16,98301.28,Mulled Wine & Beverages,13,Cloudy,1.6,Saturday,True
+239,2023-12-23,Place des Meuniers,Marche Gourmand,7040,16.9,118976.0,Clothing & Accessories,18,Cloudy,1.6,Saturday,True
+240,2023-12-23,Place du Marche Gayot,Marche des Delices,5484,18.21,99863.64,Crafts & Gifts,14,Cloudy,1.6,Saturday,True
+241,2023-12-24,Place Broglie,Christkindelsmärik,14623,23.07,337352.61,Sweets & Bakery,32,Light Snow,4.9,Sunday,True
+242,2023-12-24,Place de la Cathedrale,Village du Partage,26439,27.33,722577.87,Food & Drink,18,Light Snow,4.9,Sunday,True
+243,2023-12-24,Petite France,Marche OFF,10919,15.82,172738.58,Sweets & Bakery,5,Light Snow,4.9,Sunday,True
+244,2023-12-24,Place Gutenberg,Marche des Artisans,6425,23.26,149445.5,Food & Drink,9,Light Snow,4.9,Sunday,True
+245,2023-12-24,Place du Chateau,Marche du Chateau,7228,12.62,91217.36,Mulled Wine & Beverages,17,Light Snow,4.9,Sunday,True
+246,2023-12-24,Place Benjamin Zix,Marche de la Petite France,9215,23.71,218487.65,Decorations,14,Light Snow,4.9,Sunday,True
+247,2023-12-24,Place des Meuniers,Marche Gourmand,6805,19.58,133241.9,Food & Drink,8,Light Snow,4.9,Sunday,True
+248,2023-12-24,Place du Marche Gayot,Marche des Delices,8036,23.24,186756.64,Clothing & Accessories,16,Light Snow,4.9,Sunday,True

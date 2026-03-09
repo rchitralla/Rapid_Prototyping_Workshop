@@ -19,9 +19,9 @@ Tell your LLM what you're building. Be specific.
 > I'm using [Streamlit / Loveable / both].
 
 **Example:**
-> I'm building a dashboard that helps analysts explore startup funding data.
-> The data has columns: company_name, industry, funding_stage, amount_usd, date, city, country.
-> The key features are: filter by industry and stage, show a funding timeline chart, display summary metrics.
+> I'm building a dashboard that helps wine enthusiasts explore Alsace wines.
+> The data has columns: grape_variety, village, producer, classification, vintage, price_eur, rating, organic.
+> The key features are: filter by grape variety and village, show a price vs rating scatter plot, display summary metrics.
 > I'm using Streamlit with Plotly.
 
 ### 2. Generate (10 min)

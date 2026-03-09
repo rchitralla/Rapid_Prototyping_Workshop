@@ -10,7 +10,7 @@ Using two complementary tools:
 - **[Streamlit](https://streamlit.io/)** — Python-native framework for building interactive data apps and dashboards with minimal code
 - **[Loveable](https://lovable.dev/)** — AI-powered no-code platform for rapid frontend prototyping and full-stack app generation
 
-You'll pick one of three example project briefs (or bring your own dataset/idea) and prototype it live.
+You'll pick one of three Strasbourg-themed project briefs and prototype it live.
 
 ## Workshop Timeline (2 Hours)
 
@@ -29,9 +29,9 @@ See [`guides/AGENDA.md`](guides/AGENDA.md) for the detailed facilitation guide.
 ```
 .
 ├── datasets/                  # Example datasets (CSV files)
-│   ├── startup_funding.csv
-│   ├── coffee_survey.csv
-│   └── city_bikes.csv
+│   ├── alsace_wines.csv
+│   ├── strasbourg_bikes.csv
+│   └── christmas_markets.csv
 ├── examples/
 │   ├── streamlit/             # Streamlit starter app + examples
 │   │   ├── app.py            # Starter template
@@ -93,25 +93,22 @@ Alternatively, you can use **Streamlit Community Cloud** to run the app directly
 
 ## Project Briefs
 
-Choose one of these three briefs, or bring your own dataset/idea.
+Choose one of these three Strasbourg-themed briefs.
 
-### Brief 1: Startup Funding Explorer
-> **Dataset:** `datasets/startup_funding.csv`
+### Brief 1: Alsace Wine Route Explorer
+> **Dataset:** `datasets/alsace_wines.csv` (~500 wines)
 >
-> Build a dashboard that lets users explore startup funding rounds — filter by industry, funding stage, and amount. Include summary stats and a chart showing trends over time.
+> Build a wine discovery dashboard for the Alsace wine route. Filter by grape variety (Riesling, Gewurztraminer, Pinot Gris, etc.), village, producer, classification, and price range. Compare ratings across vintages and producers. Everyone in Strasbourg has an opinion about wine — now you can visualize it.
 
-### Brief 2: Coffee Preferences Survey
-> **Dataset:** `datasets/coffee_survey.csv`
+### Brief 2: Strasbourg Bike Share Analysis
+> **Dataset:** `datasets/strasbourg_bikes.csv` (~1,400 records)
 >
-> Create an interactive survey results viewer. Let users filter by demographics, show preference breakdowns, and visualize the most popular coffee types and brewing methods.
+> Analyze usage patterns from Strasbourg's bike-sharing system (modeled on Velhop). Explore pickups and returns by station, neighborhood, time of day, weather, and day of week. Find peak commute hours, weather effects on ridership, and the busiest neighborhoods. Very local, very visual.
 
-### Brief 3: City Bike-Share Analytics
-> **Dataset:** `datasets/city_bikes.csv`
+### Brief 3: Christmas Market Visitor Trends
+> **Dataset:** `datasets/christmas_markets.csv` (~250 records)
 >
-> Prototype a tool that analyzes bike-share trip data — show popular routes, peak usage times, and trip duration distributions. Bonus: add a map view.
-
-### Bring Your Own
-Have a dataset or project idea? Bring it! Just make sure your data is in CSV format and you can describe what you want to build in 2-3 sentences.
+> Explore visitor trends across Strasbourg's famous Christmas markets — Place Broglie, Cathédrale, Petite France, and more. Analyze daily visitor counts, spending estimates, weather effects, and vendor categories across the market season. Seasonal, fun, and unmistakably Strasbourg.
 
 ## Language
 

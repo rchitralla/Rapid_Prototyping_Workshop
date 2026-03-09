@@ -16,7 +16,7 @@
 **0:05–0:10 — Form Groups**
 - Groups of 2-4 people
 - Mix of skill levels is ideal
-- Each group picks a brief (or brings their own)
+- Each group picks one of the three Strasbourg-themed briefs
 
 **0:10–0:15 — Verify Setup**
 - Confirm everyone has: GitHub, LLM access, Loveable account, Streamlit account
