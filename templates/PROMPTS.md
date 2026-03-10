@@ -27,7 +27,7 @@ Use pandas and plotly.express. Keep the code clean and well-organized.
 
 ---
 
-## Starting a Loveable Project
+## Starting a Lovable Project
 
 ```
 Build a web-based data dashboard with the following specifications:
@@ -120,7 +120,7 @@ Return the code as a Streamlit-compatible snippet using st.plotly_chart().
 
 ---
 
-## Wireframe to Loveable Prompt
+## Wireframe to Lovable Prompt
 
 ```
 I have this wireframe sketch of a dashboard:
@@ -131,7 +131,7 @@ I have this wireframe sketch of a dashboard:
 - Center: [main content area]
 - Bottom: [footer/table area]
 
-Convert this into a detailed Loveable prompt that will generate
+Convert this into a detailed Lovable prompt that will generate
 a matching web app. Include specific instructions for:
 - Layout and spacing
 - Colors and typography

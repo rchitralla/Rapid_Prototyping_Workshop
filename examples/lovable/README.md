@@ -1,17 +1,17 @@
-# Loveable Step-by-Step Guide
+# Lovable Step-by-Step Guide
 
-A complete guide to building your prototype with Loveable during the workshop.
+A complete guide to building your prototype with Lovable during the workshop.
 
-## What is Loveable?
+## What is Lovable?
 
-Loveable is an AI-powered platform that generates full-stack web applications from natural language descriptions. You describe what you want — Loveable builds the frontend, connects data, and deploys it. No coding required.
+Lovable is an AI-powered platform that generates full-stack web applications from natural language descriptions. You describe what you want — Lovable builds the frontend, connects data, and deploys it. No coding required.
 
 ## Quick Start
 
 1. Go to [lovable.dev](https://lovable.dev/) and sign in with GitHub
 2. Click **New Project**
 3. Describe your app in the prompt box
-4. Loveable generates a working app you can customize
+4. Lovable generates a working app you can customize
 
 ## Step 1: Write Your Initial Prompt
 
@@ -52,7 +52,7 @@ The quality of your prompt determines the quality of your prototype. Be specific
 
 ## Step 2: Refine with Follow-Up Prompts
 
-After Loveable generates the first version, iterate:
+After Lovable generates the first version, iterate:
 
 - "Move the filters to the left sidebar"
 - "Make the chart colors consistent across all visualizations"
@@ -62,23 +62,23 @@ After Loveable generates the first version, iterate:
 
 ## Step 3: Connect Your Data
 
-You can add data to Loveable in several ways:
+You can add data to Lovable in several ways:
 
 ### Option A: Paste CSV Data Directly
 > "Replace the sample data with this CSV data: [paste your CSV]"
 
 ### Option B: Use Supabase (Built-in)
-Loveable has built-in Supabase integration for persistent data:
-1. Click the **Supabase** icon in the Loveable editor
-2. Connect your Supabase project (or let Loveable create one)
-3. Ask Loveable: "Store the data in Supabase and fetch it on load"
+Lovable has built-in Supabase integration for persistent data:
+1. Click the **Supabase** icon in the Lovable editor
+2. Connect your Supabase project (or let Lovable create one)
+3. Ask Lovable: "Store the data in Supabase and fetch it on load"
 
 ### Option C: Static JSON
 > "Use this data as the app's dataset: [paste JSON array]"
 
 ## Step 4: Customize the Design
 
-Prompt Loveable to adjust the look:
+Prompt Lovable to adjust the look:
 
 - "Use a dark theme with neon accents"
 - "Make it look like a professional analytics dashboard"
@@ -87,7 +87,7 @@ Prompt Loveable to adjust the look:
 
 ## Step 5: Publish
 
-1. Click **Share** in the top-right of the Loveable editor
+1. Click **Share** in the top-right of the Lovable editor
 2. Toggle the **Public** switch
 3. Copy the shareable URL
 4. (Optional) Connect a custom domain
@@ -97,14 +97,14 @@ Prompt Loveable to adjust the look:
 | Do | Don't |
 |----|-------|
 | Describe layout and structure | Ask for vague "make it better" |
-| Specify color schemes and themes | Assume Loveable knows your preferences |
+| Specify color schemes and themes | Assume Lovable knows your preferences |
 | Iterate one change at a time | Ask for 10 changes in one prompt |
 | Reference specific components | Use jargon without context |
 | Paste real data early | Wait until the end to add data |
 
-## Loveable + Streamlit: When to Use Which
+## Lovable + Streamlit: When to Use Which
 
-| Scenario | Use Loveable | Use Streamlit |
+| Scenario | Use Lovable | Use Streamlit |
 |----------|-------------|---------------|
 | Quick visual prototype | Yes | — |
 | Data-heavy analytics | — | Yes |
@@ -114,9 +114,9 @@ Prompt Loveable to adjust the look:
 | Complex data transformations | — | Yes |
 | Rapid iteration on design | Yes | — |
 
-**Workshop tip:** Start with Loveable to prototype the UI/UX, then switch to Streamlit if you need more data processing power. Or use both — Loveable for the frontend concept, Streamlit for the functional prototype.
+**Workshop tip:** Start with Lovable to prototype the UI/UX, then switch to Streamlit if you need more data processing power. Or use both — Lovable for the frontend concept, Streamlit for the functional prototype.
 
 ## Reference
 
-- [Loveable Documentation](https://docs.lovable.dev/)
-- [Loveable YouTube Tutorials](https://www.youtube.com/@lovabledev)
+- [Lovable Documentation](https://docs.lovable.dev/)
+- [Lovable YouTube Tutorials](https://www.youtube.com/@lovabledev)

@@ -16,7 +16,7 @@ Tell your LLM what you're building. Be specific.
 > I'm building a [type of app] that helps [who] do [what].
 > The data has these columns: [list columns].
 > The key features are: [list 2-3 features].
-> I'm using [Streamlit / Loveable / both].
+> I'm using [Streamlit / Lovable / both].
 
 **Example:**
 > I'm building a dashboard that helps wine enthusiasts explore Alsace wines.
@@ -31,8 +31,8 @@ Ask your LLM to generate the first version.
 **For Streamlit:**
 > Generate a complete Streamlit app with the features I described. Use pandas for data handling and plotly.express for charts. Include sidebar filters and a clean layout.
 
-**For Loveable:**
-> Write me a detailed prompt I can paste into Loveable to generate this app. Include layout, color scheme, and data structure details.
+**For Lovable:**
+> Write me a detailed prompt I can paste into Lovable to generate this app. Include layout, color scheme, and data structure details.
 
 ### 3. Iterate (20 min)
 
