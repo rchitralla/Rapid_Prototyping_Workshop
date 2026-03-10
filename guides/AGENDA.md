@@ -11,7 +11,7 @@
 **0:00–0:05 — Welcome & Intro**
 - What we're building today
 - What rapid prototyping is (and isn't)
-- Introduce the two tools: Streamlit (Python data apps) and Loveable (AI-powered no-code)
+- Introduce the two tools: Streamlit (Python data apps) and Lovable (AI-powered no-code)
 
 **0:05–0:10 — Form Groups**
 - Groups of 2-4 people
@@ -19,7 +19,7 @@
 - Each group picks one of the three Strasbourg-themed briefs
 
 **0:10–0:15 — Verify Setup**
-- Confirm everyone has: GitHub, LLM access, Loveable account, Streamlit account
+- Confirm everyone has: GitHub, LLM access, Lovable account, Streamlit account
 - Quick troubleshooting for anyone stuck on setup
 - Clone the repo if not done yet
 
@@ -54,17 +54,17 @@ Groups work at their own pace. Suggested approach:
 5. Add a metrics row
 6. Use your LLM to generate code for anything you're stuck on
 
-**If using Loveable:**
-1. Open Loveable and create a new project
-2. Write your initial prompt (see `examples/loveable/README.md` for examples)
+**If using Lovable:**
+1. Open Lovable and create a new project
+2. Write your initial prompt (see `examples/lovable/README.md` for examples)
 3. Iterate with follow-up prompts
 4. Add your real data
 5. Customize the design
 
 **If using both:**
-1. Start with Loveable for the visual concept (10 min)
+1. Start with Lovable for the visual concept (10 min)
 2. Switch to Streamlit for the functional prototype (35 min)
-3. Use the Loveable design as a reference for layout
+3. Use the Lovable design as a reference for layout
 
 **Facilitator notes:**
 - Walk around and check on groups every 5-10 min
@@ -83,7 +83,7 @@ Groups work at their own pace. Suggested approach:
 **1:30–1:40 — Prepare for Demo**
 - Clean up the UI
 - Add a title and descriptions
-- Deploy to Streamlit Cloud or get a Loveable share link
+- Deploy to Streamlit Cloud or get a Lovable share link
 - Prepare a 2-minute walkthrough
 
 ---
@@ -101,7 +101,7 @@ Groups work at their own pace. Suggested approach:
 
 After the workshop, participants should have:
 
-- [ ] A working prototype (Streamlit app and/or Loveable project)
+- [ ] A working prototype (Streamlit app and/or Lovable project)
 - [ ] Code committed to their GitHub repo
 - [ ] A repeatable workflow for AI-assisted prototyping
 - [ ] Links to all resources for continued learning

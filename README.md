@@ -1,4 +1,4 @@
-# Rapid Prototyping for Data Projects with AI, Loveable & Streamlit
+# Rapid Prototyping for Data Projects with AI, Lovable & Streamlit
 
 A hands-on workshop where you'll build a working prototype of a data-driven app or dashboard in small groups — going from idea to implementation in a single session.
 
@@ -8,7 +8,7 @@ You'll leave with a **working prototype** and a **repeatable workflow** for AI-a
 
 Using two complementary tools:
 - **[Streamlit](https://streamlit.io/)** — Python-native framework for building interactive data apps and dashboards with minimal code
-- **[Loveable](https://lovable.dev/)** — AI-powered no-code platform for rapid frontend prototyping and full-stack app generation
+- **[Lovable](https://lovable.dev/)** — AI-powered no-code platform for rapid frontend prototyping and full-stack app generation
 
 You'll pick one of three Strasbourg-themed project briefs and prototype it live.
 
@@ -18,7 +18,7 @@ You'll pick one of three Strasbourg-themed project briefs and prototype it live.
 |------|-------|-------------|
 | 0:00–0:15 | **Setup & Kickoff** | Intro, form groups, pick a brief |
 | 0:15–0:30 | **Ideation** | Define your prototype scope using AI prompts |
-| 0:30–1:15 | **Build Sprint** | Hands-on prototyping with Streamlit and/or Loveable |
+| 0:30–1:15 | **Build Sprint** | Hands-on prototyping with Streamlit and/or Lovable |
 | 1:15–1:40 | **Polish & Iterate** | Refine your prototype, add interactivity |
 | 1:40–2:00 | **Show & Tell** | Groups demo their prototypes |
 
@@ -37,8 +37,8 @@ See [`guides/AGENDA.md`](guides/AGENDA.md) for the detailed facilitation guide.
 │   │   ├── app.py            # Starter template
 │   │   ├── requirements.txt
 │   │   └── README.md         # Step-by-step Streamlit guide
-│   └── loveable/              # Loveable prompts + workflow
-│       └── README.md         # Step-by-step Loveable guide
+│   └── lovable/              # Lovable prompts + workflow
+│       └── README.md         # Step-by-step Lovable guide
 ├── guides/
 │   └── AGENDA.md             # Workshop agenda & facilitation notes
 ├── resources/
@@ -60,7 +60,7 @@ Please complete these steps **before** the workshop so we can jump straight into
    - [ChatGPT](https://chat.openai.com/) (free tier)
    - [Claude](https://claude.ai/) (free tier)
    - [Gemini](https://gemini.google.com/) (free tier)
-4. **Loveable account** — [Sign up with GitHub](https://lovable.dev/) (free tier available)
+4. **Lovable account** — [Sign up with GitHub](https://lovable.dev/) (free tier available)
 5. **Streamlit account** — [Sign up with GitHub](https://streamlit.io/) (free tier available)
 
 ### For Streamlit (recommended)
@@ -120,7 +120,7 @@ The workshop will be held in **English**. Small groups are free to collaborate i
 - [`resources/AI_WORKFLOW.md`](resources/AI_WORKFLOW.md) — AI-assisted prototyping workflow
 - [`templates/PROMPTS.md`](templates/PROMPTS.md) — Reusable prompt templates
 - [`examples/streamlit/README.md`](examples/streamlit/README.md) — Streamlit step-by-step guide
-- [`examples/loveable/README.md`](examples/loveable/README.md) — Loveable step-by-step guide
+- [`examples/lovable/README.md`](examples/lovable/README.md) — Lovable step-by-step guide
 
 ## About
 
