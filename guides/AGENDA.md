@@ -6,43 +6,39 @@
 
 ---
 
-## Phase 1: Setup & Kickoff (15 min)
+## Phase 1: Intro + Setup (10 min)
 
 **0:00–0:05 — Welcome & Intro**
 - What we're building today
 - What rapid prototyping is (and isn't)
 - Introduce the two tools: Streamlit (Python data apps) and Lovable (AI-powered no-code)
 
-**0:05–0:10 — Form Groups**
+**0:05–0:10 — Form Groups & Pick a Brief**
 - Groups of 2-4 people
 - Mix of skill levels is ideal
 - Each group picks one of the three Strasbourg-themed briefs
-
-**0:10–0:15 — Verify Setup**
 - Confirm everyone has: GitHub, LLM access, Lovable account, Streamlit account
-- Quick troubleshooting for anyone stuck on setup
-- Clone the repo if not done yet
 
 ---
 
-## Phase 2: Ideation (15 min)
+## Phase 2: Ideation (25 min)
 
-**0:15–0:25 — Define Your Prototype**
+**0:10–0:20 — Define Your Prototype**
 - Read through the project brief
 - Discuss as a group: What's the core feature?
 - Use the AI Workflow (`resources/AI_WORKFLOW.md`) to brainstorm with your LLM
 - Sketch a rough wireframe (paper, Excalidraw, or whiteboard)
 
-**0:25–0:30 — Scope Check**
+**0:20–0:35 — Wireframe Your Prototype**
 - Each group shares their plan in 30 seconds
 - Facilitator helps scope down if too ambitious
-- Rule of thumb: 3 features max for a 45-minute build sprint
+- Rule of thumb: 3 features max for the build sprint
 
 ---
 
-## Phase 3: Build Sprint (45 min)
+## Phase 3: Build Sprint (65 min)
 
-**0:30–1:15 — Hands-on Building**
+**0:35–1:40 — Hands-on Building**
 
 Groups work at their own pace. Suggested approach:
 
@@ -74,23 +70,9 @@ Groups work at their own pace. Suggested approach:
 
 ---
 
-## Phase 4: Polish & Iterate (25 min)
+## Phase 4: Group Demos (20 min)
 
-**1:15–1:30 — Add a Second Feature**
-- If the core feature works, add one more
-- Suggestions: download button, second chart, color theme, mobile layout
-
-**1:30–1:40 — Prepare for Demo**
-- Clean up the UI
-- Add a title and descriptions
-- Deploy to Streamlit Cloud or get a Lovable share link
-- Prepare a 2-minute walkthrough
-
----
-
-## Phase 5: Show & Tell (20 min)
-
-**1:40–2:00 — Group Demos**
+**1:40–2:00 — Show What You Built**
 - Each group gets 2-3 minutes
 - Show: what you built, what tools you used, one thing you learned
 - Audience feedback: one thing that works well, one suggestion
