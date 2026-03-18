@@ -12,15 +12,14 @@ Using two complementary tools:
 
 You'll pick one of three Strasbourg-themed project briefs and prototype it live.
 
-## Workshop Timeline (18:30–20:30)
+## Workshop Timeline (18:40–20:40)
 
 | Time | Phase | What Happens |
 |------|-------|-------------|
-| 18:30–18:40 | **Setup & Kickoff** | Intro, form groups, pick a brief |
-| 18:40–18:55 | **Ideation & Wireframing** | Define your prototype scope, sketch your approach |
-| 18:55–20:00 | **Build Sprint** | Hands-on prototyping with Streamlit and/or Lovable |
-| 20:00–20:20 | **Show & Tell** | Groups demo their prototypes |
-| 20:20–20:30 | **Wrap-up** | Key takeaways, resources, Q&A |
+| 18:40–18:50 | **Intro + Setup** | Form groups, pick a brief |
+| 18:50–19:15 | **Ideation** | Wireframe your prototype |
+| 19:15–20:20 | **Build Sprint** | 65 minutes of building |
+| 20:20–20:40 | **Group Demos** | Show what you built |
 
 See [`guides/AGENDA.md`](guides/AGENDA.md) for the detailed facilitation guide.
 
